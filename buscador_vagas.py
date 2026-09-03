@@ -3,7 +3,7 @@ import json
 import re
 from datetime import datetime
 
-# Lista de stacks/tecnologias baseada na planilha dos alunos
+# Stacks principais configuradas para busca
 STACKS = [
     # Fullstack & Backend JavaScript / TypeScript
     "Node.js", "TypeScript", "NestJS", "Express",
@@ -17,15 +17,16 @@ STACKS = [
     "Docker", "AWS", "Kubernetes"
 ]
 
-# Palavras-chave estritamente LATAM / Brasil
-EXPLICIT_LATAM_KEYWORDS = [
-    "latam", "latin america", "brazil", "brasil", "south america"
+# Palavras que indicam contratacao na América Latina (inclui Worldwide/Global)
+VALID_LOCATION_KEYWORDS = [
+    "latam", "latin america", "brazil", "brasil", "south america", 
+    "worldwide", "anywhere in the world", "global"
 ]
 
-def strict_latam_check(text):
-    """Verifica obrigatoriamente se o texto menciona LATAM/Brasil"""
+def is_valid_location(text):
+    """Valida se a vaga atende aos critérios de contratação LATAM/Worldwide"""
     text_lower = text.lower()
-    return any(kw in text_lower for kw in EXPLICIT_LATAM_KEYWORDS)
+    return any(kw in text_lower for kw in VALID_LOCATION_KEYWORDS)
 
 def fetch_jobicy():
     jobs = []
@@ -40,8 +41,7 @@ def fetch_jobicy():
                 title = item.get("jobTitle", "")
                 full_text = f"{geo} {desc} {title}"
                 
-                # Só considera se houver menção explícita a LATAM
-                if strict_latam_check(full_text):
+                if is_valid_location(full_text):
                     jobs.append({
                         "title": title,
                         "url": item.get("url"),
@@ -62,10 +62,10 @@ def fetch_arbeitnow():
                 if item.get("remote", False):
                     desc = item.get("description", "")
                     title = item.get("title", "")
-                    full_text = f"{desc} {title} {item.get('location', '')}"
+                    location = item.get("location", "")
+                    full_text = f"{desc} {title} {location}"
                     
-                    # Só considera se houver menção explícita a LATAM
-                    if strict_latam_check(full_text):
+                    if is_valid_location(full_text):
                         jobs.append({
                             "title": title,
                             "url": item.get("url"),
@@ -76,7 +76,7 @@ def fetch_arbeitnow():
     return jobs
 
 def main():
-    print("Buscando vagas com validação estrita de LATAM...")
+    print("Iniciando busca de vagas remotas para LATAM...")
     
     all_jobs = []
     all_jobs.extend(fetch_jobicy())
@@ -100,7 +100,7 @@ def main():
 
     today_str = datetime.now().strftime("%d/%m/%Y")
     
-    # Formatação conforme modelo do print
+    # Formatação no padrão do WhatsApp/Telegram
     md_content = f"**Hello Guys!**\n"
     md_content += f"Segue nossa lista de vagas de hoje! ({today_str})\n\n"
     
@@ -116,12 +116,12 @@ def main():
             md_content += f"{job['url']}\n\n"
 
     if total_found == 0:
-        md_content += "Nenhuma vaga estritamente LATAM encontrada nas APIs hoje.\n"
+        md_content += "Nenhuma vaga correspondente encontrada hoje.\n"
 
     with open("VAGAS_DO_DIA.md", "w", encoding="utf-8") as f:
         f.write(md_content)
 
-    print(f"Finalizado! {total_found} vagas estritamente LATAM encontradas.")
+    print(f"Processo concluído! Total de {total_found} vagas organizadas.")
 
 if __name__ == "__main__":
     main()
