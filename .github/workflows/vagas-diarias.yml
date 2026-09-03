@@ -6,16 +6,19 @@ on:
     - cron: '0 9 * * *'
   workflow_dispatch: # Permite rodar manualmente a qualquer momento
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout do repositorio
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Configurar Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.10'
 
@@ -29,8 +32,8 @@ jobs:
 
     - name: Salvar relatorio no repositorio
       run: |
-        git config --global user.name "Bot Buscador de Vagas"
-        git config --global user.email "bot@github.com"
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add VAGAS_DO_DIA.md
-        git commit -m "Auto-update: Vagas do dia $(date +'%d/%m/%Y')" || exit 0
+        git diff --staged --quiet || git commit -m "Auto-update: Vagas do dia $(date +'%d/%m/%Y')"
         git push
