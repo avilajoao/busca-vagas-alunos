@@ -1,82 +1,63 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (03/09/2026)
+Segue nossa lista de vagas de hoje! (04/09/2026)
 
 --- NODE.JS ---
+
+**Backend Engineer - Platform - Stacks | Sweden | Remote**
+https://jobicy.com/jobs/152495-backend-engineer-platform-stacks-sweden-remote
+
+**Backend Engineer - Platform - Stacks | Spain | Remote**
+https://jobicy.com/jobs/152490-backend-engineer-platform-stacks-spain-remote
 
 **Software Engineer**
 https://www.arbeitnow.co.uk/jobs/companies/thrivecart/software-engineer-london-322848
 
 --- TYPESCRIPT ---
 
-**Senior Quality Assurance Engineer (Personify team)**
-https://jobicy.com/jobs/152406-senior-quality-assurance-engineer-personify-team
+**Senior Software Engineer - MAAS**
+https://jobicy.com/jobs/150127-senior-software-engineer-maas
 
-**Web Automation Test Engineer**
-https://jobicy.com/jobs/152405-web-automation-test-engineer
+**Backend Engineer - Platform - Stacks | Sweden | Remote**
+https://jobicy.com/jobs/152495-backend-engineer-platform-stacks-sweden-remote
 
-**Staff Quality Engineer**
-https://jobicy.com/jobs/152402-staff-quality-engineer
+**Backend Engineer - Platform - Stacks | Spain | Remote**
+https://jobicy.com/jobs/152490-backend-engineer-platform-stacks-spain-remote
 
 **Software Engineer**
 https://www.arbeitnow.co.uk/jobs/companies/thrivecart/software-engineer-london-322848
 
 --- EXPRESS ---
 
-**Web Automation Test Engineer**
-https://jobicy.com/jobs/152405-web-automation-test-engineer
+**Senior Hypervisor Engineer**
+https://jobicy.com/jobs/150137-senior-hypervisor-engineer
 
-**QA Tester (Future Roles)**
-https://jobicy.com/jobs/152401-qa-tester-future-roles
+**Field Technical Lead – Data Center Deployments**
+https://jobicy.com/jobs/150136-field-technical-lead-data-center-deployments
 
-**Senior SDET**
-https://jobicy.com/jobs/152400-senior-sdet
+**Senior Platform Engineer**
+https://jobicy.com/jobs/150132-senior-platform-engineer-2
 
-**Customer Support Associate**
-https://jobicy.com/jobs/151883-customer-support-associate
+**Software Engineer in Network Infrastructure**
+https://jobicy.com/jobs/150131-software-engineer-in-network-infrastructure
 
 --- REACT ---
 
-**Staff Quality Engineer**
-https://jobicy.com/jobs/152402-staff-quality-engineer
-
-**Senior Customer Support Engineer**
-https://jobicy.com/jobs/150101-senior-customer-support-engineer
-
-**Engineering Manager, Growth**
-https://jobicy.com/jobs/152396-engineering-manager-growth
-
---- NEXT.JS ---
-
-**Senior Customer Support Engineer**
-https://jobicy.com/jobs/150101-senior-customer-support-engineer
-
---- JAVA ---
-
-**Senior QA Automation Engineer (Platform)**
-https://jobicy.com/jobs/152407-senior-qa-automation-engineer-platform
-
-**Staff Quality Engineer**
-https://jobicy.com/jobs/152402-staff-quality-engineer
-
-**Senior SDET**
-https://jobicy.com/jobs/152400-senior-sdet
-
-**Sales Engineer**
-https://jobicy.com/jobs/152389-sales-engineer-5
+**Senior Software Engineer - MAAS**
+https://jobicy.com/jobs/150127-senior-software-engineer-maas
 
 --- PYTHON ---
 
-**Senior QA Automation Engineer (Platform)**
-https://jobicy.com/jobs/152407-senior-qa-automation-engineer-platform
+**Data Analyst, Clinical Data Effectiveness**
+https://jobicy.com/jobs/150923-data-analyst-clinical-data-effectiveness
 
-**Web Automation Test Engineer**
-https://jobicy.com/jobs/152405-web-automation-test-engineer
+**Senior Software Engineer - MAAS**
+https://jobicy.com/jobs/150127-senior-software-engineer-maas
 
-**Staff Quality Engineer**
-https://jobicy.com/jobs/152402-staff-quality-engineer
+**C, Golang Software Engineer working on dqlite, a Raft extension for SQLite**
+https://jobicy.com/jobs/150128-c-golang-software-engineer-working-on-dqlite-a-raft-extension-for-sqlite
 
-**Framework Software Engineer**
-https://jobicy.com/jobs/152395-framework-software-engineer
+**Engineering Manager - Python and K8s**
+https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s
 
 --- PHP ---
 
@@ -90,59 +71,59 @@ https://www.arbeitnow.co.uk/jobs/companies/thrivecart/software-engineer-london-3
 
 --- GO ---
 
-**Global Project Manager**
-https://jobicy.com/jobs/152418-global-project-manager
+**Data Analyst, Clinical Data Effectiveness**
+https://jobicy.com/jobs/150923-data-analyst-clinical-data-effectiveness
 
-**Enterprise Sales Engineer**
-https://jobicy.com/jobs/152417-enterprise-sales-engineer-2
+**Customer Engineer - Jylland, Denmark**
+https://jobicy.com/jobs/150210-customer-engineer-jylland-denmark
 
-**Account Manager - SMB Sales**
-https://jobicy.com/jobs/152415-account-manager-smb-sales
+**Clinical Provider (Broome - Australia)**
+https://jobicy.com/jobs/150146-clinical-provider-broome-australia
 
-**Automation Sales Manager**
-https://jobicy.com/jobs/152414-automation-sales-manager
+**Senior Software Engineer - MAAS**
+https://jobicy.com/jobs/150127-senior-software-engineer-maas
 
---- RUBY ON RAILS ---
+--- POSTGRESQL ---
 
-**Engineering Manager, Growth**
-https://jobicy.com/jobs/152396-engineering-manager-growth
+**Senior Software Engineer (Backend)**
+https://jobicy.com/jobs/150125-senior-software-engineer-backend
 
 --- DOCKER ---
 
-**Senior QA Automation Engineer (Platform)**
-https://jobicy.com/jobs/152407-senior-qa-automation-engineer-platform
+**Engineering Manager - Python and K8s**
+https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s
 
-**Senior Quality Assurance Engineer (Personify team)**
-https://jobicy.com/jobs/152406-senior-quality-assurance-engineer-personify-team
+**Senior Web Engineer**
+https://jobicy.com/jobs/150123-senior-web-engineer
 
-**Web Automation Test Engineer**
-https://jobicy.com/jobs/152405-web-automation-test-engineer
-
-**Sales Engineer**
-https://jobicy.com/jobs/152389-sales-engineer-5
+**Software Engineer**
+https://www.arbeitnow.co.uk/jobs/companies/thrivecart/software-engineer-london-322848
 
 --- AWS ---
 
-**Senior QA Automation Engineer (Platform)**
-https://jobicy.com/jobs/152407-senior-qa-automation-engineer-platform
+**Senior Platform Engineer**
+https://jobicy.com/jobs/150132-senior-platform-engineer-2
 
-**Web Automation Test Engineer**
-https://jobicy.com/jobs/152405-web-automation-test-engineer
+**Backend Engineer - Platform - Stacks | Sweden | Remote**
+https://jobicy.com/jobs/152495-backend-engineer-platform-stacks-sweden-remote
 
-**Senior Customer Success Engineer**
-https://jobicy.com/jobs/151408-senior-customer-success-engineer
+**Backend Engineer - Platform - Stacks | Spain | Remote**
+https://jobicy.com/jobs/152490-backend-engineer-platform-stacks-spain-remote
 
-**Framework Software Engineer**
-https://jobicy.com/jobs/152395-framework-software-engineer
+**Software Engineer**
+https://www.arbeitnow.co.uk/jobs/companies/thrivecart/software-engineer-london-322848
 
 --- KUBERNETES ---
 
-**Senior QA Automation Engineer (Platform)**
-https://jobicy.com/jobs/152407-senior-qa-automation-engineer-platform
+**Engineering Manager - Python and K8s**
+https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s
 
-**Senior Quality Assurance Engineer (Personify team)**
-https://jobicy.com/jobs/152406-senior-quality-assurance-engineer-personify-team
+**Senior Web Engineer**
+https://jobicy.com/jobs/150123-senior-web-engineer
 
-**Sales Engineer**
-https://jobicy.com/jobs/152389-sales-engineer-5
+**Backend Engineer - Platform - Stacks | Sweden | Remote**
+https://jobicy.com/jobs/152495-backend-engineer-platform-stacks-sweden-remote
+
+**Backend Engineer - Platform - Stacks | Spain | Remote**
+https://jobicy.com/jobs/152490-backend-engineer-platform-stacks-spain-remote
 
