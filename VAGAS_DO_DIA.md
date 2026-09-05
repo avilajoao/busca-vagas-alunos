@@ -1,129 +1,128 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (04/09/2026)
+Segue nossa lista de vagas de hoje! (05/09/2026)
 
 --- NODE.JS ---
 
-**Backend Engineer - Platform - Stacks | Sweden | Remote**
-https://jobicy.com/jobs/152495-backend-engineer-platform-stacks-sweden-remote
-
-**Backend Engineer - Platform - Stacks | Spain | Remote**
-https://jobicy.com/jobs/152490-backend-engineer-platform-stacks-spain-remote
-
-**Software Engineer**
-https://www.arbeitnow.co.uk/jobs/companies/thrivecart/software-engineer-london-322848
+**Senior GTM Systems AI and Automation Engineer**
+https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-43415
 
 --- TYPESCRIPT ---
 
-**Senior Software Engineer - MAAS**
-https://jobicy.com/jobs/150127-senior-software-engineer-maas
+**Senior Software Engineer, Frontend**
+https://jobicy.com/jobs/152539-senior-software-engineer-frontend
 
-**Backend Engineer - Platform - Stacks | Sweden | Remote**
-https://jobicy.com/jobs/152495-backend-engineer-platform-stacks-sweden-remote
+**Senior GTM Systems AI and Automation Engineer**
+https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-43415
 
-**Backend Engineer - Platform - Stacks | Spain | Remote**
-https://jobicy.com/jobs/152490-backend-engineer-platform-stacks-spain-remote
-
-**Software Engineer**
-https://www.arbeitnow.co.uk/jobs/companies/thrivecart/software-engineer-london-322848
+**Senior Software Engineer**
+https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-senior-software-engineer-berlin-462841
 
 --- EXPRESS ---
 
-**Senior Hypervisor Engineer**
-https://jobicy.com/jobs/150137-senior-hypervisor-engineer
+**Area Vice President - Financial Services**
+https://jobicy.com/jobs/152565-area-vice-president-financial-services
 
-**Field Technical Lead – Data Center Deployments**
-https://jobicy.com/jobs/150136-field-technical-lead-data-center-deployments
+**Senior Channel Enablement Manager**
+https://jobicy.com/jobs/152561-senior-channel-enablement-manager
 
-**Senior Platform Engineer**
-https://jobicy.com/jobs/150132-senior-platform-engineer-2
+**Majors Account Director - Key Customers | West Coast | Remote**
+https://jobicy.com/jobs/150212-majors-account-director-key-customers-west-coast-remote
 
-**Software Engineer in Network Infrastructure**
-https://jobicy.com/jobs/150131-software-engineer-in-network-infrastructure
+**Associate Account Executive (Financial Services)**
+https://jobicy.com/jobs/152555-associate-account-executive-financial-services
 
 --- REACT ---
 
-**Senior Software Engineer - MAAS**
-https://jobicy.com/jobs/150127-senior-software-engineer-maas
+**Support Engineer**
+https://jobicy.com/jobs/152566-support-engineer
+
+**Regional Sales Manager**
+https://jobicy.com/jobs/150245-regional-sales-manager
+
+**Staff Software Engineer- UI Foundations Team**
+https://jobicy.com/jobs/152550-staff-software-engineer-ui-foundations-team
+
+**Senior Software Engineer, Frontend**
+https://jobicy.com/jobs/152539-senior-software-engineer-frontend
+
+--- JAVA ---
+
+**Senior Site Reliability Engineer I**
+https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i
+
+**Senior GTM Systems AI and Automation Engineer**
+https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-43415
 
 --- PYTHON ---
 
-**Data Analyst, Clinical Data Effectiveness**
-https://jobicy.com/jobs/150923-data-analyst-clinical-data-effectiveness
+**Support Engineer**
+https://jobicy.com/jobs/152566-support-engineer
 
-**Senior Software Engineer - MAAS**
-https://jobicy.com/jobs/150127-senior-software-engineer-maas
+**Staff Data Scientist - Ads Measurement, Signals, Privacy**
+https://jobicy.com/jobs/150206-staff-data-scientist-ads-measurement-signals-privacy
 
-**C, Golang Software Engineer working on dqlite, a Raft extension for SQLite**
-https://jobicy.com/jobs/150128-c-golang-software-engineer-working-on-dqlite-a-raft-extension-for-sqlite
+**Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy**
+https://jobicy.com/jobs/150205-sr-staff-data-scientist-ads-measurement-signals-privacy
 
-**Engineering Manager - Python and K8s**
-https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s
+**Senior Site Reliability Engineer I**
+https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i
 
---- PHP ---
+--- FASTAPI ---
 
-**Software Engineer**
-https://www.arbeitnow.co.uk/jobs/companies/thrivecart/software-engineer-london-322848
-
---- LARAVEL ---
-
-**Software Engineer**
-https://www.arbeitnow.co.uk/jobs/companies/thrivecart/software-engineer-london-322848
+**Senior Software Engineer**
+https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-senior-software-engineer-berlin-462841
 
 --- GO ---
 
-**Data Analyst, Clinical Data Effectiveness**
-https://jobicy.com/jobs/150923-data-analyst-clinical-data-effectiveness
+**Support Engineer**
+https://jobicy.com/jobs/152566-support-engineer
 
-**Customer Engineer - Jylland, Denmark**
-https://jobicy.com/jobs/150210-customer-engineer-jylland-denmark
+**Former Founder**
+https://jobicy.com/jobs/152563-former-founder
 
-**Clinical Provider (Broome - Australia)**
-https://jobicy.com/jobs/150146-clinical-provider-broome-australia
+**Enterprise Account Executive**
+https://jobicy.com/jobs/152560-enterprise-account-executive-20
 
-**Senior Software Engineer - MAAS**
-https://jobicy.com/jobs/150127-senior-software-engineer-maas
+**Controller**
+https://jobicy.com/jobs/152558-controller
 
---- POSTGRESQL ---
+--- RUBY ON RAILS ---
 
-**Senior Software Engineer (Backend)**
-https://jobicy.com/jobs/150125-senior-software-engineer-backend
+**Senior Site Reliability Engineer I**
+https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i
+
+--- MONGODB ---
+
+**Senior Site Reliability Engineer I**
+https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i
 
 --- DOCKER ---
 
-**Engineering Manager - Python and K8s**
-https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s
-
-**Senior Web Engineer**
-https://jobicy.com/jobs/150123-senior-web-engineer
-
-**Software Engineer**
-https://www.arbeitnow.co.uk/jobs/companies/thrivecart/software-engineer-london-322848
+**Pre-Sales Solution Architect – AI Infrastructure (remote in the EU)**
+https://jobicy.com/jobs/150239-pre-sales-solution-architect-ai-infrastructure-remote-in-the-eu
 
 --- AWS ---
 
-**Senior Platform Engineer**
-https://jobicy.com/jobs/150132-senior-platform-engineer-2
+**Senior Channel Enablement Manager**
+https://jobicy.com/jobs/152561-senior-channel-enablement-manager
 
-**Backend Engineer - Platform - Stacks | Sweden | Remote**
-https://jobicy.com/jobs/152495-backend-engineer-platform-stacks-sweden-remote
+**Business Development Executive**
+https://jobicy.com/jobs/150753-business-development-executive
 
-**Backend Engineer - Platform - Stacks | Spain | Remote**
-https://jobicy.com/jobs/152490-backend-engineer-platform-stacks-spain-remote
+**Customer Support Manager**
+https://jobicy.com/jobs/150213-customer-support-manager-2
 
-**Software Engineer**
-https://www.arbeitnow.co.uk/jobs/companies/thrivecart/software-engineer-london-322848
+**Customer Success Engineer**
+https://jobicy.com/jobs/150236-customer-success-engineer-4
 
 --- KUBERNETES ---
 
-**Engineering Manager - Python and K8s**
-https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s
+**Pre-Sales Solution Architect – AI Infrastructure (remote in the EU)**
+https://jobicy.com/jobs/150239-pre-sales-solution-architect-ai-infrastructure-remote-in-the-eu
 
-**Senior Web Engineer**
-https://jobicy.com/jobs/150123-senior-web-engineer
+**Senior Site Reliability Engineer I**
+https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i
 
-**Backend Engineer - Platform - Stacks | Sweden | Remote**
-https://jobicy.com/jobs/152495-backend-engineer-platform-stacks-sweden-remote
-
-**Backend Engineer - Platform - Stacks | Spain | Remote**
-https://jobicy.com/jobs/152490-backend-engineer-platform-stacks-spain-remote
+**Senior Software Engineer**
+https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-senior-software-engineer-berlin-462841
 
