@@ -1,128 +1,123 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (05/09/2026)
+Segue nossa lista de vagas de hoje! (06/09/2026)
 
 --- NODE.JS ---
 
-**Senior GTM Systems AI and Automation Engineer**
-https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-43415
-
---- TYPESCRIPT ---
-
-**Senior Software Engineer, Frontend**
-https://jobicy.com/jobs/152539-senior-software-engineer-frontend
-
-**Senior GTM Systems AI and Automation Engineer**
-https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-43415
-
-**Senior Software Engineer**
-https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-senior-software-engineer-berlin-462841
+**Customer Solution Architect Team Lead (AMER)**
+https://jobicy.com/jobs/145204-customer-solution-architect-team-lead-amer
 
 --- EXPRESS ---
 
-**Area Vice President - Financial Services**
-https://jobicy.com/jobs/152565-area-vice-president-financial-services
+**Staff Software Developer**
+https://jobicy.com/jobs/145140-staff-software-developer
 
-**Senior Channel Enablement Manager**
-https://jobicy.com/jobs/152561-senior-channel-enablement-manager
+**Software Developer II**
+https://jobicy.com/jobs/145141-software-developer-ii
 
-**Majors Account Director - Key Customers | West Coast | Remote**
-https://jobicy.com/jobs/150212-majors-account-director-key-customers-west-coast-remote
+**Principal DevOps Engineer**
+https://jobicy.com/jobs/148200-principal-devops-engineer-2
 
-**Associate Account Executive (Financial Services)**
-https://jobicy.com/jobs/152555-associate-account-executive-financial-services
+**Senior Customer Technical Program Manager - AI Datacenter**
+https://jobicy.com/jobs/148312-senior-customer-technical-program-manager-ai-datacenter
 
 --- REACT ---
 
-**Support Engineer**
-https://jobicy.com/jobs/152566-support-engineer
+**Staff Software Developer**
+https://jobicy.com/jobs/145140-staff-software-developer
 
-**Regional Sales Manager**
-https://jobicy.com/jobs/150245-regional-sales-manager
-
-**Staff Software Engineer- UI Foundations Team**
-https://jobicy.com/jobs/152550-staff-software-engineer-ui-foundations-team
-
-**Senior Software Engineer, Frontend**
-https://jobicy.com/jobs/152539-senior-software-engineer-frontend
+**Customer Solution Architect Team Lead (AMER)**
+https://jobicy.com/jobs/145204-customer-solution-architect-team-lead-amer
 
 --- JAVA ---
 
-**Senior Site Reliability Engineer I**
-https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i
+**Workflow Developer & Tester**
+https://jobicy.com/jobs/143728-workflow-developer-tester
 
-**Senior GTM Systems AI and Automation Engineer**
-https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-43415
+**Salesforce Marketing Cloud Platform Manager (Pharmaceutical Sector)**
+https://jobicy.com/jobs/145494-salesforce-marketing-cloud-platform-manager-pharmaceutical-sector
+
+--- C# ---
+
+**Staff Software Developer**
+https://jobicy.com/jobs/145140-staff-software-developer
+
+**Software Developer II**
+https://jobicy.com/jobs/145141-software-developer-ii
+
+--- .NET ---
+
+**Staff Software Developer**
+https://jobicy.com/jobs/145140-staff-software-developer
+
+**Software Developer II**
+https://jobicy.com/jobs/145141-software-developer-ii
 
 --- PYTHON ---
 
-**Support Engineer**
-https://jobicy.com/jobs/152566-support-engineer
+**Senior Data Scientist**
+https://jobicy.com/jobs/142519-senior-data-scientist-3
 
-**Staff Data Scientist - Ads Measurement, Signals, Privacy**
-https://jobicy.com/jobs/150206-staff-data-scientist-ads-measurement-signals-privacy
+**Pricing and Revenue Planner**
+https://jobicy.com/jobs/145308-pricing-and-revenue-planner
 
-**Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy**
-https://jobicy.com/jobs/150205-sr-staff-data-scientist-ads-measurement-signals-privacy
+**Workflow Developer & Tester**
+https://jobicy.com/jobs/143728-workflow-developer-tester
 
-**Senior Site Reliability Engineer I**
-https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i
-
---- FASTAPI ---
-
-**Senior Software Engineer**
-https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-senior-software-engineer-berlin-462841
+**Salesforce Marketing Cloud Platform Manager (Pharmaceutical Sector)**
+https://jobicy.com/jobs/145494-salesforce-marketing-cloud-platform-manager-pharmaceutical-sector
 
 --- GO ---
 
-**Support Engineer**
-https://jobicy.com/jobs/152566-support-engineer
+**Senior Data Scientist**
+https://jobicy.com/jobs/142519-senior-data-scientist-3
 
-**Former Founder**
-https://jobicy.com/jobs/152563-former-founder
+**Partner Account Executive (M/F)**
+https://jobicy.com/jobs/145049-partner-account-executive-m-f
 
-**Enterprise Account Executive**
-https://jobicy.com/jobs/152560-enterprise-account-executive-20
+**Lead Contract Manager, IDC Contracts**
+https://jobicy.com/jobs/145131-lead-contract-manager-idc-contracts
 
-**Controller**
-https://jobicy.com/jobs/152558-controller
+**Staff Software Developer**
+https://jobicy.com/jobs/145140-staff-software-developer
 
---- RUBY ON RAILS ---
+--- POSTGRESQL ---
 
-**Senior Site Reliability Engineer I**
-https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i
+**Principal DevOps Engineer**
+https://jobicy.com/jobs/148200-principal-devops-engineer-2
 
---- MONGODB ---
+**Customer Solution Architect Team Lead (AMER)**
+https://jobicy.com/jobs/145204-customer-solution-architect-team-lead-amer
 
-**Senior Site Reliability Engineer I**
-https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i
+**Workflow Developer & Tester**
+https://jobicy.com/jobs/143728-workflow-developer-tester
+
+**Developer Advocate (Database)**
+https://www.arbeitnow.com/jobs/companies/jetbrains/remote-developer-advocate-database-472871
 
 --- DOCKER ---
 
-**Pre-Sales Solution Architect – AI Infrastructure (remote in the EU)**
-https://jobicy.com/jobs/150239-pre-sales-solution-architect-ai-infrastructure-remote-in-the-eu
+**Workflow Developer & Tester**
+https://jobicy.com/jobs/143728-workflow-developer-tester
 
 --- AWS ---
 
-**Senior Channel Enablement Manager**
-https://jobicy.com/jobs/152561-senior-channel-enablement-manager
+**Principal DevOps Engineer**
+https://jobicy.com/jobs/148200-principal-devops-engineer-2
 
-**Business Development Executive**
-https://jobicy.com/jobs/150753-business-development-executive
+**Legal Counsel**
+https://jobicy.com/jobs/145300-legal-counsel-2
 
-**Customer Support Manager**
-https://jobicy.com/jobs/150213-customer-support-manager-2
+**Workflow Developer & Tester**
+https://jobicy.com/jobs/143728-workflow-developer-tester
 
-**Customer Success Engineer**
-https://jobicy.com/jobs/150236-customer-success-engineer-4
+**Senior Manager, IT Platform Engineering - FIXED TERM**
+https://jobicy.com/jobs/148338-senior-manager-it-platform-engineering-fixed-term
 
 --- KUBERNETES ---
 
-**Pre-Sales Solution Architect – AI Infrastructure (remote in the EU)**
-https://jobicy.com/jobs/150239-pre-sales-solution-architect-ai-infrastructure-remote-in-the-eu
+**Principal DevOps Engineer**
+https://jobicy.com/jobs/148200-principal-devops-engineer-2
 
-**Senior Site Reliability Engineer I**
-https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i
-
-**Senior Software Engineer**
-https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-senior-software-engineer-berlin-462841
+**Workflow Developer & Tester**
+https://jobicy.com/jobs/143728-workflow-developer-tester
 
