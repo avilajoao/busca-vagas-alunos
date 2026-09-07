@@ -1,123 +1,89 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (06/09/2026)
+Segue nossa lista de vagas de hoje! (07/09/2026)
 
---- NODE.JS ---
+--- TYPESCRIPT ---
 
-**Customer Solution Architect Team Lead (AMER)**
-https://jobicy.com/jobs/145204-customer-solution-architect-team-lead-amer
+**Product Engineer (Full Stack)**
+https://jobicy.com/jobs/151461-product-engineer-full-stack
 
 --- EXPRESS ---
 
-**Staff Software Developer**
-https://jobicy.com/jobs/145140-staff-software-developer
+**Cyber Security GTM Leader**
+https://jobicy.com/jobs/152703-cyber-security-gtm-leader
 
-**Software Developer II**
-https://jobicy.com/jobs/145141-software-developer-ii
+**AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector**
+https://jobicy.com/jobs/152699-ai-engineer-fde-forward-deployed-engineer-u-s-federal-sector
 
-**Principal DevOps Engineer**
-https://jobicy.com/jobs/148200-principal-devops-engineer-2
+**Partner Sales Specialist**
+https://jobicy.com/jobs/148720-partner-sales-specialist
 
-**Senior Customer Technical Program Manager - AI Datacenter**
-https://jobicy.com/jobs/148312-senior-customer-technical-program-manager-ai-datacenter
+**Senior Solutions Architect I, Pre-Sales - South Korea Defense & Intelligence**
+https://jobicy.com/jobs/148688-senior-solutions-architect-i-pre-sales-south-korea-defense-intelligence
 
 --- REACT ---
 
-**Staff Software Developer**
-https://jobicy.com/jobs/145140-staff-software-developer
-
-**Customer Solution Architect Team Lead (AMER)**
-https://jobicy.com/jobs/145204-customer-solution-architect-team-lead-amer
-
---- JAVA ---
-
-**Workflow Developer & Tester**
-https://jobicy.com/jobs/143728-workflow-developer-tester
-
-**Salesforce Marketing Cloud Platform Manager (Pharmaceutical Sector)**
-https://jobicy.com/jobs/145494-salesforce-marketing-cloud-platform-manager-pharmaceutical-sector
-
---- C# ---
-
-**Staff Software Developer**
-https://jobicy.com/jobs/145140-staff-software-developer
-
-**Software Developer II**
-https://jobicy.com/jobs/145141-software-developer-ii
-
---- .NET ---
-
-**Staff Software Developer**
-https://jobicy.com/jobs/145140-staff-software-developer
-
-**Software Developer II**
-https://jobicy.com/jobs/145141-software-developer-ii
+**Product Engineer (Full Stack)**
+https://jobicy.com/jobs/151461-product-engineer-full-stack
 
 --- PYTHON ---
 
-**Senior Data Scientist**
-https://jobicy.com/jobs/142519-senior-data-scientist-3
+**Product Engineer (Full Stack)**
+https://jobicy.com/jobs/151461-product-engineer-full-stack
 
-**Pricing and Revenue Planner**
-https://jobicy.com/jobs/145308-pricing-and-revenue-planner
+**Senior Solutions Architect I, Pre-Sales - South Korea Defense & Intelligence**
+https://jobicy.com/jobs/148688-senior-solutions-architect-i-pre-sales-south-korea-defense-intelligence
 
-**Workflow Developer & Tester**
-https://jobicy.com/jobs/143728-workflow-developer-tester
+--- FASTAPI ---
 
-**Salesforce Marketing Cloud Platform Manager (Pharmaceutical Sector)**
-https://jobicy.com/jobs/145494-salesforce-marketing-cloud-platform-manager-pharmaceutical-sector
+**Product Engineer (Full Stack)**
+https://jobicy.com/jobs/151461-product-engineer-full-stack
+
+--- PHP ---
+
+**Legal Consultant - Asset Management / Securities**
+https://jobicy.com/jobs/148699-legal-consultant-asset-management-securities
+
+**Legal Consultant - Commercial contract (Malaysia)**
+https://jobicy.com/jobs/148700-legal-consultant-commercial-contract-malaysia
+
+**Legal / Compliance Consultant - Trade Compliance, Export Control (Remote Working)**
+https://jobicy.com/jobs/148687-legal-compliance-consultant-trade-compliance-export-control-remote-working
 
 --- GO ---
 
-**Senior Data Scientist**
-https://jobicy.com/jobs/142519-senior-data-scientist-3
+**Product Engineer (Full Stack)**
+https://jobicy.com/jobs/151461-product-engineer-full-stack
 
-**Partner Account Executive (M/F)**
-https://jobicy.com/jobs/145049-partner-account-executive-m-f
+**Customer Success - Australia Clients**
+https://jobicy.com/jobs/151135-customer-success-australia-clients
 
-**Lead Contract Manager, IDC Contracts**
-https://jobicy.com/jobs/145131-lead-contract-manager-idc-contracts
+**Cyber Security GTM Leader**
+https://jobicy.com/jobs/152703-cyber-security-gtm-leader
 
-**Staff Software Developer**
-https://jobicy.com/jobs/145140-staff-software-developer
+**AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector**
+https://jobicy.com/jobs/152699-ai-engineer-fde-forward-deployed-engineer-u-s-federal-sector
 
 --- POSTGRESQL ---
 
-**Principal DevOps Engineer**
-https://jobicy.com/jobs/148200-principal-devops-engineer-2
-
-**Customer Solution Architect Team Lead (AMER)**
-https://jobicy.com/jobs/145204-customer-solution-architect-team-lead-amer
-
-**Workflow Developer & Tester**
-https://jobicy.com/jobs/143728-workflow-developer-tester
-
-**Developer Advocate (Database)**
-https://www.arbeitnow.com/jobs/companies/jetbrains/remote-developer-advocate-database-472871
-
---- DOCKER ---
-
-**Workflow Developer & Tester**
-https://jobicy.com/jobs/143728-workflow-developer-tester
+**Product Engineer (Full Stack)**
+https://jobicy.com/jobs/151461-product-engineer-full-stack
 
 --- AWS ---
 
-**Principal DevOps Engineer**
-https://jobicy.com/jobs/148200-principal-devops-engineer-2
+**AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector**
+https://jobicy.com/jobs/152699-ai-engineer-fde-forward-deployed-engineer-u-s-federal-sector
 
-**Legal Counsel**
-https://jobicy.com/jobs/145300-legal-counsel-2
+**Legal Consultant - Asset Management / Securities**
+https://jobicy.com/jobs/148699-legal-consultant-asset-management-securities
 
-**Workflow Developer & Tester**
-https://jobicy.com/jobs/143728-workflow-developer-tester
+**Legal Consultant - Commercial contract (Malaysia)**
+https://jobicy.com/jobs/148700-legal-consultant-commercial-contract-malaysia
 
-**Senior Manager, IT Platform Engineering - FIXED TERM**
-https://jobicy.com/jobs/148338-senior-manager-it-platform-engineering-fixed-term
+**Legal / Compliance Consultant - Trade Compliance, Export Control (Remote Working)**
+https://jobicy.com/jobs/148687-legal-compliance-consultant-trade-compliance-export-control-remote-working
 
 --- KUBERNETES ---
 
-**Principal DevOps Engineer**
-https://jobicy.com/jobs/148200-principal-devops-engineer-2
-
-**Workflow Developer & Tester**
-https://jobicy.com/jobs/143728-workflow-developer-tester
+**Product Engineer (Full Stack)**
+https://jobicy.com/jobs/151461-product-engineer-full-stack
 
