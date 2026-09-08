@@ -1,89 +1,119 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (07/09/2026)
+Segue nossa lista de vagas de hoje! (08/09/2026)
+
+--- NODE.JS ---
+
+**Senior Backend Engineer (Core Team)**
+https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
 
 --- TYPESCRIPT ---
 
-**Product Engineer (Full Stack)**
-https://jobicy.com/jobs/151461-product-engineer-full-stack
+**Senior Backend Engineer (Core Team)**
+https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
 
 --- EXPRESS ---
 
-**Cyber Security GTM Leader**
-https://jobicy.com/jobs/152703-cyber-security-gtm-leader
+**Manager, Customer Success Managers, EMEA**
+https://jobicy.com/jobs/148783-manager-customer-success-managers-emea
 
-**AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector**
-https://jobicy.com/jobs/152699-ai-engineer-fde-forward-deployed-engineer-u-s-federal-sector
+**Data Product Analyst, Corporate**
+https://jobicy.com/jobs/152755-data-product-analyst-corporate
 
-**Partner Sales Specialist**
-https://jobicy.com/jobs/148720-partner-sales-specialist
+**Data Lead - Central Data Team**
+https://jobicy.com/jobs/152751-data-lead-central-data-team
 
-**Senior Solutions Architect I, Pre-Sales - South Korea Defense & Intelligence**
-https://jobicy.com/jobs/148688-senior-solutions-architect-i-pre-sales-south-korea-defense-intelligence
+**Sr Technical Account Manager - West**
+https://jobicy.com/jobs/152735-sr-technical-account-manager-west
 
---- REACT ---
+--- JAVA ---
 
-**Product Engineer (Full Stack)**
-https://jobicy.com/jobs/151461-product-engineer-full-stack
+**Senior Backend Engineer (Core Team)**
+https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
+
+**Sr Technical Account Manager - West**
+https://jobicy.com/jobs/152735-sr-technical-account-manager-west
+
+**Sr Technical Account Manager - East**
+https://jobicy.com/jobs/152731-sr-technical-account-manager-east
+
+--- C# ---
+
+**Senior Backend Engineer (Core Team)**
+https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
 
 --- PYTHON ---
 
-**Product Engineer (Full Stack)**
-https://jobicy.com/jobs/151461-product-engineer-full-stack
+**Member of Technical Staff (GPU Performance Engineer)**
+https://jobicy.com/jobs/152767-member-of-technical-staff-gpu-performance-engineer
 
-**Senior Solutions Architect I, Pre-Sales - South Korea Defense & Intelligence**
-https://jobicy.com/jobs/148688-senior-solutions-architect-i-pre-sales-south-korea-defense-intelligence
+**Data Product Analyst, Corporate**
+https://jobicy.com/jobs/152755-data-product-analyst-corporate
 
---- FASTAPI ---
+**Senior Backend Engineer (Core Team)**
+https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
 
-**Product Engineer (Full Stack)**
-https://jobicy.com/jobs/151461-product-engineer-full-stack
-
---- PHP ---
-
-**Legal Consultant - Asset Management / Securities**
-https://jobicy.com/jobs/148699-legal-consultant-asset-management-securities
-
-**Legal Consultant - Commercial contract (Malaysia)**
-https://jobicy.com/jobs/148700-legal-consultant-commercial-contract-malaysia
-
-**Legal / Compliance Consultant - Trade Compliance, Export Control (Remote Working)**
-https://jobicy.com/jobs/148687-legal-compliance-consultant-trade-compliance-export-control-remote-working
+**Data Lead - Central Data Team**
+https://jobicy.com/jobs/152751-data-lead-central-data-team
 
 --- GO ---
 
-**Product Engineer (Full Stack)**
-https://jobicy.com/jobs/151461-product-engineer-full-stack
+**Account Executive - Canada - Enterprise**
+https://jobicy.com/jobs/148827-account-executive-canada-enterprise
 
-**Customer Success - Australia Clients**
-https://jobicy.com/jobs/151135-customer-success-australia-clients
+**Marketing Manager**
+https://jobicy.com/jobs/148814-marketing-manager
 
-**Cyber Security GTM Leader**
-https://jobicy.com/jobs/152703-cyber-security-gtm-leader
+**Manager, Customer Success Managers, EMEA**
+https://jobicy.com/jobs/148783-manager-customer-success-managers-emea
 
-**AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector**
-https://jobicy.com/jobs/152699-ai-engineer-fde-forward-deployed-engineer-u-s-federal-sector
+**Member of Technical Staff (GPU Performance Engineer)**
+https://jobicy.com/jobs/152767-member-of-technical-staff-gpu-performance-engineer
 
 --- POSTGRESQL ---
 
-**Product Engineer (Full Stack)**
-https://jobicy.com/jobs/151461-product-engineer-full-stack
+**Senior Backend Engineer (Core Team)**
+https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
+
+--- MYSQL ---
+
+**Senior Backend Engineer (Core Team)**
+https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
+
+--- MONGODB ---
+
+**Senior Backend Engineer (Core Team)**
+https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
+
+--- DOCKER ---
+
+**Manager, Customer Success Managers, EMEA**
+https://jobicy.com/jobs/148783-manager-customer-success-managers-emea
 
 --- AWS ---
 
-**AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector**
-https://jobicy.com/jobs/152699-ai-engineer-fde-forward-deployed-engineer-u-s-federal-sector
+**Manager, Customer Success Managers, EMEA**
+https://jobicy.com/jobs/148783-manager-customer-success-managers-emea
 
-**Legal Consultant - Asset Management / Securities**
-https://jobicy.com/jobs/148699-legal-consultant-asset-management-securities
+**Senior Backend Engineer (Core Team)**
+https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
 
-**Legal Consultant - Commercial contract (Malaysia)**
-https://jobicy.com/jobs/148700-legal-consultant-commercial-contract-malaysia
+**Senior Performance Marketer (Full Remote - Poland)**
+https://jobicy.com/jobs/152745-senior-performance-marketer-full-remote-poland
 
-**Legal / Compliance Consultant - Trade Compliance, Export Control (Remote Working)**
-https://jobicy.com/jobs/148687-legal-compliance-consultant-trade-compliance-export-control-remote-working
+**Senior Performance Marketer (Full Remote - Italy)**
+https://jobicy.com/jobs/152743-senior-performance-marketer-full-remote-italy
 
 --- KUBERNETES ---
 
-**Product Engineer (Full Stack)**
-https://jobicy.com/jobs/151461-product-engineer-full-stack
+**Manager, Customer Success Managers, EMEA**
+https://jobicy.com/jobs/148783-manager-customer-success-managers-emea
+
+**Member of Technical Staff (GPU Performance Engineer)**
+https://jobicy.com/jobs/152767-member-of-technical-staff-gpu-performance-engineer
+
+**Senior Backend Engineer (Core Team)**
+https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
+
+**Sr Technical Account Manager - West**
+https://jobicy.com/jobs/152735-sr-technical-account-manager-west
 
