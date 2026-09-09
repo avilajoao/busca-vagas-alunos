@@ -1,119 +1,120 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (08/09/2026)
-
---- NODE.JS ---
-
-**Senior Backend Engineer (Core Team)**
-https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
+Segue nossa lista de vagas de hoje! (09/09/2026)
 
 --- TYPESCRIPT ---
 
-**Senior Backend Engineer (Core Team)**
-https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
+**Head of Security**
+https://jobicy.com/jobs/152862-head-of-security
+
+**Engineering Manager**
+https://jobicy.com/jobs/152855-engineering-manager-7
 
 --- EXPRESS ---
 
-**Manager, Customer Success Managers, EMEA**
-https://jobicy.com/jobs/148783-manager-customer-success-managers-emea
+**Lifecycle Specialist, Time and Attendance - AMER**
+https://jobicy.com/jobs/152879-lifecycle-specialist-time-and-attendance-amer
 
-**Data Product Analyst, Corporate**
-https://jobicy.com/jobs/152755-data-product-analyst-corporate
+**HR Specialist, Contracts Management - APAC**
+https://jobicy.com/jobs/152876-hr-specialist-contracts-management-apac
 
-**Data Lead - Central Data Team**
-https://jobicy.com/jobs/152751-data-lead-central-data-team
+**Benefits Operations Specialist - AMER**
+https://jobicy.com/jobs/152865-benefits-operations-specialist-amer
 
-**Sr Technical Account Manager - West**
-https://jobicy.com/jobs/152735-sr-technical-account-manager-west
+**Detection Engineering & Response Lead**
+https://jobicy.com/jobs/148918-detection-engineering-response-lead
+
+--- REACT ---
+
+**Head of Security**
+https://jobicy.com/jobs/152862-head-of-security
+
+**Engineering Manager**
+https://jobicy.com/jobs/152855-engineering-manager-7
 
 --- JAVA ---
 
-**Senior Backend Engineer (Core Team)**
-https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
+**Technical Support Engineer – Voice & Video API**
+https://jobicy.com/jobs/152857-technical-support-engineer-voice-video-api
 
-**Sr Technical Account Manager - West**
-https://jobicy.com/jobs/152735-sr-technical-account-manager-west
-
-**Sr Technical Account Manager - East**
-https://jobicy.com/jobs/152731-sr-technical-account-manager-east
+**Working Student – AI Process & Business Excellence (m/f/d)**
+https://www.arbeitnow.com/jobs/companies/1komma50/working-student-ai-process-business-excellence-berlin-366265
 
 --- C# ---
 
-**Senior Backend Engineer (Core Team)**
-https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
+**Global Payroll Implementation Specialist - GPIS**
+https://jobicy.com/jobs/152872-global-payroll-implementation-specialist-gpis
+
+**Global Payroll Implementation Specialist EMEA/LATAM**
+https://jobicy.com/jobs/152871-global-payroll-implementation-specialist-emea-latam
 
 --- PYTHON ---
 
-**Member of Technical Staff (GPU Performance Engineer)**
-https://jobicy.com/jobs/152767-member-of-technical-staff-gpu-performance-engineer
+**Senior Data Analyst**
+https://jobicy.com/jobs/152859-senior-data-analyst
 
-**Data Product Analyst, Corporate**
-https://jobicy.com/jobs/152755-data-product-analyst-corporate
+**Technical Support Engineer – Voice & Video API**
+https://jobicy.com/jobs/152857-technical-support-engineer-voice-video-api
 
-**Senior Backend Engineer (Core Team)**
-https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
+**Working Student – AI Process & Business Excellence (m/f/d)**
+https://www.arbeitnow.com/jobs/companies/1komma50/working-student-ai-process-business-excellence-berlin-366265
 
-**Data Lead - Central Data Team**
-https://jobicy.com/jobs/152751-data-lead-central-data-team
+--- PHP ---
+
+**Technical Support Engineer – Voice & Video API**
+https://jobicy.com/jobs/152857-technical-support-engineer-voice-video-api
 
 --- GO ---
 
-**Account Executive - Canada - Enterprise**
-https://jobicy.com/jobs/148827-account-executive-canada-enterprise
+**Lifecycle Specialist, Time and Attendance - AMER**
+https://jobicy.com/jobs/152879-lifecycle-specialist-time-and-attendance-amer
 
-**Marketing Manager**
-https://jobicy.com/jobs/148814-marketing-manager
+**Lifecycle Specialist, Employee Relations & Transitions - Canada**
+https://jobicy.com/jobs/152878-lifecycle-specialist-employee-relations-transitions-canada
 
-**Manager, Customer Success Managers, EMEA**
-https://jobicy.com/jobs/148783-manager-customer-success-managers-emea
+**International Tax Manager, Personal Income Tax**
+https://jobicy.com/jobs/152877-international-tax-manager-personal-income-tax
 
-**Member of Technical Staff (GPU Performance Engineer)**
-https://jobicy.com/jobs/152767-member-of-technical-staff-gpu-performance-engineer
+**HR Specialist, Contracts Management - APAC**
+https://jobicy.com/jobs/152876-hr-specialist-contracts-management-apac
+
+--- RUBY ON RAILS ---
+
+**Head of Security**
+https://jobicy.com/jobs/152862-head-of-security
+
+**Engineering Manager**
+https://jobicy.com/jobs/152855-engineering-manager-7
 
 --- POSTGRESQL ---
 
-**Senior Backend Engineer (Core Team)**
-https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
+**Head of Security**
+https://jobicy.com/jobs/152862-head-of-security
 
---- MYSQL ---
+**Engineering Manager**
+https://jobicy.com/jobs/152855-engineering-manager-7
 
-**Senior Backend Engineer (Core Team)**
-https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
-
---- MONGODB ---
-
-**Senior Backend Engineer (Core Team)**
-https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
-
---- DOCKER ---
-
-**Manager, Customer Success Managers, EMEA**
-https://jobicy.com/jobs/148783-manager-customer-success-managers-emea
+**Senior Technical Account Manager (Spanish Speaking)**
+https://jobicy.com/jobs/148707-senior-technical-account-manager-spanish-speaking
 
 --- AWS ---
 
-**Manager, Customer Success Managers, EMEA**
-https://jobicy.com/jobs/148783-manager-customer-success-managers-emea
+**Lifecycle Specialist, Time and Attendance - AMER**
+https://jobicy.com/jobs/152879-lifecycle-specialist-time-and-attendance-amer
 
-**Senior Backend Engineer (Core Team)**
-https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
+**Lifecycle Specialist, Employee Relations & Transitions - Canada**
+https://jobicy.com/jobs/152878-lifecycle-specialist-employee-relations-transitions-canada
 
-**Senior Performance Marketer (Full Remote - Poland)**
-https://jobicy.com/jobs/152745-senior-performance-marketer-full-remote-poland
+**HR Specialist, Contracts Management - APAC**
+https://jobicy.com/jobs/152876-hr-specialist-contracts-management-apac
 
-**Senior Performance Marketer (Full Remote - Italy)**
-https://jobicy.com/jobs/152743-senior-performance-marketer-full-remote-italy
+**Senior Android Engineer**
+https://jobicy.com/jobs/152833-senior-android-engineer-3
 
 --- KUBERNETES ---
 
-**Manager, Customer Success Managers, EMEA**
-https://jobicy.com/jobs/148783-manager-customer-success-managers-emea
+**Senior Technical Account Manager (Spanish Speaking)**
+https://jobicy.com/jobs/148707-senior-technical-account-manager-spanish-speaking
 
-**Member of Technical Staff (GPU Performance Engineer)**
-https://jobicy.com/jobs/152767-member-of-technical-staff-gpu-performance-engineer
-
-**Senior Backend Engineer (Core Team)**
-https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
-
-**Sr Technical Account Manager - West**
-https://jobicy.com/jobs/152735-sr-technical-account-manager-west
+**Detection Engineering & Response Lead**
+https://jobicy.com/jobs/148918-detection-engineering-response-lead
 
