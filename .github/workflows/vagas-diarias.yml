@@ -31,11 +31,11 @@ jobs:
     - name: Executar buscador de vagas
       run: python buscador_vagas.py
 
-    - name: Salvar relatorio no repositorio
+- name: Salvar relatorio e historico no repositorio
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add VAGAS_DO_DIA.md
-        git commit -m "Auto-update: Vagas do dia" || echo "Sem alteracoes para comitar"
-        git pull --rebase origin main
-        git push origin main
+        git add VAGAS_DO_DIA.md historico_vagas.json
+        git commit -m "Auto-update: Vagas do dia e historico" || echo "Sem alteracoes para comitar"
+        git push origin main --force
+ 
