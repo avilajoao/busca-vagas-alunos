@@ -3,9 +3,10 @@ import json
 import re
 import os
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 
-# Grupos de tecnologias correlatas (unidas por categoria)
+# Grupos de tecnologias correlatas
 STACK_GROUPS = {
     "Node.js / Express / NestJS": ["node", "express", "nestjs"],
     "React / Next.js / React Native": ["react", "next.js", "nextjs", "react native"],
@@ -30,13 +31,11 @@ VALID_LOCATION_KEYWORDS = [
 HISTORY_FILE = "historico_vagas.json"
 
 def load_history():
-    """Carrega o histórico de URLs enviadas nos últimos 30 dias"""
     if not os.path.exists(HISTORY_FILE):
         return {}
     try:
         with open(HISTORY_FILE, "r", encoding="utf-8") as f:
             data = json.load(f)
-            # Limpa histórico com mais de 30 dias
             cutoff = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")
             return {url: date for url, date in data.items() if date >= cutoff}
     except Exception as e:
@@ -44,7 +43,6 @@ def load_history():
         return {}
 
 def save_history(history):
-    """Salva o histórico atualizado de URLs"""
     try:
         with open(HISTORY_FILE, "w", encoding="utf-8") as f:
             json.dump(history, f, indent=2, ensure_ascii=False)
@@ -55,6 +53,15 @@ def is_valid_location(text):
     text_lower = text.lower()
     return any(kw in text_lower for kw in VALID_LOCATION_KEYWORDS)
 
+def is_within_24h(pub_date):
+    """Verifica se a data fornecida ocorreu nas últimas 24 horas"""
+    if not pub_date:
+        return True  # Se a API não informar data, mantém por segurança
+    now = datetime.now(timezone.utc)
+    if pub_date.tzinfo is None:
+        pub_date = pub_date.replace(tzinfo=timezone.utc)
+    return (now - pub_date) <= timedelta(hours=24)
+
 def fetch_jobicy():
     jobs = []
     url = "https://jobicy.com/api/v2/remote-jobs?count=50"
@@ -63,6 +70,18 @@ def fetch_jobicy():
         if resp.status_code == 200:
             data = resp.json()
             for item in data.get("jobs", []):
+                # Validar data (Jobicy envia 'pubDate' no formato YYYY-MM-DD HH:MM:SS)
+                pub_str = item.get("pubDate", "")
+                pub_date = None
+                if pub_str:
+                    try:
+                        pub_date = datetime.strptime(pub_str, "%Y-%m-%d %H:%M:%S").replace(tzinfo=timezone.utc)
+                    except ValueError:
+                        pass
+                
+                if not is_within_24h(pub_date):
+                    continue
+
                 geo = item.get("jobGeo", "")
                 desc = item.get("jobDescription", "")
                 title = item.get("jobTitle", "")
@@ -87,6 +106,18 @@ def fetch_arbeitnow():
             data = resp.json()
             for item in data.get("data", []):
                 if item.get("remote", False):
+                    # Validar data (Arbeitnow envia 'created_at' como timestamp UNIX)
+                    created_at = item.get("created_at")
+                    pub_date = None
+                    if created_at:
+                        try:
+                            pub_date = datetime.fromtimestamp(created_at, tz=timezone.utc)
+                        except Exception:
+                            pass
+                    
+                    if not is_within_24h(pub_date):
+                        continue
+
                     desc = item.get("description", "")
                     title = item.get("title", "")
                     location = item.get("location", "")
@@ -110,6 +141,18 @@ def fetch_weworkremotely():
         if resp.status_code == 200:
             root = ET.fromstring(resp.content)
             for item in root.findall('./channel/item'):
+                # Validar data (RSS utiliza RFC 822 / parsedate_to_datetime)
+                pub_node = item.find('pubDate')
+                pub_date = None
+                if pub_node is not None and pub_node.text:
+                    try:
+                        pub_date = parsedate_to_datetime(pub_node.text)
+                    except Exception:
+                        pass
+                
+                if not is_within_24h(pub_date):
+                    continue
+
                 title = item.find('title').text if item.find('title') is not None else ""
                 link = item.find('link').text if item.find('link') is not None else ""
                 desc = item.find('description').text if item.find('description') is not None else ""
@@ -126,7 +169,7 @@ def fetch_weworkremotely():
     return jobs
 
 def main():
-    print("Iniciando busca de vagas sem repetição...")
+    print("Iniciando busca de vagas (Filtro: últimas 24h + sem repetição)...")
     
     history = load_history()
     today_key = datetime.now().strftime("%Y-%m-%d")
@@ -142,7 +185,6 @@ def main():
     for job in all_jobs:
         job_url = job['url']
         
-        # Ignora vagas já enviadas anteriormente
         if job_url in global_used_urls:
             continue
             
@@ -152,7 +194,6 @@ def main():
             if len(categorized_jobs[group_name]) >= 4:
                 continue
             
-            # Checa se a vaga combina com alguma palavra-chave do grupo
             if any(kw in text_corp for kw in keywords):
                 categorized_jobs[group_name].append({
                     "title": job['title'],
@@ -160,11 +201,11 @@ def main():
                 })
                 global_used_urls.add(job_url)
                 history[job_url] = today_key
-                break  # Evita atribuir a mesma vaga a múltiplos grupos
+                break
 
     today_str = datetime.now().strftime("%d/%m/%Y")
     md_content = f"**Hello Guys!**\n"
-    md_content += f"Segue nossa lista de vagas de hoje! ({today_str})\n\n"
+    md_content += f"Segue nossa lista de vagas das últimas 24h! ({today_str})\n\n"
     
     total_found = 0
     for group_name, jobs in categorized_jobs.items():
@@ -177,13 +218,13 @@ def main():
             md_content += f"{job['url']}\n\n"
 
     if total_found == 0:
-        md_content += "Nenhuma vaga nova encontrada hoje.\n"
+        md_content += "Nenhuma vaga nova publicada nas últimas 24h para estas stacks.\n"
 
     with open("VAGAS_DO_DIA.md", "w", encoding="utf-8") as f:
         f.write(md_content)
 
     save_history(history)
-    print(f"Sucesso! {total_found} vagas inéditas organizadas.")
+    print(f"Sucesso! {total_found} vagas das últimas 24h organizadas.")
 
 if __name__ == "__main__":
     main()
