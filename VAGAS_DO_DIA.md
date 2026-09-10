@@ -1,120 +1,147 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (09/09/2026)
+Segue nossa lista de vagas de hoje! (10/09/2026)
 
---- TYPESCRIPT ---
+--- NODE.JS / EXPRESS / NESTJS ---
 
-**Head of Security**
-https://jobicy.com/jobs/152862-head-of-security
+**AI Engineer - FDE (Forward Deployed Engineer)**
+https://jobicy.com/jobs/151935-ai-engineer-fde-forward-deployed-engineer-2
 
-**Engineering Manager**
-https://jobicy.com/jobs/152855-engineering-manager-7
+**Medical Health Physicist**
+https://jobicy.com/jobs/149010-medical-health-physicist
 
---- EXPRESS ---
+**Chief Information Security Officer**
+https://jobicy.com/jobs/149008-chief-information-security-officer
 
-**Lifecycle Specialist, Time and Attendance - AMER**
-https://jobicy.com/jobs/152879-lifecycle-specialist-time-and-attendance-amer
+**Customer Solutions Architect, Amazon Connect**
+https://jobicy.com/jobs/149035-customer-solutions-architect-amazon-connect
 
-**HR Specialist, Contracts Management - APAC**
-https://jobicy.com/jobs/152876-hr-specialist-contracts-management-apac
+--- REACT / NEXT.JS / REACT NATIVE ---
 
-**Benefits Operations Specialist - AMER**
-https://jobicy.com/jobs/152865-benefits-operations-specialist-amer
+**Senior Full-Stack Software Engineer**
+https://jobicy.com/jobs/150366-senior-full-stack-software-engineer
 
-**Detection Engineering & Response Lead**
-https://jobicy.com/jobs/148918-detection-engineering-response-lead
+**Lemon.io: Senior .NET Full-stack Developer**
+https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-1
 
---- REACT ---
+**Lemon.io: Senior Java & React Developer**
+https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer
 
-**Head of Security**
-https://jobicy.com/jobs/152862-head-of-security
+**Vonage: AEM Developer**
+https://weworkremotely.com/remote-jobs/vonage-aem-developer
 
-**Engineering Manager**
-https://jobicy.com/jobs/152855-engineering-manager-7
+--- TYPESCRIPT / JAVASCRIPT ---
 
---- JAVA ---
+**Senior Pre-Sales Engineer (Singapore)**
+https://jobicy.com/jobs/150352-senior-pre-sales-engineer-singapore
 
-**Technical Support Engineer – Voice & Video API**
-https://jobicy.com/jobs/152857-technical-support-engineer-voice-video-api
+**Senior Customer Engineer, Shenzhen**
+https://jobicy.com/jobs/150329-senior-customer-engineer-shenzhen
 
-**Working Student – AI Process & Business Excellence (m/f/d)**
-https://www.arbeitnow.com/jobs/companies/1komma50/working-student-ai-process-business-excellence-berlin-366265
+**Head of Security (f/m/d)**
+https://www.arbeitnow.com/jobs/companies/1komma50/head-of-security-berlin-66725
 
---- C# ---
+**Grafana Labs: Backend Engineer - Platform - Stacks | Ireland | Remote**
+https://weworkremotely.com/remote-jobs/grafana-labs-backend-engineer-platform-stacks-ireland-remote
 
-**Global Payroll Implementation Specialist - GPIS**
-https://jobicy.com/jobs/152872-global-payroll-implementation-specialist-gpis
+--- VUE.JS / NUXT ---
 
-**Global Payroll Implementation Specialist EMEA/LATAM**
-https://jobicy.com/jobs/152871-global-payroll-implementation-specialist-emea-latam
+**Vonage: AEM and Adobe Target Architect**
+https://weworkremotely.com/remote-jobs/vonage-aem-and-adobe-target-architect
 
---- PYTHON ---
+--- JAVA / SPRING BOOT ---
 
-**Senior Data Analyst**
-https://jobicy.com/jobs/152859-senior-data-analyst
+**Legion: Chief Architect**
+https://weworkremotely.com/remote-jobs/legion-chief-architect
 
-**Technical Support Engineer – Voice & Video API**
-https://jobicy.com/jobs/152857-technical-support-engineer-voice-video-api
+--- C# / .NET ---
 
-**Working Student – AI Process & Business Excellence (m/f/d)**
-https://www.arbeitnow.com/jobs/companies/1komma50/working-student-ai-process-business-excellence-berlin-366265
+**UTTR: Project Manager**
+https://weworkremotely.com/remote-jobs/uttr-project-manager
 
---- PHP ---
+**Ondeckglobal: iGaming UI/UX Designer**
+https://weworkremotely.com/remote-jobs/ondeckglobal-igaming-ui-ux-designer
 
-**Technical Support Engineer – Voice & Video API**
-https://jobicy.com/jobs/152857-technical-support-engineer-voice-video-api
+**Profitable Painter CPA PLLC: Tax Preparer (US)**
+https://weworkremotely.com/remote-jobs/profitable-painter-cpa-pllc-tax-preparer-us
+
+**IxDF - Interaction Design Foundation: Course Director: UX, UI, and AI **
+https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-director-ux-ui-and-ai
+
+--- PYTHON / DJANGO / FASTAPI ---
+
+**Talent Acquisition Strategist**
+https://jobicy.com/jobs/150357-talent-acquisition-strategist
+
+**Go (Golang) Software Engineer, Developer Tooling and Containers**
+https://jobicy.com/jobs/150365-go-golang-software-engineer-developer-tooling-and-containers
+
+**Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU**
+https://jobicy.com/jobs/150360-open-source-networking-software-engineer-tor-switch-smartnic-dpu
+
+**Software Engineer - Python - Container Images**
+https://jobicy.com/jobs/150364-software-engineer-python-container-images
+
+--- PHP / LARAVEL ---
+
+**Legal Consultant - M&A**
+https://jobicy.com/jobs/150385-legal-consultant-ma
+
+**Legal Consultant - Commercial Contract, Fortune 500**
+https://jobicy.com/jobs/150353-legal-consultant-commercial-contract-fortune-500
+
+**Legal Consultant, Payments Regulatory**
+https://jobicy.com/jobs/150354-legal-consultant-payments-regulatory
+
+**Legal Consultant / Negotiator - UMR (Derivatives)**
+https://jobicy.com/jobs/150379-legal-consultant-negotiator-umr-derivatives
 
 --- GO ---
 
-**Lifecycle Specialist, Time and Attendance - AMER**
-https://jobicy.com/jobs/152879-lifecycle-specialist-time-and-attendance-amer
+**Regional HR Manager - EMEA**
+https://jobicy.com/jobs/150368-regional-hr-manager-emea
 
-**Lifecycle Specialist, Employee Relations & Transitions - Canada**
-https://jobicy.com/jobs/152878-lifecycle-specialist-employee-relations-transitions-canada
+**Embedded Linux Consultant - Japan**
+https://jobicy.com/jobs/150361-embedded-linux-consultant-japan
 
-**International Tax Manager, Personal Income Tax**
-https://jobicy.com/jobs/152877-international-tax-manager-personal-income-tax
+**LawnStarter: Data Governance and Platform Manager**
+https://weworkremotely.com/remote-jobs/lawnstarter-data-governance-and-platform-manager
 
-**HR Specialist, Contracts Management - APAC**
-https://jobicy.com/jobs/152876-hr-specialist-contracts-management-apac
+**Legion: Director of Production Engineering**
+https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering
 
 --- RUBY ON RAILS ---
 
-**Head of Security**
-https://jobicy.com/jobs/152862-head-of-security
+**Coinbase: Accounting Manager, Tokenized Equities**
+https://weworkremotely.com/remote-jobs/coinbase-accounting-manager-tokenized-equities
 
-**Engineering Manager**
-https://jobicy.com/jobs/152855-engineering-manager-7
+**Reddit: Backend Software Engineer, PDP Experience**
+https://weworkremotely.com/remote-jobs/reddit-backend-software-engineer-pdp-experience
 
---- POSTGRESQL ---
+**Mercury: Counsel, Product & Regulatory - Payments & AML**
+https://weworkremotely.com/remote-jobs/mercury-counsel-product-regulatory-payments-aml
 
-**Head of Security**
-https://jobicy.com/jobs/152862-head-of-security
+**garden3d: Head of Design**
+https://weworkremotely.com/remote-jobs/garden3d-head-of-design
 
-**Engineering Manager**
-https://jobicy.com/jobs/152855-engineering-manager-7
+--- BANCOS DE DADOS (SQL / NOSQL) ---
 
-**Senior Technical Account Manager (Spanish Speaking)**
-https://jobicy.com/jobs/148707-senior-technical-account-manager-spanish-speaking
+**Software Architect**
+https://jobicy.com/jobs/150381-software-architect
 
---- AWS ---
+**Senior Sales Engineer, Enterprise**
+https://jobicy.com/jobs/150362-senior-sales-engineer-enterprise
 
-**Lifecycle Specialist, Time and Attendance - AMER**
-https://jobicy.com/jobs/152879-lifecycle-specialist-time-and-attendance-amer
+--- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Lifecycle Specialist, Employee Relations & Transitions - Canada**
-https://jobicy.com/jobs/152878-lifecycle-specialist-employee-relations-transitions-canada
+**Procurement Analyst**
+https://jobicy.com/jobs/149007-procurement-analyst
 
-**HR Specialist, Contracts Management - APAC**
-https://jobicy.com/jobs/152876-hr-specialist-contracts-management-apac
+**Commercial Sales Engineer - Central**
+https://jobicy.com/jobs/150400-commercial-sales-engineer-central
 
-**Senior Android Engineer**
-https://jobicy.com/jobs/152833-senior-android-engineer-3
+**Mobility Specialist - APAC**
+https://jobicy.com/jobs/150387-mobility-specialist-apac
 
---- KUBERNETES ---
-
-**Senior Technical Account Manager (Spanish Speaking)**
-https://jobicy.com/jobs/148707-senior-technical-account-manager-spanish-speaking
-
-**Detection Engineering & Response Lead**
-https://jobicy.com/jobs/148918-detection-engineering-response-lead
+**Customer Success Manager**
+https://jobicy.com/jobs/150359-customer-success-manager-12
 
