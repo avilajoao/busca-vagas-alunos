@@ -1,22 +1,18 @@
 **Hello Guys!**
 Segue nossa lista de vagas das últimas 24h! (10/09/2026)
 
---- NODE.JS / EXPRESS / NESTJS ---
+--- C# / .NET ---
 
-**Part Time Court Researcher - Hardin County, KY**
-https://jobicy.com/jobs/150389-part-time-court-researcher-hardin-county-ky
+**OnTheGoSystems: Head of Marketing**
+https://weworkremotely.com/remote-jobs/onthegosystems-head-of-marketing
 
-**Director, Customer Success, EMEA**
-https://www.arbeitnow.com/jobs/companies/gitlab/remote-director-customer-success-emea-429624
+--- GO ---
 
-**Flexport: Senior Systems Engineer (Identity and Access)**
-https://weworkremotely.com/remote-jobs/flexport-senior-systems-engineer-identity-and-access
+**Online Data Analyst - English speaker in UK**
+https://www.arbeitnow.co.uk/jobs/companies/telus-digital/online-data-analyst-english-speaker-in-uk-london-472016
 
---- PYTHON / DJANGO / FASTAPI ---
+--- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Python Backend Engineer (m/f/x)**
-https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-248550
-
-**Senior Data Scientist (m/f/x)**
-https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-242013
+**Working Student, Growth & Strategy (m/f/d)**
+https://www.arbeitnow.com/jobs/companies/chaos/remote-working-student-growth-strategy-karlsruhe-29309
 
