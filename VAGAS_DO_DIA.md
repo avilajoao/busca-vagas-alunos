@@ -1,59 +1,91 @@
 **Hello Guys!**
-Segue nossa lista de vagas das últimas 24h! (11/09/2026)
+Segue nossa lista de vagas das últimas 24h! (12/09/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Director of Customer Support**
-https://jobicy.com/jobs/152994-director-of-customer-support-2
+**Lifecycle Specialist, Employee Relations & Transitions - Canada**
+https://jobicy.com/jobs/153083-lifecycle-specialist-employee-relations-transitions-canada-2
 
-**DevOps Engineer**
-https://jobicy.com/jobs/152990-devops-engineer-4
+**Engineering Manager, SRE**
+https://jobicy.com/jobs/153081-engineering-manager-sre
 
-**Customer Support Coach - NORAM**
-https://jobicy.com/jobs/152986-customer-support-coach-noram
+**Strategic Account Executive, New Business**
+https://jobicy.com/jobs/153080-strategic-account-executive-new-business
 
-**Customer Support Coach**
-https://jobicy.com/jobs/152982-customer-support-coach
+**Sr. Sales Development Representative**
+https://jobicy.com/jobs/153077-sr-sales-development-representative
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Staff Research Engineer - Interactive Avatars**
-https://jobicy.com/jobs/152977-staff-research-engineer-interactive-avatars
+**Lead Software Engineer**
+https://jobicy.com/jobs/153066-lead-software-engineer
+
+**Abuse Research Engineer**
+https://jobicy.com/jobs/153053-abuse-research-engineer
+
+**Associate Software Engineer, Marketplace**
+https://jobicy.com/jobs/153044-associate-software-engineer-marketplace
+
+**Software Engineer III | AI/ML**
+https://jobicy.com/jobs/153029-software-engineer-iii-ai-ml
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**QA Engineer**
-https://www.arbeitnow.com/jobs/companies/miaplaza/remote-qa-engineer-325150
+**HR AI & Automation Operations Lead**
+https://jobicy.com/jobs/153082-hr-ai-automation-operations-lead
 
-**Backend Engineer - Wallets (100% Remote)**
-https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/backend-engineer-wallets-100-remote-london-355455
+**Field CTO**
+https://jobicy.com/jobs/153045-field-cto
 
---- VUE.JS / NUXT ---
-
-**SeekOut: Join Our Talent Community!**
-https://weworkremotely.com/remote-jobs/seekout-join-our-talent-community
+**Support Engineer I - Dallas, TX**
+https://jobicy.com/jobs/153031-support-engineer-i-dallas-tx
 
 --- C# / .NET ---
 
-**Coaching.com: Membership Coordinator**
-https://weworkremotely.com/remote-jobs/coaching-com-membership-coordinator-1
+**AI Senior Engineer (Graph)**
+https://jobicy.com/jobs/153037-ai-senior-engineer-graph
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Associate Research Scientist, Real World Evidence**
-https://jobicy.com/jobs/152984-associate-research-scientist-real-world-evidence
-
-**Blockchain Security Expert Intern - AI Track**
-https://jobicy.com/jobs/152979-blockchain-security-expert-intern-ai-track
-
-**Blockchain Security Expert - Chain Security Evaluation Track**
-https://jobicy.com/jobs/152970-blockchain-security-expert-chain-security-evaluation-track
-
-**Blockchain Security Expert - Anti Defect Track**
-https://jobicy.com/jobs/152966-blockchain-security-expert-anti-defect-track
+**Senior Pipeline TD - Film 2D**
+https://www.arbeitnow.co.uk/jobs/companies/framestore/remote-senior-pipeline-td-film-2d-london-448943
 
 --- GO ---
 
-**Blockchain Security Expert - Security Audit Track**
-https://jobicy.com/jobs/152975-blockchain-security-expert-security-audit-track
+**Product Manager**
+https://jobicy.com/jobs/153058-product-manager-4
+
+**Cyber Security Engineer II**
+https://jobicy.com/jobs/153056-cyber-security-engineer-ii
+
+**Senior Product Designer**
+https://jobicy.com/jobs/153043-senior-product-designer-10
+
+**Senior Financial Analyst, Strategic Finance - FP&A**
+https://jobicy.com/jobs/153038-senior-financial-analyst-strategic-finance-fpa
+
+--- RUBY ON RAILS ---
+
+**FP&A Manager**
+https://jobicy.com/jobs/153054-fpa-manager-2
+
+**Financial Systems Manager**
+https://jobicy.com/jobs/153050-financial-systems-manager
+
+**Principal Product Manager, Telematics & Connected Ecosystem**
+https://jobicy.com/jobs/153048-principal-product-manager-telematics-connected-ecosystem
+
+--- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
+
+**Senior Pre-Sales Solutions Architect – West Coast**
+https://jobicy.com/jobs/153036-senior-pre-sales-solutions-architect-west-coast
+
+**BInance Accelerator Program - Key Account Operations**
+https://jobicy.com/jobs/153032-binance-accelerator-program-key-account-operations
+
+**Binance Accelerator Program - HR Talent Acquisition**
+https://jobicy.com/jobs/153030-binance-accelerator-program-hr-talent-acquisition
+
+**Binance Accelerator Program - Growth Marketing (MENA)**
+https://jobicy.com/jobs/153028-binance-accelerator-program-growth-marketing-mena
 
