@@ -1,91 +1,48 @@
 **Hello Guys!**
-Segue nossa lista de vagas das últimas 24h! (12/09/2026)
+Segue nossa lista de vagas das últimas 24h! (13/09/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Lifecycle Specialist, Employee Relations & Transitions - Canada**
-https://jobicy.com/jobs/153083-lifecycle-specialist-employee-relations-transitions-canada-2
+**Staff Software Engineer (SRE)**
+https://jobicy.com/jobs/153134-staff-software-engineer-sre
 
-**Engineering Manager, SRE**
-https://jobicy.com/jobs/153081-engineering-manager-sre
+**Senior GTM Engineering Analyst**
+https://jobicy.com/jobs/153118-senior-gtm-engineering-analyst
 
-**Strategic Account Executive, New Business**
-https://jobicy.com/jobs/153080-strategic-account-executive-new-business
+**Snr. Marketing Manager, Enterprise ABM EMEA**
+https://jobicy.com/jobs/152037-snr-marketing-manager-enterprise-abm-emea
 
-**Sr. Sales Development Representative**
-https://jobicy.com/jobs/153077-sr-sales-development-representative
+**Senior Site Reliability Engineer (Hardware Automation)**
+https://jobicy.com/jobs/149057-senior-site-reliability-engineer-hardware-automation
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Lead Software Engineer**
-https://jobicy.com/jobs/153066-lead-software-engineer
+**Staff DevOps Engineer (Platform)**
+https://jobicy.com/jobs/153130-staff-devops-engineer-platform
 
-**Abuse Research Engineer**
-https://jobicy.com/jobs/153053-abuse-research-engineer
+**Associate VP, Customer Success - Americas**
+https://jobicy.com/jobs/153124-associate-vp-customer-success-americas
 
-**Associate Software Engineer, Marketplace**
-https://jobicy.com/jobs/153044-associate-software-engineer-marketplace
-
-**Software Engineer III | AI/ML**
-https://jobicy.com/jobs/153029-software-engineer-iii-ai-ml
-
---- TYPESCRIPT / JAVASCRIPT ---
-
-**HR AI & Automation Operations Lead**
-https://jobicy.com/jobs/153082-hr-ai-automation-operations-lead
-
-**Field CTO**
-https://jobicy.com/jobs/153045-field-cto
-
-**Support Engineer I - Dallas, TX**
-https://jobicy.com/jobs/153031-support-engineer-i-dallas-tx
-
---- C# / .NET ---
-
-**AI Senior Engineer (Graph)**
-https://jobicy.com/jobs/153037-ai-senior-engineer-graph
+**Customer Success Manager**
+https://jobicy.com/jobs/150472-customer-success-manager-11
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Senior Pipeline TD - Film 2D**
-https://www.arbeitnow.co.uk/jobs/companies/framestore/remote-senior-pipeline-td-film-2d-london-448943
+**Data Analyst, Internal Audit**
+https://jobicy.com/jobs/153127-data-analyst-internal-audit
 
 --- GO ---
 
-**Product Manager**
-https://jobicy.com/jobs/153058-product-manager-4
-
-**Cyber Security Engineer II**
-https://jobicy.com/jobs/153056-cyber-security-engineer-ii
-
-**Senior Product Designer**
-https://jobicy.com/jobs/153043-senior-product-designer-10
-
-**Senior Financial Analyst, Strategic Finance - FP&A**
-https://jobicy.com/jobs/153038-senior-financial-analyst-strategic-finance-fpa
+**Enterprise Sales Director, Kansas & Missouri**
+https://jobicy.com/jobs/153119-enterprise-sales-director-kansas-missouri
 
 --- RUBY ON RAILS ---
 
-**FP&A Manager**
-https://jobicy.com/jobs/153054-fpa-manager-2
-
-**Financial Systems Manager**
-https://jobicy.com/jobs/153050-financial-systems-manager
-
-**Principal Product Manager, Telematics & Connected Ecosystem**
-https://jobicy.com/jobs/153048-principal-product-manager-telematics-connected-ecosystem
+**Chief Technology Officer**
+https://jobicy.com/jobs/153122-chief-technology-officer-2
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Senior Pre-Sales Solutions Architect – West Coast**
-https://jobicy.com/jobs/153036-senior-pre-sales-solutions-architect-west-coast
-
-**BInance Accelerator Program - Key Account Operations**
-https://jobicy.com/jobs/153032-binance-accelerator-program-key-account-operations
-
-**Binance Accelerator Program - HR Talent Acquisition**
-https://jobicy.com/jobs/153030-binance-accelerator-program-hr-talent-acquisition
-
-**Binance Accelerator Program - Growth Marketing (MENA)**
-https://jobicy.com/jobs/153028-binance-accelerator-program-growth-marketing-mena
+**Clean Energy and New Technology Lead**
+https://jobicy.com/jobs/151216-clean-energy-and-new-technology-lead
 
