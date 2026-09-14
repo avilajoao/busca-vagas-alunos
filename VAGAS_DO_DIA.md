@@ -1,48 +1,87 @@
 **Hello Guys!**
-Segue nossa lista de vagas das últimas 24h! (13/09/2026)
+Segue nossa lista de vagas das últimas 24h! (14/09/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Staff Software Engineer (SRE)**
-https://jobicy.com/jobs/153134-staff-software-engineer-sre
+**Enterprise Account Executive - Public Sector**
+https://jobicy.com/jobs/153219-enterprise-account-executive-public-sector
 
-**Senior GTM Engineering Analyst**
-https://jobicy.com/jobs/153118-senior-gtm-engineering-analyst
+**Hypercare Representative (LATAM)**
+https://jobicy.com/jobs/153220-hypercare-representative-latam
 
-**Snr. Marketing Manager, Enterprise ABM EMEA**
-https://jobicy.com/jobs/152037-snr-marketing-manager-enterprise-abm-emea
+**Enterprise Account Executive, Healthcare**
+https://jobicy.com/jobs/153216-enterprise-account-executive-healthcare
 
-**Senior Site Reliability Engineer (Hardware Automation)**
-https://jobicy.com/jobs/149057-senior-site-reliability-engineer-hardware-automation
+**Customer Support Representative - Brazil**
+https://jobicy.com/jobs/153214-customer-support-representative-brazil
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Staff DevOps Engineer (Platform)**
-https://jobicy.com/jobs/153130-staff-devops-engineer-platform
+**Senior Full Stack Engineer**
+https://jobicy.com/jobs/145861-senior-full-stack-engineer-5
 
-**Associate VP, Customer Success - Americas**
-https://jobicy.com/jobs/153124-associate-vp-customer-success-americas
+--- TYPESCRIPT / JAVASCRIPT ---
 
-**Customer Success Manager**
-https://jobicy.com/jobs/150472-customer-success-manager-11
+**Senior Game Mathematician**
+https://jobicy.com/jobs/153229-senior-game-mathematician
+
+--- VUE.JS / NUXT ---
+
+**Head of Engineering**
+https://jobicy.com/jobs/150588-head-of-engineering
+
+--- C# / .NET ---
+
+**Staff Software Engineer**
+https://jobicy.com/jobs/150585-staff-software-engineer-3
+
+**Trade Compliance Specialist (Europe)**
+https://jobicy.com/jobs/150578-trade-compliance-specialist-europe
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Data Analyst, Internal Audit**
-https://jobicy.com/jobs/153127-data-analyst-internal-audit
+**Delivery Solutions Architect - Startups & Emerging Enterprise**
+https://jobicy.com/jobs/153207-delivery-solutions-architect-startups-emerging-enterprise
+
+**Delivery Solutions Architect - Oil & Gas**
+https://jobicy.com/jobs/153202-delivery-solutions-architect-oil-gas
+
+**Delivery Solutions Architect - Digital Native Business**
+https://jobicy.com/jobs/153197-delivery-solutions-architect-digital-native-business
+
+**Senior ML Engineer (AI Research, Physical AI)**
+https://jobicy.com/jobs/150592-senior-ml-engineer-ai-research-physical-ai
+
+--- PHP / LARAVEL ---
+
+**Legal Consultant - GMSLA**
+https://jobicy.com/jobs/149122-legal-consultant-gmsla
 
 --- GO ---
 
-**Enterprise Sales Director, Kansas & Missouri**
-https://jobicy.com/jobs/153119-enterprise-sales-director-kansas-missouri
+**Enterprise Sales Leader - Travel & Hospitality, Retail & Restaurants, and Sports Media & Entertainment**
+https://jobicy.com/jobs/153222-enterprise-sales-leader-travel-hospitality-retail-restaurants-and-sports-media-entertainment
 
---- RUBY ON RAILS ---
+**Enterprise Sales Leader - Technology and Telecommunications**
+https://jobicy.com/jobs/153218-enterprise-sales-leader-technology-and-telecommunications
 
-**Chief Technology Officer**
-https://jobicy.com/jobs/153122-chief-technology-officer-2
+**GTM Recruiter - Mexico**
+https://jobicy.com/jobs/153212-gtm-recruiter-mexico
+
+**Enterprise Sales Leader - Financial Services**
+https://jobicy.com/jobs/153206-enterprise-sales-leader-financial-services
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Clean Energy and New Technology Lead**
-https://jobicy.com/jobs/151216-clean-energy-and-new-technology-lead
+**Manager, Talent Partner (HR Business Partner)  - Belfast Remote**
+https://jobicy.com/jobs/153223-manager-talent-partner-hr-business-partner-belfast-remote
+
+**Enterprise Sales Leader - Public Sector, Federal**
+https://jobicy.com/jobs/153215-enterprise-sales-leader-public-sector-federal
+
+**Enterprise Sales Leader - Manufacturing**
+https://jobicy.com/jobs/153210-enterprise-sales-leader-manufacturing
+
+**Recruiting Sourcer & Coordinator - Contractor**
+https://jobicy.com/jobs/153203-recruiting-sourcer-coordinator-contractor
 
