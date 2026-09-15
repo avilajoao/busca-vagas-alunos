@@ -1,72 +1,85 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (14/09/2026)
+Segue nossa lista de vagas de hoje! (15/09/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Manager, Customer Support - ANZ**
-https://jobicy.com/jobs/153271-manager-customer-support-anz
+**SecOps Engineer I**
+https://jobicy.com/jobs/153310-secops-engineer-i
 
-**Customer Service Executive**
-https://www.arbeitnow.co.uk/jobs/companies/bike-club/customer-service-executive-london-257839
+**Pre-Sales Solutions Architect, LATAM**
+https://jobicy.com/jobs/149157-pre-sales-solutions-architect-latam
 
-**Datadog: Developer Advocate - Service Management**
-https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management
+**Customer Solutions Engineer – Payments**
+https://jobicy.com/jobs/149199-customer-solutions-engineer-payments
 
-**Squarespace: Customer Support Associate (Remote)**
-https://weworkremotely.com/remote-jobs/squarespace-customer-support-associate-remote
+**Agentic AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)**
+https://jobicy.com/jobs/150763-agentic-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**CircleCI: Senior Software Engineer**
-https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer
+**SVP, Product**
+https://jobicy.com/jobs/153312-svp-product
 
-**Vercel: GRC Analyst**
-https://weworkremotely.com/remote-jobs/vercel-grc-analyst
+**Chief Technology Officer**
+https://jobicy.com/jobs/153308-chief-technology-officer-3
+
+**Director of Engineering, Leverage**
+https://jobicy.com/jobs/150772-director-of-engineering-leverage
+
+**Design Engineer, Brand**
+https://jobicy.com/jobs/150758-design-engineer-brand
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Webflow: Staff Brand Designer**
-https://weworkremotely.com/remote-jobs/webflow-staff-brand-designer
+**Senior DevOps Lead**
+https://jobicy.com/jobs/153313-senior-devops-lead
+
+**Enterprise Sales Engineer - Toronto**
+https://jobicy.com/jobs/142074-enterprise-sales-engineer-toronto
+
+**Algolia: Customer Success Engineer**
+https://weworkremotely.com/remote-jobs/algolia-customer-success-engineer
+
+--- C# / .NET ---
+
+**Data Engineer, Product Analytics**
+https://jobicy.com/jobs/150666-data-engineer-product-analytics
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Member of Technical Staff (Data Intelligence)**
-https://jobicy.com/jobs/153245-member-of-technical-staff-data-intelligence
-
-**Fastly: Senior SRE - Networks**
-https://weworkremotely.com/remote-jobs/fastly-senior-sre-networks
-
-**Clover Health: Actuarial Analyst**
-https://weworkremotely.com/remote-jobs/clover-health-actuarial-analyst
-
-**Discord: Engineering Manager, Notifications**
-https://weworkremotely.com/remote-jobs/discord-engineering-manager-notifications
+**AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)**
+https://jobicy.com/jobs/150767-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones
 
 --- GO ---
 
-**PagerDuty: Account Manager- DC**
-https://weworkremotely.com/remote-jobs/pagerduty-account-manager-dc
+**Account Development Representative - DACH**
+https://jobicy.com/jobs/152463-account-development-representative-dach-2
 
-**Profitable Painter CPA PLLC: Senior Tax Preparer/Reviewer**
-https://weworkremotely.com/remote-jobs/profitable-painter-cpa-pllc-senior-tax-preparer-reviewer
+**Account Executive, Commercial Accounts (Public)**
+https://jobicy.com/jobs/150759-account-executive-commercial-accounts-public
 
-**IxDF - Interaction Design Foundation: Education Designer: UX, UI, and AI **
-https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai
+**(Senior) Product Director, Local Growth**
+https://jobicy.com/jobs/150798-senior-product-director-local-growth
 
-**IxDF - Interaction Design Foundation: Course Writer and Editor: UX, UI, and AI **
-https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-writer-and-editor-ux-ui-and-ai
+--- RUBY ON RAILS ---
+
+**Account Executive, Mid-Market**
+https://jobicy.com/jobs/150768-account-executive-mid-market
+
+**Account Executive, SMB**
+https://jobicy.com/jobs/150770-account-executive-smb
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Senior Affiliate Manager (Full Remote - Greece)**
-https://jobicy.com/jobs/153261-senior-affiliate-manager-full-remote-greece
+**Associate (CPA/SMMM)**
+https://jobicy.com/jobs/150821-associate-cpa-smmm
 
-**Senior Affiliate Manager (Full Remote - Spain)**
-https://jobicy.com/jobs/153256-senior-affiliate-manager-full-remote-spain
+**Accounting Associate (Remote, USA-Based)**
+https://jobicy.com/jobs/150819-accounting-associate-remote-usa-based
 
-**Senior Performance Marketer (Full Remote - UK)**
-https://jobicy.com/jobs/153252-senior-performance-marketer-full-remote-uk
+**Business Development Manager**
+https://jobicy.com/jobs/150754-business-development-manager
 
-**Senior Performance Marketer (Full Remote - Spain)**
-https://jobicy.com/jobs/153251-senior-performance-marketer-full-remote-spain
+**Chief of Staff, Emergency Cash (Senior Manager)**
+https://jobicy.com/jobs/150791-chief-of-staff-emergency-cash-senior-manager
 
