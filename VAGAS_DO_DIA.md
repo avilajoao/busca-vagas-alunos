@@ -1,85 +1,92 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (15/09/2026)
+Segue nossa lista de vagas de hoje! (16/09/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**SecOps Engineer I**
-https://jobicy.com/jobs/153310-secops-engineer-i
+**Account Executive (SaaS)**
+https://jobicy.com/jobs/150860-account-executive-saas
 
-**Pre-Sales Solutions Architect, LATAM**
-https://jobicy.com/jobs/149157-pre-sales-solutions-architect-latam
+**Account Executive**
+https://jobicy.com/jobs/150852-account-executive-2
 
-**Customer Solutions Engineer – Payments**
-https://jobicy.com/jobs/149199-customer-solutions-engineer-payments
+**Account Executive (Key Accounts)**
+https://jobicy.com/jobs/150856-account-executive-key-accounts
 
-**Agentic AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)**
-https://jobicy.com/jobs/150763-agentic-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones
+**Support Engineering Manager (APAC)**
+https://jobicy.com/jobs/146230-support-engineering-manager-apac
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**SVP, Product**
-https://jobicy.com/jobs/153312-svp-product
+**Senior Full-stack Engineer (Elixir/React) – veterinary software company - (Remote - LATAM)**
+https://jobicy.com/jobs/146276-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-latam
 
-**Chief Technology Officer**
-https://jobicy.com/jobs/153308-chief-technology-officer-3
+**Support Engineering Manager (APAC)**
+https://jobicy.com/jobs/149306-support-engineering-manager-apac-2
 
-**Director of Engineering, Leverage**
-https://jobicy.com/jobs/150772-director-of-engineering-leverage
-
-**Design Engineer, Brand**
-https://jobicy.com/jobs/150758-design-engineer-brand
+**Samsara: Staff Software Engineer**
+https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Senior DevOps Lead**
-https://jobicy.com/jobs/153313-senior-devops-lead
+**Technical & Solution Architect (Distributed Ledger / Regulated Financial Services)**
+https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-technical-solution-architect-distributed-ledger-regulated-financial-services-london-118764
 
-**Enterprise Sales Engineer - Toronto**
-https://jobicy.com/jobs/142074-enterprise-sales-engineer-toronto
+--- JAVA / SPRING BOOT ---
 
-**Algolia: Customer Success Engineer**
-https://weworkremotely.com/remote-jobs/algolia-customer-success-engineer
+**Senior Software Engineer - Data Platform**
+https://jobicy.com/jobs/145935-senior-software-engineer-data-platform-2
 
 --- C# / .NET ---
 
-**Data Engineer, Product Analytics**
-https://jobicy.com/jobs/150666-data-engineer-product-analytics
+**Customer Support Executive with German (Onboarding)**
+https://jobicy.com/jobs/146331-customer-support-executive-with-german-onboarding
+
+**Senior SDET - GovTech Industry (Colombia)**
+https://jobicy.com/jobs/146269-senior-sdet-govtech-industry-colombia
+
+**EMPIRE ASSETS: Junior Crypto Analyst & Trader**
+https://weworkremotely.com/remote-jobs/empire-assets-junior-crypto-analyst-trader
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)**
-https://jobicy.com/jobs/150767-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones
+**Credit Risk Manager, Portfolio Management**
+https://jobicy.com/jobs/145953-credit-risk-manager-portfolio-management
+
+--- PHP / LARAVEL ---
+
+**Legal Consultant - Japanese Speakers (to be based in Hong Kong)**
+https://jobicy.com/jobs/149307-legal-consultant-japanese-speakers-to-be-based-in-hong-kong
 
 --- GO ---
 
-**Account Development Representative - DACH**
-https://jobicy.com/jobs/152463-account-development-representative-dach-2
+**Enterprise Account Executive**
+https://jobicy.com/jobs/150835-enterprise-account-executive-2
 
-**Account Executive, Commercial Accounts (Public)**
-https://jobicy.com/jobs/150759-account-executive-commercial-accounts-public
+**Customer Trainer**
+https://jobicy.com/jobs/146335-customer-trainer-2
 
-**(Senior) Product Director, Local Growth**
-https://jobicy.com/jobs/150798-senior-product-director-local-growth
+**PagerDuty: Enterprise Account Executive - Florida**
+https://weworkremotely.com/remote-jobs/pagerduty-enterprise-account-executive-florida
 
---- RUBY ON RAILS ---
+**PagerDuty: Account Manager (US)**
+https://weworkremotely.com/remote-jobs/pagerduty-account-manager-us
 
-**Account Executive, Mid-Market**
-https://jobicy.com/jobs/150768-account-executive-mid-market
+--- BANCOS DE DADOS (SQL / NOSQL) ---
 
-**Account Executive, SMB**
-https://jobicy.com/jobs/150770-account-executive-smb
+**Senior Customer Success Manager**
+https://jobicy.com/jobs/149315-senior-customer-success-manager-2
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Associate (CPA/SMMM)**
-https://jobicy.com/jobs/150821-associate-cpa-smmm
+**Business Development Executive**
+https://jobicy.com/jobs/150753-business-development-executive
 
-**Accounting Associate (Remote, USA-Based)**
-https://jobicy.com/jobs/150819-accounting-associate-remote-usa-based
+**Area Vice President, Strategic Sales**
+https://jobicy.com/jobs/150811-area-vice-president-strategic-sales
 
-**Business Development Manager**
-https://jobicy.com/jobs/150754-business-development-manager
+**Chief Technology Officer**
+https://jobicy.com/jobs/150832-chief-technology-officer
 
-**Chief of Staff, Emergency Cash (Senior Manager)**
-https://jobicy.com/jobs/150791-chief-of-staff-emergency-cash-senior-manager
+**Manager, Mobility - APAC**
+https://jobicy.com/jobs/149303-manager-mobility-apac-2
 
