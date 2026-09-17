@@ -1,92 +1,88 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (16/09/2026)
+Segue nossa lista de vagas de hoje! (17/09/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Account Executive (SaaS)**
-https://jobicy.com/jobs/150860-account-executive-saas
+**Junior Software Engineer – Early Career (Strong Problem solving & Coding Focus) - 100% Remote within Spain**
+https://jobicy.com/jobs/153483-junior-software-engineer-early-career-strong-problem-solving-coding-focus-100-remote-within-spain
 
-**Account Executive**
-https://jobicy.com/jobs/150852-account-executive-2
+**Site Engineer**
+https://jobicy.com/jobs/150929-site-engineer
 
-**Account Executive (Key Accounts)**
-https://jobicy.com/jobs/150856-account-executive-key-accounts
+**Staff DevOps Engineer**
+https://jobicy.com/jobs/153477-staff-devops-engineer-3
 
-**Support Engineering Manager (APAC)**
-https://jobicy.com/jobs/146230-support-engineering-manager-apac
+**DevOps Engineer**
+https://jobicy.com/jobs/153473-devops-engineer-5
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Senior Full-stack Engineer (Elixir/React) – veterinary software company - (Remote - LATAM)**
-https://jobicy.com/jobs/146276-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-latam
+**Developer Relations Engineer (London, UK)**
+https://jobicy.com/jobs/153490-developer-relations-engineer-london-uk
 
-**Support Engineering Manager (APAC)**
-https://jobicy.com/jobs/149306-support-engineering-manager-apac-2
+**Senior Software Engineer (Elixir)**
+https://jobicy.com/jobs/150933-senior-software-engineer-elixir
 
-**Samsara: Staff Software Engineer**
-https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer
+**Contract Senior Web Engineer**
+https://jobicy.com/jobs/150885-contract-senior-web-engineer
 
---- TYPESCRIPT / JAVASCRIPT ---
-
-**Technical & Solution Architect (Distributed Ledger / Regulated Financial Services)**
-https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-technical-solution-architect-distributed-ledger-regulated-financial-services-london-118764
+**Technical Lead - GPU Infrastructure**
+https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-technical-lead-gpu-infrastructure-london-392611
 
 --- JAVA / SPRING BOOT ---
 
-**Senior Software Engineer - Data Platform**
-https://jobicy.com/jobs/145935-senior-software-engineer-data-platform-2
+**Infrastructure Software Engineer**
+https://jobicy.com/jobs/153485-infrastructure-software-engineer
 
---- C# / .NET ---
-
-**Customer Support Executive with German (Onboarding)**
-https://jobicy.com/jobs/146331-customer-support-executive-with-german-onboarding
-
-**Senior SDET - GovTech Industry (Colombia)**
-https://jobicy.com/jobs/146269-senior-sdet-govtech-industry-colombia
-
-**EMPIRE ASSETS: Junior Crypto Analyst & Trader**
-https://weworkremotely.com/remote-jobs/empire-assets-junior-crypto-analyst-trader
+**Senior QA Automation Engineer - Product (LATAM)**
+https://jobicy.com/jobs/153469-senior-qa-automation-engineer-product-latam
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Credit Risk Manager, Portfolio Management**
-https://jobicy.com/jobs/145953-credit-risk-manager-portfolio-management
+**Senior Data Scientist (Remote Friendly)**
+https://jobicy.com/jobs/153487-senior-data-scientist-remote-friendly
 
---- PHP / LARAVEL ---
+**Actuarial Analyst**
+https://jobicy.com/jobs/150917-actuarial-analyst
 
-**Legal Consultant - Japanese Speakers (to be based in Hong Kong)**
-https://jobicy.com/jobs/149307-legal-consultant-japanese-speakers-to-be-based-in-hong-kong
+**Senior Machine Learning Engineer**
+https://jobicy.com/jobs/150930-senior-machine-learning-engineer
 
 --- GO ---
 
-**Enterprise Account Executive**
-https://jobicy.com/jobs/150835-enterprise-account-executive-2
+**AI Vendor Market Expert (Senior Director, Analyst – Fully Remote United States)**
+https://jobicy.com/jobs/146434-ai-vendor-market-expert-senior-director-analyst-fully-remote-united-states
 
-**Customer Trainer**
-https://jobicy.com/jobs/146335-customer-trainer-2
+**Mexico Major AE**
+https://jobicy.com/jobs/153476-mexico-major-ae
 
-**PagerDuty: Enterprise Account Executive - Florida**
-https://weworkremotely.com/remote-jobs/pagerduty-enterprise-account-executive-florida
+--- RUBY ON RAILS ---
 
-**PagerDuty: Account Manager (US)**
-https://weworkremotely.com/remote-jobs/pagerduty-account-manager-us
+**Payroll Specialist**
+https://jobicy.com/jobs/153491-payroll-specialist
+
+**Manager I, Customer Success**
+https://jobicy.com/jobs/153472-manager-i-customer-success-2
 
 --- BANCOS DE DADOS (SQL / NOSQL) ---
 
-**Senior Customer Success Manager**
-https://jobicy.com/jobs/149315-senior-customer-success-manager-2
+**Partnerships Lead (EMEA)**
+https://jobicy.com/jobs/153486-partnerships-lead-emea
+
+**ZoomInfo Technologies LLC: Principal Cloud Architect**
+https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-cloud-architect
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Business Development Executive**
-https://jobicy.com/jobs/150753-business-development-executive
+**Senior Product Designer (Full Remote - Italy)**
+https://jobicy.com/jobs/153488-senior-product-designer-full-remote-italy
 
-**Area Vice President, Strategic Sales**
-https://jobicy.com/jobs/150811-area-vice-president-strategic-sales
+**Senior Product Designer (Full Remote - Germany)**
+https://jobicy.com/jobs/153484-senior-product-designer-full-remote-germany
 
-**Chief Technology Officer**
-https://jobicy.com/jobs/150832-chief-technology-officer
+**LawnStarter: Principal Quality Engineer**
+https://weworkremotely.com/remote-jobs/lawnstarter-principal-quality-engineer
 
-**Manager, Mobility - APAC**
-https://jobicy.com/jobs/149303-manager-mobility-apac-2
+**Keeper Security: Bilingual Channel Account Manager, Arabic (MEA) - UK**
+https://weworkremotely.com/remote-jobs/keeper-security-bilingual-channel-account-manager-arabic-mea-uk
 
