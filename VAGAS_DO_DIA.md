@@ -1,90 +1,87 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (18/09/2026)
+Segue nossa lista de vagas de hoje! (19/09/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Principal DevOps Engineer**
-https://jobicy.com/jobs/148200-principal-devops-engineer-2
+**Enterprise Account Executive, New Business**
+https://jobicy.com/jobs/151065-enterprise-account-executive-new-business
 
-**Offensive Security Lead**
-https://jobicy.com/jobs/149365-offensive-security-lead
+**Channel Sales Manager**
+https://jobicy.com/jobs/146810-channel-sales-manager-2
 
-**Vulnerability Operation Center Lead**
-https://jobicy.com/jobs/149362-vulnerability-operation-center-lead
+**Account Manager, Rochester - Albany, NY**
+https://jobicy.com/jobs/146667-account-manager-rochester-albany-ny
 
-**Senior Technical Product Manager, Token Factory**
-https://jobicy.com/jobs/149361-senior-technical-product-manager-token-factory
+**Customer Onboarding Specialist**
+https://jobicy.com/jobs/150972-customer-onboarding-specialist
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Customer Solution Architect (AMER)**
-https://jobicy.com/jobs/151044-customer-solution-architect-amer
+**Functional Consultant, EMEA**
+https://jobicy.com/jobs/151077-functional-consultant-emea
 
-**Senior Full-stack Engineer (Python/React) - Advertising**
-https://jobicy.com/jobs/153536-senior-full-stack-engineer-python-react-advertising-2
-
-**Sanctuary Computer: Senior Shopify Developer**
-https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-shopify-developer
+**CircleCI: Software Engineer**
+https://weworkremotely.com/remote-jobs/circleci-software-engineer
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Marketing Engineer**
-https://jobicy.com/jobs/151025-marketing-engineer
+**Bulgarian SEO Specialist**
+https://jobicy.com/jobs/151172-bulgarian-seo-specialist
 
---- ANGULAR ---
-
-**Senior Software Architect (C#/Angular/AI First) - GovTech SaaS company**
-https://jobicy.com/jobs/153535-senior-software-architect-c-angular-ai-first-govtech-saas-company
+**Associate Linux Support Engineer**
+https://jobicy.com/jobs/151014-associate-linux-support-engineer
 
 --- JAVA / SPRING BOOT ---
 
-**Senior Software Engineer - Workflow**
-https://jobicy.com/jobs/153534-senior-software-engineer-workflow
+**Principal Engineer - Platform & Data**
+https://jobicy.com/jobs/151159-principal-engineer-platform-data
 
-**Senior Software Engineer**
-https://jobicy.com/jobs/153532-senior-software-engineer-9
+**Databricks: Solutions Architect**
+https://weworkremotely.com/remote-jobs/databricks-solutions-architect
+
+--- C# / .NET ---
+
+**LawnStarter: Analytics Engineering Manager, Data Platform & Governance**
+https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Infrastructure Engineer (Brazil)**
-https://jobicy.com/jobs/151020-infrastructure-engineer-brazil
+**Software Engineer - Secure Container Images**
+https://jobicy.com/jobs/150994-software-engineer-secure-container-images
 
-**Manager I, Documentation**
-https://jobicy.com/jobs/151039-manager-i-documentation
+**Distributed Systems Testing Software Engineer, Python / Go**
+https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go
 
-**Senior Backend Python Engineer (Gateway) - Relocation to Cyprus**
-https://www.arbeitnow.com/jobs/companies/payabl/remote-senior-backend-python-engineer-gateway-relocation-to-cyprus-germany-411075
+**CircleCI: Security Operations Engineer**
+https://weworkremotely.com/remote-jobs/circleci-security-operations-engineer
 
 --- GO ---
 
-**Account Executive, Commercial - Mexico**
-https://jobicy.com/jobs/152470-account-executive-commercial-mexico
+**Testing a Financial App for Italian Business Owners**
+https://jobicy.com/jobs/151003-testing-a-financial-app-for-italian-business-owners
 
-**Sales Development Representative - Bilingual Spanish and Italian (UK Remote)**
-https://jobicy.com/jobs/149390-sales-development-representative-bilingual-spanish-and-italian-uk-remote
+**Strategic Account Executive (German Speaking)**
+https://jobicy.com/jobs/151158-strategic-account-executive-german-speaking
 
-**Account Executive, Enterprise**
-https://jobicy.com/jobs/153521-account-executive-enterprise-2
-
-**Account Director, Enterprise**
-https://jobicy.com/jobs/153519-account-director-enterprise
+**Product Manager (Senior/Staff-level)**
+https://jobicy.com/jobs/150974-product-manager-senior-staff-level
 
 --- BANCOS DE DADOS (SQL / NOSQL) ---
 
-**Product Manager - Marketplace**
-https://jobicy.com/jobs/151041-product-manager-marketplace
+**Senior Tech Operations Specialist (all genders)**
+https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-tech-operations-specialist-all-genders-159614
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Manager, Strategic Sales**
-https://jobicy.com/jobs/151024-manager-strategic-sales
+**Compliance Manager (Australia)**
+https://jobicy.com/jobs/151079-compliance-manager-australia
 
-**Executive Assistant, Design**
-https://jobicy.com/jobs/151023-executive-assistant-design
+**Cloudflare: Senior Sales Manager, Mid Market**
+https://weworkremotely.com/remote-jobs/cloudflare-senior-sales-manager-mid-market
 
-**Enterprise Sales Engineer - UK**
-https://jobicy.com/jobs/151034-enterprise-sales-engineer-uk
+**Keeper Security: B2B Customer Support Representative**
+https://weworkremotely.com/remote-jobs/keeper-security-b2b-customer-support-representative
 
-**Security Engineer**
-https://jobicy.com/jobs/151026-security-engineer
+**Reddit: Backend Engineer, IAM**
+https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam
 
