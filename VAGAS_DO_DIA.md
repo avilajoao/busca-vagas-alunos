@@ -1,87 +1,69 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (19/09/2026)
+Segue nossa lista de vagas de hoje! (20/09/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Enterprise Account Executive, New Business**
-https://jobicy.com/jobs/151065-enterprise-account-executive-new-business
+**Generative Media Engineer, AI Social - US**
+https://jobicy.com/jobs/151260-generative-media-engineer-ai-social-us
 
-**Channel Sales Manager**
-https://jobicy.com/jobs/146810-channel-sales-manager-2
+**Generative Media Engineer, AI Social - CANADA**
+https://jobicy.com/jobs/151258-generative-media-engineer-ai-social-canada
 
-**Account Manager, Rochester - Albany, NY**
-https://jobicy.com/jobs/146667-account-manager-rochester-albany-ny
+**Staff Backend Engineer, Hierarchy**
+https://jobicy.com/jobs/151239-staff-backend-engineer-hierarchy
 
-**Customer Onboarding Specialist**
-https://jobicy.com/jobs/150972-customer-onboarding-specialist
+**Engineering Manager, Maps & Search - US**
+https://jobicy.com/jobs/151251-engineering-manager-maps-search-us
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Functional Consultant, EMEA**
-https://jobicy.com/jobs/151077-functional-consultant-emea
+**Senior Product Manager**
+https://jobicy.com/jobs/151268-senior-product-manager-2
 
-**CircleCI: Software Engineer**
-https://weworkremotely.com/remote-jobs/circleci-software-engineer
+**Engineering Manager, Maps & Search - CANADA**
+https://jobicy.com/jobs/151246-engineering-manager-maps-search-canada
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Bulgarian SEO Specialist**
-https://jobicy.com/jobs/151172-bulgarian-seo-specialist
-
-**Associate Linux Support Engineer**
-https://jobicy.com/jobs/151014-associate-linux-support-engineer
-
---- JAVA / SPRING BOOT ---
-
-**Principal Engineer - Platform & Data**
-https://jobicy.com/jobs/151159-principal-engineer-platform-data
-
-**Databricks: Solutions Architect**
-https://weworkremotely.com/remote-jobs/databricks-solutions-architect
-
---- C# / .NET ---
-
-**LawnStarter: Analytics Engineering Manager, Data Platform & Governance**
-https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance
+**Senior Backend Engineer**
+https://jobicy.com/jobs/151253-senior-backend-engineer-2
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Software Engineer - Secure Container Images**
-https://jobicy.com/jobs/150994-software-engineer-secure-container-images
+**Senior Analytics Engineer - US**
+https://jobicy.com/jobs/151266-senior-analytics-engineer-us
 
-**Distributed Systems Testing Software Engineer, Python / Go**
-https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go
+**Senior Database Reliability Engineer**
+https://jobicy.com/jobs/151265-senior-database-reliability-engineer
 
-**CircleCI: Security Operations Engineer**
-https://weworkremotely.com/remote-jobs/circleci-security-operations-engineer
+**Senior Analytics Engineer - CANADA**
+https://jobicy.com/jobs/151263-senior-analytics-engineer-canada
+
+**Software Engineer, Security Observability**
+https://jobicy.com/jobs/151224-software-engineer-security-observability
 
 --- GO ---
 
-**Testing a Financial App for Italian Business Owners**
-https://jobicy.com/jobs/151003-testing-a-financial-app-for-italian-business-owners
+**Lead Solutions Engineer**
+https://jobicy.com/jobs/151256-lead-solutions-engineer
 
-**Strategic Account Executive (German Speaking)**
-https://jobicy.com/jobs/151158-strategic-account-executive-german-speaking
+**Senior Account Executive, Enterprise (Public Accounts)**
+https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-account-executive-enterprise-public-accounts-18944
 
-**Product Manager (Senior/Staff-level)**
-https://jobicy.com/jobs/150974-product-manager-senior-staff-level
-
---- BANCOS DE DADOS (SQL / NOSQL) ---
-
-**Senior Tech Operations Specialist (all genders)**
-https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-tech-operations-specialist-all-genders-159614
+**Senior Account Executive, Enterprise (Private Accounts)**
+https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-account-executive-enterprise-private-accounts-199828
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Compliance Manager (Australia)**
-https://jobicy.com/jobs/151079-compliance-manager-australia
+**Staff Social Strategy & Operations Manager**
+https://jobicy.com/jobs/151262-staff-social-strategy-operations-manager
 
-**Cloudflare: Senior Sales Manager, Mid Market**
-https://weworkremotely.com/remote-jobs/cloudflare-senior-sales-manager-mid-market
+**Senior Technical Program Manager - Security**
+https://jobicy.com/jobs/151221-senior-technical-program-manager-security
 
-**Keeper Security: B2B Customer Support Representative**
-https://weworkremotely.com/remote-jobs/keeper-security-b2b-customer-support-representative
+**Customer Development Manager - Wakefern**
+https://jobicy.com/jobs/146924-customer-development-manager-wakefern
 
-**Reddit: Backend Engineer, IAM**
-https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam
+**Sales Manager - Weather & Climate (EMEA & APAC)**
+https://jobicy.com/jobs/146743-sales-manager-weather-climate-emea-apac
 
