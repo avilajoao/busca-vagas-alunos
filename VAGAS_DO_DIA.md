@@ -1,69 +1,74 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (20/09/2026)
+Segue nossa lista de vagas de hoje! (21/09/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Generative Media Engineer, AI Social - US**
-https://jobicy.com/jobs/151260-generative-media-engineer-ai-social-us
+**Machine Learning Engineer**
+https://jobicy.com/jobs/151331-machine-learning-engineer-5
 
-**Generative Media Engineer, AI Social - CANADA**
-https://jobicy.com/jobs/151258-generative-media-engineer-ai-social-canada
+**VP, Legal**
+https://jobicy.com/jobs/151285-vp-legal
 
-**Staff Backend Engineer, Hierarchy**
-https://jobicy.com/jobs/151239-staff-backend-engineer-hierarchy
+**Support Engineer (AMER)**
+https://jobicy.com/jobs/151300-support-engineer-amer
 
-**Engineering Manager, Maps & Search - US**
-https://jobicy.com/jobs/151251-engineering-manager-maps-search-us
+**Support Engineer (APAC)**
+https://jobicy.com/jobs/151305-support-engineer-apac
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Senior Product Manager**
-https://jobicy.com/jobs/151268-senior-product-manager-2
+**Software Engineer**
+https://jobicy.com/jobs/153799-software-engineer-10
 
-**Engineering Manager, Maps & Search - CANADA**
-https://jobicy.com/jobs/151246-engineering-manager-maps-search-canada
+**Senior Software Engineer**
+https://jobicy.com/jobs/153804-senior-software-engineer-5
+
+**Senior Software Engineer**
+https://jobicy.com/jobs/151290-senior-software-engineer-3
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Senior Backend Engineer**
-https://jobicy.com/jobs/151253-senior-backend-engineer-2
+**Technical Program Manager**
+https://jobicy.com/jobs/153792-technical-program-manager-4
+
+**Huntress: Security Operations Analyst**
+https://weworkremotely.com/remote-jobs/huntress-security-operations-analyst
+
+--- C# / .NET ---
+
+**Adventure Travel 365: Senior Full-Stack Developer - Marketplace Web & Mobile Platform**
+https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Senior Analytics Engineer - US**
-https://jobicy.com/jobs/151266-senior-analytics-engineer-us
-
-**Senior Database Reliability Engineer**
-https://jobicy.com/jobs/151265-senior-database-reliability-engineer
-
-**Senior Analytics Engineer - CANADA**
-https://jobicy.com/jobs/151263-senior-analytics-engineer-canada
-
-**Software Engineer, Security Observability**
-https://jobicy.com/jobs/151224-software-engineer-security-observability
+**Datadog: Developer Advocate - Service Management EMEA**
+https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management-emea
 
 --- GO ---
 
-**Lead Solutions Engineer**
-https://jobicy.com/jobs/151256-lead-solutions-engineer
+**Enterprise Account Executive - Central**
+https://jobicy.com/jobs/153791-enterprise-account-executive-central-3
 
-**Senior Account Executive, Enterprise (Public Accounts)**
-https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-account-executive-enterprise-public-accounts-18944
+**Lead Revenue Operations Analyst**
+https://jobicy.com/jobs/153789-lead-revenue-operations-analyst
 
-**Senior Account Executive, Enterprise (Private Accounts)**
-https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-account-executive-enterprise-private-accounts-199828
+**Drug CMC Lead**
+https://jobicy.com/jobs/151302-drug-cmc-lead
+
+**VP Analyst - Analyst Relations Strategy**
+https://jobicy.com/jobs/143967-vp-analyst-analyst-relations-remote-western-europe
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Staff Social Strategy & Operations Manager**
-https://jobicy.com/jobs/151262-staff-social-strategy-operations-manager
+**Senior Product Designer (Full Remote - Netherlands)**
+https://jobicy.com/jobs/153798-senior-product-designer-full-remote-netherlands
 
-**Senior Technical Program Manager - Security**
-https://jobicy.com/jobs/151221-senior-technical-program-manager-security
+**Senior Product Designer (Full Remote - UK)**
+https://jobicy.com/jobs/153803-senior-product-designer-full-remote-uk
 
-**Customer Development Manager - Wakefern**
-https://jobicy.com/jobs/146924-customer-development-manager-wakefern
+**Cloud & ISV Alliances and Marketplaces Lead**
+https://jobicy.com/jobs/151339-cloud-isv-alliances-and-marketplaces-lead
 
-**Sales Manager - Weather & Climate (EMEA & APAC)**
-https://jobicy.com/jobs/146743-sales-manager-weather-climate-emea-apac
+**Senior Business Development Manager (Remote within USA or Canada)**
+https://jobicy.com/jobs/151324-senior-business-development-manager-remote-within-usa-or-canada
 
