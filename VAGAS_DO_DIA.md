@@ -1,88 +1,77 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (25/09/2026)
+Segue nossa lista de vagas de hoje! (26/09/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Head of AI Engineering - NCT**
-https://jobicy.com/jobs/151636-head-of-ai-engineering-nct
+**Senior Software Engineer, Backend (Money Movement)**
+https://jobicy.com/jobs/154082-senior-software-engineer-backend-money-movement
 
-**Chief Product Technology Officer - Classter**
-https://jobicy.com/jobs/151630-chief-product-technology-officer-classter
+**Senior Infrastructure Solutions Engineer**
+https://www.arbeitnow.com/jobs/companies/planetlabs/remote-senior-infrastructure-solutions-engineer-59844
 
-**Commercial Account Executive - Benelux**
-https://jobicy.com/jobs/151547-commercial-account-executive-benelux
+**Faire: Senior Staff Machine Learning Platform Engineer**
+https://weworkremotely.com/remote-jobs/faire-senior-staff-machine-learning-platform-engineer
 
-**Senior Product Manager, Funnels/Workflow**
-https://jobicy.com/jobs/151545-senior-product-manager-funnels-workflow
+**Remote: Benefits Operations Specialist - AMER**
+https://weworkremotely.com/remote-jobs/remote-benefits-operations-specialist-amer
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Head of GTM Enablement**
-https://jobicy.com/jobs/151670-head-of-gtm-enablement
-
-**Software Engineer (All Levels)**
-https://jobicy.com/jobs/151601-software-engineer-all-levels
-
-**Sezzle: A.I. Engineering Intern**
-https://weworkremotely.com/remote-jobs/sezzle-a-i-engineering-intern
+**Staff Software Engineer**
+https://jobicy.com/jobs/154068-staff-software-engineer-7
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Solutions Architect - MENA**
-https://jobicy.com/jobs/151446-solutions-architect-mena
+**Staff Platform Security Engineer (Security)**
+https://jobicy.com/jobs/154078-staff-platform-security-engineer-security
 
---- C# / .NET ---
+--- JAVA / SPRING BOOT ---
 
-**Veeam Software: Campaign Marketing Intern - Summer 2027**
-https://weworkremotely.com/remote-jobs/veeam-software-campaign-marketing-intern-summer-2027
+**Senior Software Engineer, Backend - Distributed Systems**
+https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-379485
 
-**Belkins: Sales Development Representative (Intake Pod)**
-https://weworkremotely.com/remote-jobs/belkins-sales-development-representative-intake-pod
-
-**INFUSE: Marketing Analyst (Remote, Contract)**
-https://weworkremotely.com/remote-jobs/infuse-marketing-analyst-remote-contract
-
-**Xometry Europe: Copywriter - Paid Social Media Ad Creative**
-https://weworkremotely.com/remote-jobs/xometry-europe-copywriter-paid-social-media-ad-creative
-
---- PYTHON / DJANGO / FASTAPI ---
-
-**Senior Data Scientist, Product**
-https://jobicy.com/jobs/151640-senior-data-scientist-product
-
-**Senior Software Engineer - Verification Platform**
-https://jobicy.com/jobs/151549-senior-software-engineer-verification-platform
+**Dremio: Senior Software Engineer - Platform**
+https://weworkremotely.com/remote-jobs/dremio-senior-software-engineer-platform
 
 --- GO ---
 
-**Enterprise Account Executive - Central**
-https://jobicy.com/jobs/151615-enterprise-account-executive-central
+**Product Manager - Security & Trust (EMEA/AMER)**
+https://jobicy.com/jobs/154085-product-manager-security-trust-emea-amer
 
-**Enterprise Account Executive - Southeast (Atlanta)**
-https://jobicy.com/jobs/151634-enterprise-account-executive-southeast-atlanta
+**Enterprise Sales Director, DMV**
+https://jobicy.com/jobs/154074-enterprise-sales-director-dmv
 
-**Global Account Executive**
-https://jobicy.com/jobs/151596-global-account-executive
+**Enterprise Sales Director (TN, LA, AR)**
+https://jobicy.com/jobs/154066-enterprise-sales-director-tn-la-ar
 
-**Senior Backend Software Engineer (Observability)**
-https://jobicy.com/jobs/147408-senior-backend-software-engineer-observability
+**Software Engineer, Infrastructure - Self Managed Experience (SMX)**
+https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-423924
 
 --- BANCOS DE DADOS (SQL / NOSQL) ---
 
-**Senior Infrastructure Engineer**
-https://jobicy.com/jobs/151592-senior-infrastructure-engineer
+**OrioleDB Developer (AMER)**
+https://jobicy.com/jobs/154087-orioledb-developer-amer
+
+**Database Support Engineer (EMEA)**
+https://jobicy.com/jobs/154079-database-support-engineer-emea
+
+**Database Support Engineer (AMER)**
+https://jobicy.com/jobs/154076-database-support-engineer-amer
+
+**Account Executive (APAC)**
+https://jobicy.com/jobs/154083-account-executive-apac
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Sales Executive New Business - Nordics**
-https://jobicy.com/jobs/151564-sales-executive-new-business-nordics
+**Senior Brand Designer**
+https://jobicy.com/jobs/154086-senior-brand-designer
 
-**Alliance Manager, Translational Medicine**
-https://jobicy.com/jobs/151562-alliance-manager-translational-medicine
+**Staff Engineer, Full Stack (Trust, Safety & Risk)**
+https://jobicy.com/jobs/154084-staff-engineer-full-stack-trust-safety-risk
 
-**Account Executive, Enterprise**
-https://jobicy.com/jobs/151569-account-executive-enterprise
+**Database Support Engineer (APAC)**
+https://jobicy.com/jobs/154081-database-support-engineer-apac
 
-**Iterable: [Evergreen] Account Executive (Enterprise / Strategic) - East Region**
-https://weworkremotely.com/remote-jobs/iterable-evergreen-account-executive-enterprise-strategic-east-region
+**Head of Brand Creative**
+https://jobicy.com/jobs/154080-head-of-brand-creative
 
