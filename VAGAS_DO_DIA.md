@@ -1,77 +1,77 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (26/09/2026)
+Segue nossa lista de vagas de hoje! (27/09/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Senior Software Engineer, Backend (Money Movement)**
-https://jobicy.com/jobs/154082-senior-software-engineer-backend-money-movement
+**Senior Full Stack Product Engineer (TypeScript)**
+https://jobicy.com/jobs/151824-senior-full-stack-product-engineer-typescript
 
-**Senior Infrastructure Solutions Engineer**
-https://www.arbeitnow.com/jobs/companies/planetlabs/remote-senior-infrastructure-solutions-engineer-59844
+**Business Development Representative**
+https://jobicy.com/jobs/151818-business-development-representative-10
 
-**Faire: Senior Staff Machine Learning Platform Engineer**
-https://weworkremotely.com/remote-jobs/faire-senior-staff-machine-learning-platform-engineer
+**Key Customers Solutions Architect**
+https://jobicy.com/jobs/151847-key-customers-solutions-architect
 
-**Remote: Benefits Operations Specialist - AMER**
-https://weworkremotely.com/remote-jobs/remote-benefits-operations-specialist-amer
+**JFrog: Strategic Account Executive**
+https://weworkremotely.com/remote-jobs/jfrog-strategic-account-executive
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Staff Software Engineer**
-https://jobicy.com/jobs/154068-staff-software-engineer-7
+**Toggl: Senior Full Stack**
+https://weworkremotely.com/remote-jobs/toggl-senior-full-stack
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Staff Platform Security Engineer (Security)**
-https://jobicy.com/jobs/154078-staff-platform-security-engineer-security
+**Lifecycle Marketing Automation Specialist**
+https://jobicy.com/jobs/151881-lifecycle-marketing-automation-specialist
 
---- JAVA / SPRING BOOT ---
+**AITrainers: Remote AI Trainers (Generalist, Finance, Law, and SWE)**
+https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-finance-law-and-swe
 
-**Senior Software Engineer, Backend - Distributed Systems**
-https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-379485
+--- C# / .NET ---
 
-**Dremio: Senior Software Engineer - Platform**
-https://weworkremotely.com/remote-jobs/dremio-senior-software-engineer-platform
+**TestGorilla: Senior Demand Generation Manager**
+https://weworkremotely.com/remote-jobs/testgorilla-senior-demand-generation-manager
+
+--- PYTHON / DJANGO / FASTAPI ---
+
+**Engineering Manager, Notifications**
+https://jobicy.com/jobs/151756-engineering-manager-notifications
+
+**Analyst**
+https://jobicy.com/jobs/151815-analyst
+
+**Applied Data Scientist / Machine Learning Engineer (Decision Intelligence)**
+https://jobicy.com/jobs/147495-applied-data-scientist-machine-learning-engineer-decision-intelligence
+
+**Senior Data Engineer**
+https://www.arbeitnow.ch/jobs/companies/futurae/remote-senior-data-engineer-zurich-267061
 
 --- GO ---
 
-**Product Manager - Security & Trust (EMEA/AMER)**
-https://jobicy.com/jobs/154085-product-manager-security-trust-emea-amer
+**Sr. Director, Assistant Controller**
+https://jobicy.com/jobs/151887-sr-director-assistant-controller
 
-**Enterprise Sales Director, DMV**
-https://jobicy.com/jobs/154074-enterprise-sales-director-dmv
+**PagerDuty: Enterprise Account Executive (San Francisco)**
+https://weworkremotely.com/remote-jobs/pagerduty-enterprise-account-executive-san-francisco
 
-**Enterprise Sales Director (TN, LA, AR)**
-https://jobicy.com/jobs/154066-enterprise-sales-director-tn-la-ar
+**PagerDuty: Account Manager - Boston**
+https://weworkremotely.com/remote-jobs/pagerduty-account-manager-boston
 
-**Software Engineer, Infrastructure - Self Managed Experience (SMX)**
-https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-423924
-
---- BANCOS DE DADOS (SQL / NOSQL) ---
-
-**OrioleDB Developer (AMER)**
-https://jobicy.com/jobs/154087-orioledb-developer-amer
-
-**Database Support Engineer (EMEA)**
-https://jobicy.com/jobs/154079-database-support-engineer-emea
-
-**Database Support Engineer (AMER)**
-https://jobicy.com/jobs/154076-database-support-engineer-amer
-
-**Account Executive (APAC)**
-https://jobicy.com/jobs/154083-account-executive-apac
+**Faire: Director, Global Equity**
+https://weworkremotely.com/remote-jobs/faire-director-global-equity
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Senior Brand Designer**
-https://jobicy.com/jobs/154086-senior-brand-designer
+**Cloud Support Engineer**
+https://jobicy.com/jobs/151889-cloud-support-engineer-2
 
-**Staff Engineer, Full Stack (Trust, Safety & Risk)**
-https://jobicy.com/jobs/154084-staff-engineer-full-stack-trust-safety-risk
+**Fivetran : Compensation & Analytics Partner**
+https://weworkremotely.com/remote-jobs/fivetran-compensation-analytics-partner
 
-**Database Support Engineer (APAC)**
-https://jobicy.com/jobs/154081-database-support-engineer-apac
+**Fivetran : Analyst, GTM Analytics**
+https://weworkremotely.com/remote-jobs/fivetran-analyst-gtm-analytics
 
-**Head of Brand Creative**
-https://jobicy.com/jobs/154080-head-of-brand-creative
+**Iterable: Email Deliverability Consultant**
+https://weworkremotely.com/remote-jobs/iterable-email-deliverability-consultant
 
