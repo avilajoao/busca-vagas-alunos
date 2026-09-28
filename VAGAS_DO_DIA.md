@@ -1,77 +1,104 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (27/09/2026)
+Segue nossa lista de vagas de hoje! (28/09/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Senior Full Stack Product Engineer (TypeScript)**
-https://jobicy.com/jobs/151824-senior-full-stack-product-engineer-typescript
+**Senior Site Reliability Engineer | SRE (Remote, EU/CET)**
+https://jobicy.com/jobs/154141-senior-site-reliability-engineer-sre-remote-eu-cet
 
-**Business Development Representative**
-https://jobicy.com/jobs/151818-business-development-representative-10
+**Principal Design Engineer**
+https://jobicy.com/jobs/154140-principal-design-engineer
 
-**Key Customers Solutions Architect**
-https://jobicy.com/jobs/151847-key-customers-solutions-architect
+**Contract Senior Staff Product Manager (US - East)**
+https://jobicy.com/jobs/154124-contract-senior-staff-product-manager-us-east
 
-**JFrog: Strategic Account Executive**
-https://weworkremotely.com/remote-jobs/jfrog-strategic-account-executive
+**Account Manager**
+https://jobicy.com/jobs/151920-account-manager-3
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Toggl: Senior Full Stack**
-https://weworkremotely.com/remote-jobs/toggl-senior-full-stack
+**Enterprise Account Director – EMEA**
+https://jobicy.com/jobs/154135-enterprise-account-director-emea
+
+**Senior Business Consultant w/ Spanish, French or Italian**
+https://jobicy.com/jobs/151925-senior-business-consultant-w-spanish-french-or-italian
+
+**Senior Security Engineer, Security Incident Response Team (SIRT) - EMEA**
+https://jobicy.com/jobs/149309-senior-security-engineer-security-incident-response-team-sirt-emea
+
+**QA Engineer**
+https://jobicy.com/jobs/151950-qa-engineer-4
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Lifecycle Marketing Automation Specialist**
-https://jobicy.com/jobs/151881-lifecycle-marketing-automation-specialist
+**Full Stack Senior Software Developer**
+https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/remote-full-stack-senior-software-developer-bern-4969
 
-**AITrainers: Remote AI Trainers (Generalist, Finance, Law, and SWE)**
-https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-finance-law-and-swe
+--- VUE.JS / NUXT ---
+
+**Zanda Health: Product Owner**
+https://weworkremotely.com/remote-jobs/zanda-health-product-owner
+
+--- JAVA / SPRING BOOT ---
+
+**Principal Engineer (Payments)**
+https://jobicy.com/jobs/151924-principal-engineer-payments
+
+**Dremio: Software Engineer - Developer Experience**
+https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience
+
+**Dremio: Senior Staff Software Engineer - Query Execution**
+https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution
 
 --- C# / .NET ---
 
-**TestGorilla: Senior Demand Generation Manager**
-https://weworkremotely.com/remote-jobs/testgorilla-senior-demand-generation-manager
+**IxDF - Interaction Design Foundation: Course Writer and Editor: UX, UI, and AI **
+https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-writer-and-editor-ux-ui-and-ai-1
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Engineering Manager, Notifications**
-https://jobicy.com/jobs/151756-engineering-manager-notifications
+**Senior Data Scientist, Full Stack**
+https://jobicy.com/jobs/154127-senior-data-scientist-full-stack
 
-**Analyst**
-https://jobicy.com/jobs/151815-analyst
+**Delivery Solutions Architect**
+https://jobicy.com/jobs/151940-delivery-solutions-architect
 
-**Applied Data Scientist / Machine Learning Engineer (Decision Intelligence)**
-https://jobicy.com/jobs/147495-applied-data-scientist-machine-learning-engineer-decision-intelligence
-
-**Senior Data Engineer**
-https://www.arbeitnow.ch/jobs/companies/futurae/remote-senior-data-engineer-zurich-267061
+**Algolia: Information Security Engineer**
+https://weworkremotely.com/remote-jobs/algolia-information-security-engineer
 
 --- GO ---
 
-**Sr. Director, Assistant Controller**
-https://jobicy.com/jobs/151887-sr-director-assistant-controller
+**Senior Product Marketing Manager**
+https://jobicy.com/jobs/154130-senior-product-marketing-manager-6
 
-**PagerDuty: Enterprise Account Executive (San Francisco)**
-https://weworkremotely.com/remote-jobs/pagerduty-enterprise-account-executive-san-francisco
+**Customer Success Manager**
+https://jobicy.com/jobs/151930-customer-success-manager-26
 
-**PagerDuty: Account Manager - Boston**
-https://weworkremotely.com/remote-jobs/pagerduty-account-manager-boston
+**Large Enterprise Sales Director, Spain**
+https://jobicy.com/jobs/151926-large-enterprise-sales-director-spain
 
-**Faire: Director, Global Equity**
-https://weworkremotely.com/remote-jobs/faire-director-global-equity
+**Customer Success Engineer with German**
+https://jobicy.com/jobs/151946-customer-success-engineer-with-german
+
+--- BANCOS DE DADOS (SQL / NOSQL) ---
+
+**Senior Technical Account Manager**
+https://jobicy.com/jobs/151958-senior-technical-account-manager-2
+
+**Senior Account Executive - Public Sector**
+https://jobicy.com/jobs/151953-senior-account-executive-public-sector
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Cloud Support Engineer**
-https://jobicy.com/jobs/151889-cloud-support-engineer-2
+**People Operations Lead**
+https://jobicy.com/jobs/151921-people-operations-lead-2
 
-**Fivetran : Compensation & Analytics Partner**
-https://weworkremotely.com/remote-jobs/fivetran-compensation-analytics-partner
+**Enterprise Account Executive - Benelux**
+https://jobicy.com/jobs/151936-enterprise-account-executive-benelux
 
-**Fivetran : Analyst, GTM Analytics**
-https://weworkremotely.com/remote-jobs/fivetran-analyst-gtm-analytics
+**Platform Engineer**
+https://jobicy.com/jobs/143041-platform-engineer
 
-**Iterable: Email Deliverability Consultant**
-https://weworkremotely.com/remote-jobs/iterable-email-deliverability-consultant
+**Technical Partner Manager - Chicago/NYC Metro Area**
+https://jobicy.com/jobs/142567-technical-partner-manager-chicago-nyc-metro-area
 
