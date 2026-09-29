@@ -1,104 +1,110 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (28/09/2026)
+Segue nossa lista de vagas de hoje! (29/09/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Senior Site Reliability Engineer | SRE (Remote, EU/CET)**
-https://jobicy.com/jobs/154141-senior-site-reliability-engineer-sre-remote-eu-cet
+**Support Engineer (EMEA)**
+https://jobicy.com/jobs/152053-support-engineer-emea
 
-**Principal Design Engineer**
-https://jobicy.com/jobs/154140-principal-design-engineer
+**Manager/ Sr. Manager - BI Consulting (Life Sciences/Pharma)**
+https://jobicy.com/jobs/142623-manager-sr-manager-bi-consulting-life-sciences-pharma
 
-**Contract Senior Staff Product Manager (US - East)**
-https://jobicy.com/jobs/154124-contract-senior-staff-product-manager-us-east
+**Enterprise Account Executive - Nordics**
+https://jobicy.com/jobs/151988-enterprise-account-executive-nordics
 
-**Account Manager**
-https://jobicy.com/jobs/151920-account-manager-3
+**Enterprise Account Executive - DACH**
+https://jobicy.com/jobs/151985-enterprise-account-executive-dach-2
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Enterprise Account Director – EMEA**
-https://jobicy.com/jobs/154135-enterprise-account-director-emea
+**Developer Relations Engineer**
+https://jobicy.com/jobs/152060-developer-relations-engineer-2
 
-**Senior Business Consultant w/ Spanish, French or Italian**
-https://jobicy.com/jobs/151925-senior-business-consultant-w-spanish-french-or-italian
-
-**Senior Security Engineer, Security Incident Response Team (SIRT) - EMEA**
-https://jobicy.com/jobs/149309-senior-security-engineer-security-incident-response-team-sirt-emea
-
-**QA Engineer**
-https://jobicy.com/jobs/151950-qa-engineer-4
+**Senior Security Engineer (Remote, EU/CET)**
+https://jobicy.com/jobs/154158-senior-security-engineer-remote-eu-cet
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Full Stack Senior Software Developer**
-https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/remote-full-stack-senior-software-developer-bern-4969
+**Bilingual Product Support Analyst (Canadian French)**
+https://jobicy.com/jobs/151964-bilingual-product-support-analyst-canadian-french
 
---- VUE.JS / NUXT ---
-
-**Zanda Health: Product Owner**
-https://weworkremotely.com/remote-jobs/zanda-health-product-owner
+**Senior Software Engineer, Quality**
+https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-quality-4113
 
 --- JAVA / SPRING BOOT ---
 
-**Principal Engineer (Payments)**
-https://jobicy.com/jobs/151924-principal-engineer-payments
+**Software Developer**
+https://jobicy.com/jobs/151986-software-developer
 
-**Dremio: Software Engineer - Developer Experience**
-https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience
+**Senior Software Developer 2**
+https://jobicy.com/jobs/151984-senior-software-developer-2-2
 
-**Dremio: Senior Staff Software Engineer - Query Execution**
-https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution
+**Senior Software Developer**
+https://jobicy.com/jobs/151981-senior-software-developer
 
 --- C# / .NET ---
 
-**IxDF - Interaction Design Foundation: Course Writer and Editor: UX, UI, and AI **
-https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-writer-and-editor-ux-ui-and-ai-1
+**Capital Placement: Remote Internships**
+https://weworkremotely.com/remote-jobs/capital-placement-remote-internships
+
+**OnTheGoSystems: Head of Marketing**
+https://weworkremotely.com/remote-jobs/onthegosystems-head-of-marketing-1
+
+**Air Apps: Framer Website Designer**
+https://weworkremotely.com/remote-jobs/air-apps-framer-website-designer-1
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Senior Data Scientist, Full Stack**
-https://jobicy.com/jobs/154127-senior-data-scientist-full-stack
+**Senior Data Scientist, RC Capital**
+https://jobicy.com/jobs/143120-senior-data-scientist-rc-capital
 
-**Delivery Solutions Architect**
-https://jobicy.com/jobs/151940-delivery-solutions-architect
+**Detection & CorpSec Engineer**
+https://jobicy.com/jobs/151966-detection-corpsec-engineer
 
-**Algolia: Information Security Engineer**
-https://weworkremotely.com/remote-jobs/algolia-information-security-engineer
+**Staff AI Engineer**
+https://jobicy.com/jobs/154155-staff-ai-engineer-2
+
+**Network Operation Engineer**
+https://www.arbeitnow.com/jobs/companies/share/remote-network-operation-engineer-320363
 
 --- GO ---
 
-**Senior Product Marketing Manager**
-https://jobicy.com/jobs/154130-senior-product-marketing-manager-6
+**Enterprise Business Development Representative - East**
+https://jobicy.com/jobs/151992-enterprise-business-development-representative-east
 
-**Customer Success Manager**
-https://jobicy.com/jobs/151930-customer-success-manager-26
+**Founding Enterprise Account Executive (EMEA - German Speaker)**
+https://jobicy.com/jobs/151998-founding-enterprise-account-executive-emea-german-speaker
 
-**Large Enterprise Sales Director, Spain**
-https://jobicy.com/jobs/151926-large-enterprise-sales-director-spain
+**Network Developer**
+https://www.arbeitnow.ch/jobs/companies/share/remote-network-developer-269751
 
-**Customer Success Engineer with German**
-https://jobicy.com/jobs/151946-customer-success-engineer-with-german
+**Network Operation Engineer**
+https://www.arbeitnow.ch/jobs/companies/share/remote-network-operation-engineer-411432
+
+--- RUBY ON RAILS ---
+
+**Principal Software Architect**
+https://jobicy.com/jobs/147700-principal-software-architect
 
 --- BANCOS DE DADOS (SQL / NOSQL) ---
 
-**Senior Technical Account Manager**
-https://jobicy.com/jobs/151958-senior-technical-account-manager-2
+**Multigres Engineer**
+https://jobicy.com/jobs/152057-multigres-engineer
 
-**Senior Account Executive - Public Sector**
-https://jobicy.com/jobs/151953-senior-account-executive-public-sector
+**ZoomInfo Technologies LLC: Principal Infrastructure Architect: Data Platform**
+https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-infrastructure-architect-data-platform
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**People Operations Lead**
-https://jobicy.com/jobs/151921-people-operations-lead-2
+**Employee Relations Business Partner - EMEA**
+https://jobicy.com/jobs/152001-employee-relations-business-partner-emea
 
-**Enterprise Account Executive - Benelux**
-https://jobicy.com/jobs/151936-enterprise-account-executive-benelux
+**Senior Business Technology Product Manager- Supply Chain**
+https://jobicy.com/jobs/147872-senior-business-technology-product-manager-supply-chain
 
-**Platform Engineer**
-https://jobicy.com/jobs/143041-platform-engineer
+**Roblox: Developer Engagement Representative - Philippines (Part-Time Contract)**
+https://weworkremotely.com/remote-jobs/roblox-developer-engagement-representative-philippines-part-time-contract
 
-**Technical Partner Manager - Chicago/NYC Metro Area**
-https://jobicy.com/jobs/142567-technical-partner-manager-chicago-nyc-metro-area
+**Roblox: Developer Engagement Representative - Malaysia  (Part-Time Contract)**
+https://weworkremotely.com/remote-jobs/roblox-developer-engagement-representative-malaysia-part-time-contract
 
