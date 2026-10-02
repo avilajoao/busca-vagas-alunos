@@ -1,80 +1,96 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (01/10/2026)
+Segue nossa lista de vagas de hoje! (02/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Developer Advocate - Service Management EMEA**
-https://jobicy.com/jobs/154340-developer-advocate-service-management-emea
+**Director of Web Platform & Engineering**
+https://jobicy.com/jobs/154400-director-of-web-platform-engineering
 
-**Customer Recovery Team - Manager**
-https://jobicy.com/jobs/154334-customer-recovery-team-manager
+**AI Science Writer, Nebius Academy (Contract)**
+https://jobicy.com/jobs/154397-ai-science-writer-nebius-academy-contract
 
-**Onboarding Support Specialist**
-https://jobicy.com/jobs/154325-onboarding-support-specialist
+**Customer Engineer EMEA**
+https://jobicy.com/jobs/154406-customer-engineer-emea
 
-**Educational Content Developer**
-https://jobicy.com/jobs/154317-educational-content-developer
+**Automation Engineer (Customer Service)**
+https://jobicy.com/jobs/154401-automation-engineer-customer-service
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Software Engineer I, Agentic Platform EMEA (Poland, Remote, B2B)**
-https://jobicy.com/jobs/154346-software-engineer-i-agentic-platform-emea-poland-remote-b2b
+**Sr. Software Engineer II / Tech lead, Agentic Platform (Poland, Remote, B2B)**
+https://jobicy.com/jobs/154396-sr-software-engineer-ii-tech-lead-agentic-platform-poland-remote-b2b
 
-**Senior Product Manager (f/m/x)**
-https://www.arbeitnow.com/jobs/companies/exmox-gmbh/senior-product-manager-hamburg-130999
-
-**Senior Communications Manager**
-https://www.arbeitnow.fr/jobs/companies/skeletontech/remote-senior-communications-manager-france-416314
-
-**Vercel: Design Engineer**
-https://weworkremotely.com/remote-jobs/vercel-design-engineer
+**Sr Supplier Quality Engineer I**
+https://jobicy.com/jobs/152331-sr-supplier-quality-engineer-i
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Conversational AI Application Developer (English and French Speaker)**
-https://www.arbeitnow.fr/jobs/companies/omilia-natural-language-solutions-ua-ltd/remote-conversational-ai-application-developer-english-and-french-speaker-france-410860
+**Quality Engineer**
+https://jobicy.com/jobs/152330-quality-engineer-2
+
+**Senior Software Engineer, Backend**
+https://jobicy.com/jobs/152343-senior-software-engineer-backend-3
 
 --- JAVA / SPRING BOOT ---
 
-**Android Engineer**
-https://jobicy.com/jobs/154321-android-engineer
+**Sr. Software Engineer, Cloud Platform**
+https://jobicy.com/jobs/154394-sr-software-engineer-cloud-platform
 
-**Software Engineer, Content Platform**
-https://jobicy.com/jobs/152261-software-engineer-content-platform
+**Senior QA Automation Developer (Platform)**
+https://jobicy.com/jobs/152334-senior-qa-automation-developer-platform
+
+--- C# / .NET ---
+
+**Insights Consultant - MATERNITY COVER - FRENCH speaking**
+https://jobicy.com/jobs/154405-insights-consultant-maternity-cover-french-speaking
+
+**Clover Health: Chief Actuary**
+https://weworkremotely.com/remote-jobs/clover-health-chief-actuary
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Deployment Strategist - Brazil**
-https://jobicy.com/jobs/154335-deployment-strategist-brazil
+**Global Analytics Manager (Remote in Barcelona/Madrid)**
+https://jobicy.com/jobs/154404-global-analytics-manager-remote-in-barcelona-madrid
 
-**Senior Application Security Engineer**
-https://jobicy.com/jobs/152253-senior-application-security-engineer-2
+**Technical Support Engineer**
+https://jobicy.com/jobs/154390-technical-support-engineer
+
+**IT Operations Analyst**
+https://jobicy.com/jobs/152340-it-operations-analyst
+
+**Binance Acceleration Program - Product Data Analyst**
+https://jobicy.com/jobs/152312-binance-acceleration-program-product-data-analyst
 
 --- GO ---
 
-**Mid-Market Account Executive - France**
-https://jobicy.com/jobs/154342-mid-market-account-executive-france
+**Senior Software Engineer - Go & Rust, Blockchain Infrastructure**
+https://jobicy.com/jobs/154392-senior-software-engineer-go-rust-blockchain-infrastructure
 
-**Mid Market Account Executive - DACH**
-https://jobicy.com/jobs/154339-mid-market-account-executive-dach
+**Senior Software Engineer - Go**
+https://jobicy.com/jobs/154387-senior-software-engineer-go-2
 
-**Business Development Executive, Financial Institutions (APAC)**
-https://jobicy.com/jobs/154323-business-development-executive-financial-institutions-apac
+**Senior Technical Account Manager**
+https://jobicy.com/jobs/149912-senior-technical-account-manager
 
-**Senior All-Source Intelligence Analyst**
-https://jobicy.com/jobs/154320-senior-all-source-intelligence-analyst
+**Senior Product Designer, Design Systems**
+https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-product-designer-design-systems-470274
+
+--- RUBY ON RAILS ---
+
+**Senior QA Engineer**
+https://jobicy.com/jobs/152325-senior-qa-engineer-2
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Account Director, Government**
-https://jobicy.com/jobs/154319-account-director-government
+**Senior Pricing Data Scientist**
+https://jobicy.com/jobs/152317-senior-pricing-data-scientist
 
-**Tax Analyst - VAT**
-https://jobicy.com/jobs/154316-tax-analyst-vat
+**Intelligent Automation Engineering Lead**
+https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-intelligent-automation-engineering-lead-london-128204
 
-**Senior Lifecycle Specialist, Workers Compensation - EMEA**
-https://jobicy.com/jobs/154314-senior-lifecycle-specialist-workers-compensation-emea
+**Senior Product Designer, Design Systems**
+https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-product-designer-design-systems-117305
 
-**Regional Sales Director - Southern Europe**
-https://jobicy.com/jobs/154300-regional-sales-director-southern-europe
+**Linguist - Wolof - UI Technical / Marketing - Remote**
+https://www.arbeitnow.ch/jobs/companies/lilt-production/linguist-wolof-ui-technical-marketing-remote-364477
 
