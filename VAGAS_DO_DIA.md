@@ -1,96 +1,100 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (02/10/2026)
+Segue nossa lista de vagas de hoje! (03/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Director of Web Platform & Engineering**
-https://jobicy.com/jobs/154400-director-of-web-platform-engineering
+**Lead AI Solutions Architect, Customer Success**
+https://jobicy.com/jobs/150024-lead-ai-solutions-architect-customer-success
 
-**AI Science Writer, Nebius Academy (Contract)**
-https://jobicy.com/jobs/154397-ai-science-writer-nebius-academy-contract
+**Senior Payroll Analyst**
+https://jobicy.com/jobs/147870-senior-payroll-analyst
 
-**Customer Engineer EMEA**
-https://jobicy.com/jobs/154406-customer-engineer-emea
+**Junior Customer Service Specialist (multilingual, fixed-term contract)**
+https://jobicy.com/jobs/150026-junior-customer-service-specialist-multilingual-fixed-term-contract
 
-**Automation Engineer (Customer Service)**
-https://jobicy.com/jobs/154401-automation-engineer-customer-service
+**Onboarding Project Manager**
+https://jobicy.com/jobs/144915-onboarding-project-manager
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Sr. Software Engineer II / Tech lead, Agentic Platform (Poland, Remote, B2B)**
-https://jobicy.com/jobs/154396-sr-software-engineer-ii-tech-lead-agentic-platform-poland-remote-b2b
+**Client Full-Stack Engineer — IM Chat Platform, Android Focus**
+https://jobicy.com/jobs/150064-client-full-stack-engineer-im-chat-platform-android-focus
 
-**Sr Supplier Quality Engineer I**
-https://jobicy.com/jobs/152331-sr-supplier-quality-engineer-i
+**Customer Success Manager - WE**
+https://jobicy.com/jobs/150037-customer-success-manager-we
+
+**Enterprise Customer Success Manager (Japanese speaker)**
+https://jobicy.com/jobs/149943-enterprise-customer-success-manager-japanese-speaker
+
+**Vercel: Senior Manager, Solutions Architect**
+https://weworkremotely.com/remote-jobs/vercel-senior-manager-solutions-architect
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Quality Engineer**
-https://jobicy.com/jobs/152330-quality-engineer-2
+**Sales Engineer**
+https://jobicy.com/jobs/152389-sales-engineer-5
 
-**Senior Software Engineer, Backend**
-https://jobicy.com/jobs/152343-senior-software-engineer-backend-3
+**Webflow: Lead Solutions Engineer - Central / East**
+https://weworkremotely.com/remote-jobs/webflow-lead-solutions-engineer-central-east
+
+**Humane World for Animals: Web Designer, eCRM**
+https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1
 
 --- JAVA / SPRING BOOT ---
 
-**Sr. Software Engineer, Cloud Platform**
-https://jobicy.com/jobs/154394-sr-software-engineer-cloud-platform
+**Golang Engineering Manager, Commercial Systems**
+https://jobicy.com/jobs/149984-golang-engineering-manager-commercial-systems
 
-**Senior QA Automation Developer (Platform)**
-https://jobicy.com/jobs/152334-senior-qa-automation-developer-platform
-
---- C# / .NET ---
-
-**Insights Consultant - MATERNITY COVER - FRENCH speaking**
-https://jobicy.com/jobs/154405-insights-consultant-maternity-cover-french-speaking
-
-**Clover Health: Chief Actuary**
-https://weworkremotely.com/remote-jobs/clover-health-chief-actuary
+**Python Engineering Manager, Commercial Systems**
+https://jobicy.com/jobs/149989-python-engineering-manager-commercial-systems
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Global Analytics Manager (Remote in Barcelona/Madrid)**
-https://jobicy.com/jobs/154404-global-analytics-manager-remote-in-barcelona-madrid
+**Framework Software Engineer**
+https://jobicy.com/jobs/152395-framework-software-engineer
 
-**Technical Support Engineer**
-https://jobicy.com/jobs/154390-technical-support-engineer
+**Engineering Manager - Public Cloud, Python, Golang**
+https://jobicy.com/jobs/149985-engineering-manager-public-cloud-python-golang
 
-**IT Operations Analyst**
-https://jobicy.com/jobs/152340-it-operations-analyst
+**Software Engineer - Data Infrastructure - Kafka**
+https://jobicy.com/jobs/149988-software-engineer-data-infrastructure-kafka
 
-**Binance Acceleration Program - Product Data Analyst**
-https://jobicy.com/jobs/152312-binance-acceleration-program-product-data-analyst
+**Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch**
+https://jobicy.com/jobs/149994-software-engineer-data-infrastructure-opensearch-elasticsearch
 
 --- GO ---
 
-**Senior Software Engineer - Go & Rust, Blockchain Infrastructure**
-https://jobicy.com/jobs/154392-senior-software-engineer-go-rust-blockchain-infrastructure
+**Enterprise Account Executive (Founding Team)**
+https://jobicy.com/jobs/152378-enterprise-account-executive-founding-team
 
-**Senior Software Engineer - Go**
-https://jobicy.com/jobs/154387-senior-software-engineer-go-2
+**Electrical Engineer- Data Centers**
+https://jobicy.com/jobs/149947-electrical-engineer-data-centers
 
-**Senior Technical Account Manager**
-https://jobicy.com/jobs/149912-senior-technical-account-manager
-
-**Senior Product Designer, Design Systems**
-https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-product-designer-design-systems-470274
+**Software Engineer, Ceph & Distributed Storage**
+https://jobicy.com/jobs/149972-software-engineer-ceph-distributed-storage
 
 --- RUBY ON RAILS ---
 
-**Senior QA Engineer**
-https://jobicy.com/jobs/152325-senior-qa-engineer-2
+**Director, Product Marketing, GTM Strategy**
+https://jobicy.com/jobs/152392-director-product-marketing-gtm-strategy
+
+**Senior Backend Engineer, AI Engineering: Chat**
+https://jobicy.com/jobs/150061-senior-backend-engineer-ai-engineering-chat
+
+**6sense: Product Lead, Predictive Platform**
+https://weworkremotely.com/remote-jobs/6sense-product-lead-predictive-platform
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Senior Pricing Data Scientist**
-https://jobicy.com/jobs/152317-senior-pricing-data-scientist
+**Customer Success Engineer, Australia**
+https://jobicy.com/jobs/152391-customer-success-engineer-australia
 
-**Intelligent Automation Engineering Lead**
-https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-intelligent-automation-engineering-lead-london-128204
+**Site Reliability Engineering Manager**
+https://jobicy.com/jobs/149986-site-reliability-engineering-manager
 
-**Senior Product Designer, Design Systems**
-https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-product-designer-design-systems-117305
+**Vercel: Security Engineer, Cloud**
+https://weworkremotely.com/remote-jobs/vercel-security-engineer-cloud
 
-**Linguist - Wolof - UI Technical / Marketing - Remote**
-https://www.arbeitnow.ch/jobs/companies/lilt-production/linguist-wolof-ui-technical-marketing-remote-364477
+**Anthropic: Capacity Deployment Lead - Data Center Operations**
+https://weworkremotely.com/remote-jobs/anthropic-capacity-deployment-lead-data-center-operations
 
