@@ -1,86 +1,99 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (04/10/2026)
+Segue nossa lista de vagas de hoje! (05/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Engineering Manager, Core DevOps**
-https://jobicy.com/jobs/154498-engineering-manager-core-devops
+**Engineer, Security Operations & Engineering**
+https://jobicy.com/jobs/154592-engineer-security-operations-engineering
 
-**Executive Assistant to the CEO**
-https://jobicy.com/jobs/154495-executive-assistant-to-the-ceo-2
+**Staff Infrastructure Engineer**
+https://jobicy.com/jobs/154593-staff-infrastructure-engineer
 
-**QA Tester (Future Roles)**
-https://jobicy.com/jobs/152401-qa-tester-future-roles
+**1146 - Fullstack Engineer**
+https://jobicy.com/jobs/154594-1146-fullstack-engineer
 
-**Product Engineer, Internal Tools - LATAM**
-https://jobicy.com/jobs/152452-product-engineer-internal-tools-latam
+**Senior Financial Analyst, Deal Desk (Strategic Finance)**
+https://jobicy.com/jobs/154540-senior-financial-analyst-deal-desk-strategic-finance
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Executive Assistant to the Chief Revenue Officer (CRO)**
-https://jobicy.com/jobs/154492-executive-assistant-to-the-chief-revenue-officer-cro
+**Business Development Specialist (BDR)**
+https://jobicy.com/jobs/154562-business-development-specialist-bdr
 
-**Staff Quality Engineer**
-https://jobicy.com/jobs/152402-staff-quality-engineer
+**Senior Full Stack Engineer, Observability**
+https://jobicy.com/jobs/154544-senior-full-stack-engineer-observability
 
-**Stripe: Abuse Research Engineer**
-https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer
+**Manager, Partner Development (Health Plan and Employer)**
+https://jobicy.com/jobs/154525-manager-partner-development-health-plan-and-employer
 
---- TYPESCRIPT / JAVASCRIPT ---
-
-**Solutions Engineer - LATAM**
-https://jobicy.com/jobs/154512-solutions-engineer-latam
-
-**QA Engineer Mobile**
-https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-qa-engineer-mobile-berlin-166747
+**LawnStarter: Software Engineering Manager**
+https://weworkremotely.com/remote-jobs/lawnstarter-software-engineering-manager-7
 
 --- JAVA / SPRING BOOT ---
 
-**JFrog: Strategic Solution Architect, Presales (West)**
-https://weworkremotely.com/remote-jobs/jfrog-strategic-solution-architect-presales-west
+**Senior SDK Engineer**
+https://jobicy.com/jobs/154563-senior-sdk-engineer
 
-**JFrog: Strategic Solution Architect, Presales (Central)**
-https://weworkremotely.com/remote-jobs/jfrog-strategic-solution-architect-presales-central
+--- C# / .NET ---
+
+**A.Team: Senior Independent AI Engineer / Architect**
+https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect
+
+**A.Team: Senior Independent Software Developer ($90-$170/hr)**
+https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Solutions Architect for Automotive**
-https://jobicy.com/jobs/154514-solutions-architect-for-automotive
+**Senior Software Engineer, Graph Analytics**
+https://jobicy.com/jobs/154597-senior-software-engineer-graph-analytics
 
-**Forward Deployed Engineer - Software Engineer - Sweden**
-https://jobicy.com/jobs/154511-forward-deployed-engineer-software-engineer-sweden
+**Senior DevOps Engineer, Observability**
+https://jobicy.com/jobs/154542-senior-devops-engineer-observability
 
-**Senior ML Operations (MLOps) Engineer**
-https://jobicy.com/jobs/154500-senior-ml-operations-mlops-engineer
+**Senior Software Backend Engineer, Foundations**
+https://jobicy.com/jobs/154539-senior-software-backend-engineer-foundations
 
-**Marketing Data Scientist**
-https://jobicy.com/jobs/152472-marketing-data-scientist
+**Enterprise Solutions Engineer - USA**
+https://jobicy.com/jobs/154528-enterprise-solutions-engineer-usa
+
+--- PHP / LARAVEL ---
+
+**Lead Full Stack Engineer (Laravel, Remote NL/UK Based)**
+https://jobicy.com/jobs/154536-lead-full-stack-engineer-laravel-remote-nl-uk-based
 
 --- GO ---
 
-**Open Source Enterprise Sales Manager - North America**
-https://jobicy.com/jobs/154513-open-source-enterprise-sales-manager-north-america
+**People Partner (Product & Engineering)**
+https://jobicy.com/jobs/154608-people-partner-product-engineering
 
-**Open Source Enterprise Sales / Alliances**
-https://jobicy.com/jobs/154506-open-source-enterprise-sales-alliances
+**Partnerships Manager, Ecosystem**
+https://jobicy.com/jobs/154555-partnerships-manager-ecosystem
 
-**Account Executive, Commercial**
-https://jobicy.com/jobs/152466-account-executive-commercial
+**Localization Operations Specialist**
+https://jobicy.com/jobs/154543-localization-operations-specialist
 
-**Account Executive, Mid Market (Northeast)**
-https://jobicy.com/jobs/152481-account-executive-mid-market-northeast
+**Enterprise Account Executive, US**
+https://jobicy.com/jobs/154541-enterprise-account-executive-us
+
+--- BANCOS DE DADOS (SQL / NOSQL) ---
+
+**Partner Operations & Systems Lead**
+https://jobicy.com/jobs/154559-partner-operations-systems-lead
+
+**Engineering Manager**
+https://jobicy.com/jobs/154552-engineering-manager-9
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Platform Engineer**
-https://jobicy.com/jobs/154501-platform-engineer-2
+**Data Scientist III - Temporary**
+https://jobicy.com/jobs/154571-data-scientist-iii-temporary
 
-**Principal Product Manager (Omnichannel CX)**
-https://jobicy.com/jobs/152461-principal-product-manager-omnichannel-cx
+**Revenue Accounting Manager**
+https://jobicy.com/jobs/154534-revenue-accounting-manager
 
-**Senior Privacy Engineer**
-https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-115042
+**Working Student - Online Marketing Coordination  (f/m/d)**
+https://www.arbeitnow.com/jobs/companies/clariness-gmbh/working-student-online-marketing-coordination-berlin-159404
 
-**Senior Privacy Engineer**
-https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-111342
+**Datadog: Enterprise Sales Engineer - FED**
+https://weworkremotely.com/remote-jobs/datadog-enterprise-sales-engineer-fed
 
