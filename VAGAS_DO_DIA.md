@@ -1,99 +1,91 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (05/10/2026)
+Segue nossa lista de vagas de hoje! (06/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Engineer, Security Operations & Engineering**
-https://jobicy.com/jobs/154592-engineer-security-operations-engineering
+**Senior Channel Enablement Manager**
+https://jobicy.com/jobs/152561-senior-channel-enablement-manager
 
-**Staff Infrastructure Engineer**
-https://jobicy.com/jobs/154593-staff-infrastructure-engineer
+**Financial Operations Intern**
+https://jobicy.com/jobs/152603-financial-operations-intern
 
-**1146 - Fullstack Engineer**
-https://jobicy.com/jobs/154594-1146-fullstack-engineer
+**Business Development Manager (Tech Alliances)**
+https://jobicy.com/jobs/152577-business-development-manager-tech-alliances
 
-**Senior Financial Analyst, Deal Desk (Strategic Finance)**
-https://jobicy.com/jobs/154540-senior-financial-analyst-deal-desk-strategic-finance
+**Solution Engineer**
+https://jobicy.com/jobs/152574-solution-engineer-3
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Business Development Specialist (BDR)**
-https://jobicy.com/jobs/154562-business-development-specialist-bdr
+**Support Engineer**
+https://jobicy.com/jobs/152566-support-engineer
 
-**Senior Full Stack Engineer, Observability**
-https://jobicy.com/jobs/154544-senior-full-stack-engineer-observability
+**RevTech Senior Salesforce Developer - LATAM**
+https://jobicy.com/jobs/152602-revtech-senior-salesforce-developer-latam
 
-**Manager, Partner Development (Health Plan and Employer)**
-https://jobicy.com/jobs/154525-manager-partner-development-health-plan-and-employer
+**Lemon.io: Senior Angular Full-stack Developer**
+https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer
 
-**LawnStarter: Software Engineering Manager**
-https://weworkremotely.com/remote-jobs/lawnstarter-software-engineering-manager-7
+**Wrike: Senior Data Scientist**
+https://weworkremotely.com/remote-jobs/wrike-senior-data-scientist
+
+--- TYPESCRIPT / JAVASCRIPT ---
+
+**Webflow: Senior Developer Educator**
+https://weworkremotely.com/remote-jobs/webflow-senior-developer-educator
+
+**Sparix Global.: MSD 365 Customer Relationship Management (CRM) Lead**
+https://weworkremotely.com/remote-jobs/sparix-global-msd-365-customer-relationship-management-crm-lead-1
 
 --- JAVA / SPRING BOOT ---
 
-**Senior SDK Engineer**
-https://jobicy.com/jobs/154563-senior-sdk-engineer
+**Senior DevOps Engineer**
+https://jobicy.com/jobs/154677-senior-devops-engineer-8
 
 --- C# / .NET ---
 
-**A.Team: Senior Independent AI Engineer / Architect**
-https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect
-
-**A.Team: Senior Independent Software Developer ($90-$170/hr)**
-https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr
+**Lead Product Management**
+https://jobicy.com/jobs/154674-lead-product-management
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Senior Software Engineer, Graph Analytics**
-https://jobicy.com/jobs/154597-senior-software-engineer-graph-analytics
+**Senior Information Security Engineer**
+https://jobicy.com/jobs/154681-senior-information-security-engineer
 
-**Senior DevOps Engineer, Observability**
-https://jobicy.com/jobs/154542-senior-devops-engineer-observability
+**Cloud Governance Engineer**
+https://jobicy.com/jobs/154675-cloud-governance-engineer
 
-**Senior Software Backend Engineer, Foundations**
-https://jobicy.com/jobs/154539-senior-software-backend-engineer-foundations
+**Senior Data Analyst, GTM Analytics - CANADA**
+https://jobicy.com/jobs/152606-senior-data-analyst-gtm-analytics-canada
 
-**Enterprise Solutions Engineer - USA**
-https://jobicy.com/jobs/154528-enterprise-solutions-engineer-usa
-
---- PHP / LARAVEL ---
-
-**Lead Full Stack Engineer (Laravel, Remote NL/UK Based)**
-https://jobicy.com/jobs/154536-lead-full-stack-engineer-laravel-remote-nl-uk-based
+**Customer Support Engineer**
+https://jobicy.com/jobs/152570-customer-support-engineer-2
 
 --- GO ---
 
-**People Partner (Product & Engineering)**
-https://jobicy.com/jobs/154608-people-partner-product-engineering
+**AI Outcomes Manager**
+https://jobicy.com/jobs/152573-ai-outcomes-manager
 
-**Partnerships Manager, Ecosystem**
-https://jobicy.com/jobs/154555-partnerships-manager-ecosystem
+**Content Editor**
+https://www.arbeitnow.ch/jobs/companies/higgsfield/remote-content-editor-407861
 
-**Localization Operations Specialist**
-https://jobicy.com/jobs/154543-localization-operations-specialist
+**PagerDuty: Senior Director, Field Enablement**
+https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement
 
-**Enterprise Account Executive, US**
-https://jobicy.com/jobs/154541-enterprise-account-executive-us
-
---- BANCOS DE DADOS (SQL / NOSQL) ---
-
-**Partner Operations & Systems Lead**
-https://jobicy.com/jobs/154559-partner-operations-systems-lead
-
-**Engineering Manager**
-https://jobicy.com/jobs/154552-engineering-manager-9
+**PagerDuty: Principal Solutions Consultant**
+https://weworkremotely.com/remote-jobs/pagerduty-principal-solutions-consultant
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Data Scientist III - Temporary**
-https://jobicy.com/jobs/154571-data-scientist-iii-temporary
+**Sales Manager - Americas**
+https://jobicy.com/jobs/152607-sales-manager-americas
 
-**Revenue Accounting Manager**
-https://jobicy.com/jobs/154534-revenue-accounting-manager
+**Sales Manager - Weather & Climate (EMEA & APAC)**
+https://jobicy.com/jobs/152611-sales-manager-weather-climate-emea-apac-2
 
-**Working Student - Online Marketing Coordination  (f/m/d)**
-https://www.arbeitnow.com/jobs/companies/clariness-gmbh/working-student-online-marketing-coordination-berlin-159404
+**Webflow: Senior Infrastructure Engineer**
+https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer
 
-**Datadog: Enterprise Sales Engineer - FED**
-https://weworkremotely.com/remote-jobs/datadog-enterprise-sales-engineer-fed
+**Everpure: Account Executive, Enterprise (Chicago)**
+https://weworkremotely.com/remote-jobs/everpure-account-executive-enterprise-chicago
 
