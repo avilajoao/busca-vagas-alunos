@@ -1,94 +1,97 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (07/10/2026)
+Segue nossa lista de vagas de hoje! (08/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Salesforce Developer (US-Remote)**
-https://jobicy.com/jobs/152666-salesforce-developer-us-remote
+**Sales Engineer**
+https://jobicy.com/jobs/154834-sales-engineer-8
 
-**Senior People Partner - Brazil**
-https://jobicy.com/jobs/152621-senior-people-partner-brazil
+**Customer Success Engineer (Singapore)**
+https://jobicy.com/jobs/154827-customer-success-engineer-singapore
 
-**Dremio: Software Engineer - Query Execution**
-https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution
+**Partner Business Manager**
+https://jobicy.com/jobs/154828-partner-business-manager-2
 
-**Vercel: Product Manager, Dashboard**
-https://weworkremotely.com/remote-jobs/vercel-product-manager-dashboard
+**Internal Sales Representative - UK**
+https://jobicy.com/jobs/154818-internal-sales-representative-uk
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Senior Forward Deployed Engineer - NA**
-https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-forward-deployed-engineer-na-213608
+**Safety Engineer - Free Tier Abuse**
+https://jobicy.com/jobs/154823-safety-engineer-free-tier-abuse
+
+**Security Software Engineer, IAM**
+https://jobicy.com/jobs/147750-security-software-engineer-iam
+
+**iOS Developer (Radiotech)**
+https://www.arbeitnow.ch/jobs/companies/gismart/remote-ios-developer-radiotech-406158
+
+**Lemon.io: Senior .NET Full-stack Developer**
+https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Staff Frontend Engineer**
-https://jobicy.com/jobs/152644-staff-frontend-engineer
+**Senior Backend Engineer (Core Team)**
+https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
 
-**Senior Frontend Engineer**
-https://jobicy.com/jobs/152642-senior-frontend-engineer-2
+**Vercel: Site Engineer**
+https://weworkremotely.com/remote-jobs/vercel-site-engineer
 
-**Staff AI Engineer - AI Product**
-https://jobicy.com/jobs/152640-staff-ai-engineer-ai-product
-
-**Staff AI Engineer - AI Platform**
-https://jobicy.com/jobs/152638-staff-ai-engineer-ai-platform
+**Vercel: Security Software Engineer, IAM**
+https://weworkremotely.com/remote-jobs/vercel-security-software-engineer-iam
 
 --- JAVA / SPRING BOOT ---
 
-**Automations Engineer, Post Sales Systems**
-https://jobicy.com/jobs/152650-automations-engineer-post-sales-systems
-
-**Senior Software Engineer, Backend - Distributed Systems**
-https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-295117
-
---- C# / .NET ---
-
-**Dropbox: Scaled Customer Success Manager**
-https://weworkremotely.com/remote-jobs/dropbox-scaled-customer-success-manager
-
-**FP Markets: Global CRM & Lifecycle Marketing Manager**
-https://weworkremotely.com/remote-jobs/fp-markets-global-crm-lifecycle-marketing-manager
+**Sr Technical Account Manager - East**
+https://jobicy.com/jobs/152731-sr-technical-account-manager-east
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Security Sales Engineer - SLED/Public Sector**
-https://jobicy.com/jobs/152668-security-sales-engineer-sled-public-sector
+**Engineering - Internal AI Transformation**
+https://jobicy.com/jobs/154817-engineering-internal-ai-transformation
 
-**Senior Data Scientist**
-https://jobicy.com/jobs/142519-senior-data-scientist-3
+**Data Scientist, Corporate**
+https://jobicy.com/jobs/154813-data-scientist-corporate
 
-**Data Scientist - Product Analytics**
-https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-data-scientist-product-analytics-364885
+**Full-Stack Engineer (Back-End Leaning)**
+https://jobicy.com/jobs/154018-full-stack-engineer-back-end-leaning
 
-**Marketing Data Scientist**
-https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-marketing-data-scientist-133130
+**Data Lead - Central Data Team**
+https://jobicy.com/jobs/152751-data-lead-central-data-team
+
+--- PHP / LARAVEL ---
+
+**Account Executive II**
+https://jobicy.com/jobs/154831-account-executive-ii-2
+
+**Forter: Regional Director, Enterprise Sales**
+https://weworkremotely.com/remote-jobs/forter-regional-director-enterprise-sales
 
 --- GO ---
 
-**Director, APAC Go-to-Market**
-https://jobicy.com/jobs/152677-director-apac-go-to-market
+**Sales Director, NSW**
+https://jobicy.com/jobs/154832-sales-director-nsw
 
-**VP, Partner Ecosystem**
-https://jobicy.com/jobs/152639-vp-partner-ecosystem
+**Sales Director, Victoria**
+https://jobicy.com/jobs/154836-sales-director-victoria
 
-**Linguist - Somali - UI Technical / Marketing - Remote**
-https://www.arbeitnow.ch/jobs/companies/lilt-production/linguist-somali-ui-technical-marketing-remote-60289
+**Senior / Staff Threat Intelligence Analyst, Hacks**
+https://jobicy.com/jobs/154835-senior-staff-threat-intelligence-analyst-hacks
 
-**Mixmax: Billing Support Analyst - Philippines**
-https://weworkremotely.com/remote-jobs/mixmax-billing-support-analyst-philippines
+**Business Development Executive, APAC Public Sector (ANZ)**
+https://jobicy.com/jobs/154829-business-development-executive-apac-public-sector-anz
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Principal Solutions Architect (AWS Technical Alliances)**
-https://jobicy.com/jobs/152664-principal-solutions-architect-aws-technical-alliances
+**APAC Partner Business Development Manager**
+https://jobicy.com/jobs/154833-apac-partner-business-development-manager
 
-**VP, Engineering & Facilities**
-https://jobicy.com/jobs/152688-vp-engineering-facilities
+**Binance Accelerator Programm - Product Manager (meme)**
+https://jobicy.com/jobs/154830-binance-accelerator-programm-product-manager-meme
 
-**Senior Analyst, Care Operations**
-https://jobicy.com/jobs/152683-senior-analyst-care-operations
+**Head of Design**
+https://jobicy.com/jobs/152711-head-of-design
 
-**Senior AI Engineer, Voice Platform**
-https://jobicy.com/jobs/152648-senior-ai-engineer-voice-platform
+**Jumio: Machine Learning Engineer - IV (Biometrics)**
+https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics
 
