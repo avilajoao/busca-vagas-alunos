@@ -1,98 +1,74 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (09/10/2026)
+Segue nossa lista de vagas de hoje! (10/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Enterprise Account Executive - Germany**
-https://jobicy.com/jobs/154906-enterprise-account-executive-germany
+**Commercial Account Executive, Acquisition | Remote | Netherlands**
+https://jobicy.com/jobs/152923-commercial-account-executive-acquisition-remote-netherlands
 
-**Director, Global Campaigns**
-https://jobicy.com/jobs/154904-director-global-campaigns
+**Software Engineer, Backend**
+https://jobicy.com/jobs/152938-software-engineer-backend
 
-**Product Support Engineer - EMEA**
-https://jobicy.com/jobs/154903-product-support-engineer-emea
+**Commercial Account Executive, Acquisition | Remote | Sweden**
+https://jobicy.com/jobs/152927-commercial-account-executive-acquisition-remote-sweden
 
-**DevOps Engineer (Observability)**
-https://jobicy.com/jobs/154900-devops-engineer-observability
+**Performance Media Analyst**
+https://jobicy.com/jobs/152913-performance-media-analyst
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Support Engineer (EMEA - Weekends)**
-https://jobicy.com/jobs/152811-support-engineer-emea-weekends
-
-**Support Engineer (AMER - Weekends)**
-https://jobicy.com/jobs/152807-support-engineer-amer-weekends
-
-**Technical Customer Support Specialist**
-https://www.arbeitnow.ch/jobs/companies/happyrobotai/remote-technical-customer-support-specialist-54073
-
-**Lemon.io: Senior React Full-stack Developer**
-https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7
+**Security Engineer, Cloud**
+https://jobicy.com/jobs/152929-security-engineer-cloud
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Business Systems Engineer**
-https://jobicy.com/jobs/152814-business-systems-engineer
-
---- VUE.JS / NUXT ---
-
-**Mid Market Account Executive - EMEA (UKI)**
-https://jobicy.com/jobs/154899-mid-market-account-executive-emea-uki
-
---- JAVA / SPRING BOOT ---
-
-**Senior Software Engineer, Backend - Distributed Systems**
-https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-417843
-
---- C# / .NET ---
-
-**Creatio: Enterprise Account Executive (Kazakhstan)**
-https://weworkremotely.com/remote-jobs/creatio-enterprise-account-executive-kazakhstan
+**Partner Solutions Architect (Pan-EMEA GSI)**
+https://jobicy.com/jobs/152955-partner-solutions-architect-pan-emea-gsi
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Lead Solutions Architect - Generative AI (EMEA Emerging DNB)**
-https://jobicy.com/jobs/154888-lead-solutions-architect-generative-ai-emea-emerging-dnb
+**Staff AI Product Analyst**
+https://jobicy.com/jobs/152924-staff-ai-product-analyst
 
-**Data Analytics Engineer**
-https://jobicy.com/jobs/154889-data-analytics-engineer-2
+**Senior DevOps Engineer**
+https://jobicy.com/jobs/152901-senior-devops-engineer-7
 
-**Manager, Business Analytics**
-https://jobicy.com/jobs/154894-manager-business-analytics
+**Senior Data Scientist**
+https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-data-scientist-340621
 
-**Enterprise Account Executive**
-https://jobicy.com/jobs/152781-enterprise-account-executive-21
+**Applied AI Engineer**
+https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-applied-ai-engineer-404690
 
 --- GO ---
 
-**Senior Growth Marketing Manager (Subscriptions)**
-https://jobicy.com/jobs/152828-senior-growth-marketing-manager-subscriptions
+**Enterprise Security Sales Specialist**
+https://jobicy.com/jobs/152945-enterprise-security-sales-specialist
 
-**Enterprise Sales Lead, Financial Services**
-https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-enterprise-sales-lead-financial-services-209780
+**Senior Sales Operations Manager**
+https://jobicy.com/jobs/152946-senior-sales-operations-manager
 
-**Enterprise Sales Lead, Financial Services**
-https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-enterprise-sales-lead-financial-services-307085
+**Head of Product Marketing**
+https://jobicy.com/jobs/152906-head-of-product-marketing-2
 
-**Self-Serve Product Manager - ElevenCreative**
-https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-self-serve-product-manager-elevencreative-158784
+**Staff DevOps Engineer**
+https://jobicy.com/jobs/152908-staff-devops-engineer-2
 
---- BANCOS DE DADOS (SQL / NOSQL) ---
+--- RUBY ON RAILS ---
 
-**Account Executive (EMEA)**
-https://jobicy.com/jobs/152816-account-executive-emea-2
+**BeyondTrust: Cyber Defense Engineer**
+https://weworkremotely.com/remote-jobs/beyondtrust-cyber-defense-engineer
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Non-Eng Template**
-https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-non-eng-template-442587
+**Enterprise Account Executive - FSI**
+https://jobicy.com/jobs/152921-enterprise-account-executive-fsi
 
-**Non-Eng Template**
-https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-non-eng-template-281163
+**Jumio: Machine Learning Engineer - IV (Fraud)**
+https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-fraud
 
-**Amwell: Lead Digital Marketing Manager**
-https://weworkremotely.com/remote-jobs/amwell-lead-digital-marketing-manager
+**Jumio: Machine Learning Engineer - IV (Computer Vision)**
+https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision
 
-**Amwell: Content Marketing Manager**
-https://weworkremotely.com/remote-jobs/amwell-content-marketing-manager
+**Jumio: Machine Learning Engineer**
+https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer
 
