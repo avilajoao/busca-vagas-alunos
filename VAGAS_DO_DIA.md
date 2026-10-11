@@ -1,74 +1,75 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (10/10/2026)
+Segue nossa lista de vagas de hoje! (11/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Commercial Account Executive, Acquisition | Remote | Netherlands**
-https://jobicy.com/jobs/152923-commercial-account-executive-acquisition-remote-netherlands
+**Senior Software Engineer, Backend | Product Engineering**
+https://jobicy.com/jobs/155038-senior-software-engineer-backend-product-engineering
 
-**Software Engineer, Backend**
-https://jobicy.com/jobs/152938-software-engineer-backend
+**Helpdesk Technician Tier 1**
+https://jobicy.com/jobs/155036-helpdesk-technician-tier-1
 
-**Commercial Account Executive, Acquisition | Remote | Sweden**
-https://jobicy.com/jobs/152927-commercial-account-executive-acquisition-remote-sweden
+**Engineering Manager/Network Team Lead**
+https://jobicy.com/jobs/155029-engineering-manager-network-team-lead
 
-**Performance Media Analyst**
-https://jobicy.com/jobs/152913-performance-media-analyst
+**Country Manager, Australia & New Zealand**
+https://jobicy.com/jobs/155027-country-manager-australia-new-zealand
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Security Engineer, Cloud**
-https://jobicy.com/jobs/152929-security-engineer-cloud
+**Platform Engineering**
+https://jobicy.com/jobs/155048-platform-engineering
 
---- TYPESCRIPT / JAVASCRIPT ---
+**Maven Clinic: Customer Success Director**
+https://weworkremotely.com/remote-jobs/maven-clinic-customer-success-director
 
-**Partner Solutions Architect (Pan-EMEA GSI)**
-https://jobicy.com/jobs/152955-partner-solutions-architect-pan-emea-gsi
+**Vercel: Software Engineer, Backend**
+https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend
+
+--- JAVA / SPRING BOOT ---
+
+**Senior Infrastructure Software Engineer**
+https://jobicy.com/jobs/155024-senior-infrastructure-software-engineer
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Staff AI Product Analyst**
-https://jobicy.com/jobs/152924-staff-ai-product-analyst
+**Staff Machine Learning Engineer, Ads Foundational Representations**
+https://jobicy.com/jobs/155056-staff-machine-learning-engineer-ads-foundational-representations
 
-**Senior DevOps Engineer**
-https://jobicy.com/jobs/152901-senior-devops-engineer-7
+**Senior Software Engineer, Data Product**
+https://jobicy.com/jobs/155044-senior-software-engineer-data-product
 
-**Senior Data Scientist**
-https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-data-scientist-340621
+**Senior Data Scientist - Personalization & Predictions**
+https://jobicy.com/jobs/155015-senior-data-scientist-personalization-predictions
 
-**Applied AI Engineer**
-https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-applied-ai-engineer-404690
+**IT Engineer**
+https://jobicy.com/jobs/155006-it-engineer-2
 
 --- GO ---
 
-**Enterprise Security Sales Specialist**
-https://jobicy.com/jobs/152945-enterprise-security-sales-specialist
+**Recruiting Coordinator (Contract)**
+https://jobicy.com/jobs/155046-recruiting-coordinator-contract
 
-**Senior Sales Operations Manager**
-https://jobicy.com/jobs/152946-senior-sales-operations-manager
+**Customer Success Junior**
+https://jobicy.com/jobs/155041-customer-success-junior
 
-**Head of Product Marketing**
-https://jobicy.com/jobs/152906-head-of-product-marketing-2
+**Lifecycle & Email Marketing Manager**
+https://jobicy.com/jobs/155037-lifecycle-email-marketing-manager
 
-**Staff DevOps Engineer**
-https://jobicy.com/jobs/152908-staff-devops-engineer-2
-
---- RUBY ON RAILS ---
-
-**BeyondTrust: Cyber Defense Engineer**
-https://weworkremotely.com/remote-jobs/beyondtrust-cyber-defense-engineer
+**Senior / Staff Intelligence Analyst, Environmental Crimes**
+https://jobicy.com/jobs/155032-senior-staff-intelligence-analyst-environmental-crimes
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Enterprise Account Executive - FSI**
-https://jobicy.com/jobs/152921-enterprise-account-executive-fsi
+**International Payroll Analyst**
+https://jobicy.com/jobs/155054-international-payroll-analyst
 
-**Jumio: Machine Learning Engineer - IV (Fraud)**
-https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-fraud
+**Senior Tax Accountant, EMEA**
+https://jobicy.com/jobs/155025-senior-tax-accountant-emea
 
-**Jumio: Machine Learning Engineer - IV (Computer Vision)**
-https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision
+**Tax Manager, EMEA**
+https://jobicy.com/jobs/155023-tax-manager-emea
 
-**Jumio: Machine Learning Engineer**
-https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer
+**Staff Security Engineer, Incident Response**
+https://jobicy.com/jobs/155021-staff-security-engineer-incident-response
 
