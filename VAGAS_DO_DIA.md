@@ -1,75 +1,93 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (11/10/2026)
+Segue nossa lista de vagas de hoje! (12/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Senior Software Engineer, Backend | Product Engineering**
-https://jobicy.com/jobs/155038-senior-software-engineer-backend-product-engineering
+**Commercial Account Executive - Benelux**
+https://jobicy.com/jobs/155138-commercial-account-executive-benelux-2
 
-**Helpdesk Technician Tier 1**
-https://jobicy.com/jobs/155036-helpdesk-technician-tier-1
+**Engineering Manager, AI CICD**
+https://jobicy.com/jobs/155140-engineering-manager-ai-cicd
 
-**Engineering Manager/Network Team Lead**
-https://jobicy.com/jobs/155029-engineering-manager-network-team-lead
+**Enterprise Account Executive - NAMER**
+https://jobicy.com/jobs/155127-enterprise-account-executive-namer
 
-**Country Manager, Australia & New Zealand**
-https://jobicy.com/jobs/155027-country-manager-australia-new-zealand
+**Senior Integration Engineer**
+https://jobicy.com/jobs/155132-senior-integration-engineer-2
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Platform Engineering**
-https://jobicy.com/jobs/155048-platform-engineering
+**GTM Engineer**
+https://jobicy.com/jobs/155142-gtm-engineer-4
 
-**Maven Clinic: Customer Success Director**
-https://weworkremotely.com/remote-jobs/maven-clinic-customer-success-director
+**Bitwarden: Channel Marketing Manager (Partner Growth)**
+https://weworkremotely.com/remote-jobs/bitwarden-channel-marketing-manager-partner-growth
 
-**Vercel: Software Engineer, Backend**
-https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend
+**Rubrik Job Board: Customer Resilience Manager - Customer Success (Remote)**
+https://weworkremotely.com/remote-jobs/rubrik-job-board-customer-resilience-manager-customer-success-remote
+
+--- TYPESCRIPT / JAVASCRIPT ---
+
+**Security Operations Analyst- Ireland**
+https://jobicy.com/jobs/155141-security-operations-analyst-ireland
+
+**Senior Software Engineer, Cloud (Backend / Infrastructure)**
+https://jobicy.com/jobs/155112-senior-software-engineer-cloud-backend-infrastructure
+
+**Senior Customer Success Manager**
+https://jobicy.com/jobs/155113-senior-customer-success-manager-19
 
 --- JAVA / SPRING BOOT ---
 
-**Senior Infrastructure Software Engineer**
-https://jobicy.com/jobs/155024-senior-infrastructure-software-engineer
+**Toptal: Apigee Engineer for Global Consumer Food Company**
+https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Staff Machine Learning Engineer, Ads Foundational Representations**
-https://jobicy.com/jobs/155056-staff-machine-learning-engineer-ads-foundational-representations
+**Marketing Technology Engineer**
+https://jobicy.com/jobs/155143-marketing-technology-engineer-2
 
-**Senior Software Engineer, Data Product**
-https://jobicy.com/jobs/155044-senior-software-engineer-data-product
+**Affirm: Analyst**
+https://weworkremotely.com/remote-jobs/affirm-analyst
 
-**Senior Data Scientist - Personalization & Predictions**
-https://jobicy.com/jobs/155015-senior-data-scientist-personalization-predictions
+**BeyondTrust: Cloud Engineer**
+https://weworkremotely.com/remote-jobs/beyondtrust-cloud-engineer
 
-**IT Engineer**
-https://jobicy.com/jobs/155006-it-engineer-2
+--- PHP / LARAVEL ---
+
+**Software Engineer (Platform - SRE)**
+https://jobicy.com/jobs/155096-software-engineer-platform-sre
 
 --- GO ---
 
-**Recruiting Coordinator (Contract)**
-https://jobicy.com/jobs/155046-recruiting-coordinator-contract
+**Business Development Executive, Financial Institutions (EMEA)**
+https://jobicy.com/jobs/155139-business-development-executive-financial-institutions-emea
 
-**Customer Success Junior**
-https://jobicy.com/jobs/155041-customer-success-junior
+**Senior Blockchain Intelligence Analyst, Ransomware**
+https://jobicy.com/jobs/155136-senior-blockchain-intelligence-analyst-ransomware
 
-**Lifecycle & Email Marketing Manager**
-https://jobicy.com/jobs/155037-lifecycle-email-marketing-manager
+**Engineering Manager (Subscriptions)**
+https://jobicy.com/jobs/155099-engineering-manager-subscriptions
 
-**Senior / Staff Intelligence Analyst, Environmental Crimes**
-https://jobicy.com/jobs/155032-senior-staff-intelligence-analyst-environmental-crimes
+**GTM Strategy & Operations Manager, EMEA**
+https://jobicy.com/jobs/155097-gtm-strategy-operations-manager-emea
+
+--- RUBY ON RAILS ---
+
+**Rubrik Job Board: Field Sales Operations Manager**
+https://weworkremotely.com/remote-jobs/rubrik-job-board-field-sales-operations-manager
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**International Payroll Analyst**
-https://jobicy.com/jobs/155054-international-payroll-analyst
+**Counsel**
+https://jobicy.com/jobs/155128-counsel
 
-**Senior Tax Accountant, EMEA**
-https://jobicy.com/jobs/155025-senior-tax-accountant-emea
+**Senior Manager, AI Customer Success**
+https://jobicy.com/jobs/155110-senior-manager-ai-customer-success
 
-**Tax Manager, EMEA**
-https://jobicy.com/jobs/155023-tax-manager-emea
+**Corporate Account Executive - East**
+https://jobicy.com/jobs/155107-corporate-account-executive-east-2
 
-**Staff Security Engineer, Incident Response**
-https://jobicy.com/jobs/155021-staff-security-engineer-incident-response
+**Amwell: Sr Product Marketing Manager**
+https://weworkremotely.com/remote-jobs/amwell-sr-product-marketing-manager
 
