@@ -1,80 +1,110 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (13/10/2026)
+Segue nossa lista de vagas de hoje! (14/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Senior Manager, Global Procurement (Materials)**
-https://jobicy.com/jobs/155212-senior-manager-global-procurement-materials
+**Director of Enterprise Sales**
+https://jobicy.com/jobs/155263-director-of-enterprise-sales
 
-**Cashmere Lab Testing & Quality Leader**
-https://jobicy.com/jobs/155209-cashmere-lab-testing-quality-leader
+**Senior Data Scientist, Audio**
+https://jobicy.com/jobs/155260-senior-data-scientist-audio
 
-**Full Stack Engineer**
-https://jobicy.com/jobs/155189-full-stack-engineer-3
+**QA Analyst (Mexico, Remote)**
+https://jobicy.com/jobs/154873-qa-analyst-mexico-remote
 
-**Senior Detection Analyst**
-https://jobicy.com/jobs/155194-senior-detection-analyst
+**Financial Operations Specialist**
+https://jobicy.com/jobs/153182-financial-operations-specialist
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Lead Front-end Engineer (Javascript) - Digital Agency - Buenos Aires, Argentina.**
-https://jobicy.com/jobs/155191-lead-front-end-engineer-javascript-digital-agency-buenos-aires-argentina
+**Software Developer, Mobile Platform**
+https://jobicy.com/jobs/155262-software-developer-mobile-platform
 
-**Senior Software Engineer (Full-Stack, JavaScript)**
-https://jobicy.com/jobs/155186-senior-software-engineer-full-stack-javascript
+**Senior iOS Engineer (Swift & AWS)**
+https://jobicy.com/jobs/155230-senior-ios-engineer-swift-aws
 
-**Sr. Software Engineer (Remote Eligible from Bulgaria)**
-https://jobicy.com/jobs/155172-sr-software-engineer-remote-eligible-from-bulgaria
+**Senior Software Engineer (Full Stack | Node.js & React | AI Focus)**
+https://jobicy.com/jobs/155233-senior-software-engineer-full-stack-node-js-react-ai-focus
 
-**Prove: Senior Software Engineer, Identity Platform**
-https://weworkremotely.com/remote-jobs/prove-senior-software-engineer-identity-platform
+**Full Stack Web Engineer**
+https://jobicy.com/jobs/155231-full-stack-web-engineer
+
+--- TYPESCRIPT / JAVASCRIPT ---
+
+**Solutions Architect (EST or PST hours)**
+https://jobicy.com/jobs/155256-solutions-architect-est-or-pst-hours
+
+**Quality Platform Lead**
+https://www.arbeitnow.nl/jobs/companies/vio/remote-quality-platform-lead-218706
+
+--- JAVA / SPRING BOOT ---
+
+**Databricks: Deployment Strategist**
+https://weworkremotely.com/remote-jobs/databricks-deployment-strategist
 
 --- C# / .NET ---
 
-**Huble: Technical CRM Project Manager (French Speaking)**
-https://weworkremotely.com/remote-jobs/huble-technical-crm-project-manager-french-speaking
+**Business Intelligence Analyst**
+https://jobicy.com/jobs/153151-business-intelligence-analyst
 
-**Toptal : English Screener**
-https://weworkremotely.com/remote-jobs/toptal-english-screener-1
+**Embedded Vision & FPGA Engineer (m/f/d) in Aalen**
+https://www.arbeitnow.com/jobs/companies/hema-electronic-gmbh/embedded-vision-fpga-engineer-in-aalen-244107
+
+**Airbnb: Senior Manager, Quality, Volume Tiers**
+https://weworkremotely.com/remote-jobs/airbnb-senior-manager-quality-volume-tiers
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Forward Deployed Engineer - MX**
-https://www.arbeitnow.com/jobs/companies/breakmark/remote-forward-deployed-engineer-mx-419021
+**Senior Software Engineer (Trust)**
+https://jobicy.com/jobs/153163-senior-software-engineer-trust
 
-**Senior Product Manager**
-https://www.arbeitnow.nl/jobs/companies/vivid/remote-senior-product-manager-77656
+**Data Analyst**
+https://jobicy.com/jobs/155241-data-analyst-4
+
+**Senior Systems Engineer**
+https://jobicy.com/jobs/155236-senior-systems-engineer-2
+
+**Databricks: Delivery Solutions Architect - Startups & Emerging Enterprise**
+https://weworkremotely.com/remote-jobs/databricks-delivery-solutions-architect-startups-emerging-enterprise
+
+--- PHP / LARAVEL ---
+
+**Administrative Officer / Legal Administrative Officer - Financial Services**
+https://jobicy.com/jobs/149129-administrative-officer-legal-administrative-officer-financial-services-2
 
 --- GO ---
 
-**Business Development Representative - Dutch Speaker**
-https://jobicy.com/jobs/155217-business-development-representative-dutch-speaker
+**Enterprise Account Director - North East**
+https://jobicy.com/jobs/155259-enterprise-account-director-north-east
 
-**Business Development Representative**
-https://jobicy.com/jobs/155215-business-development-representative-17
+**Senior Technical Product Manager (Biometric Authentication)**
+https://jobicy.com/jobs/153165-senior-technical-product-manager-biometric-authentication
 
-**Account Manager - Dutch speaking**
-https://jobicy.com/jobs/155208-account-manager-dutch-speaking
+**Account Executive, Named - Germany**
+https://www.arbeitnow.com/jobs/companies/rubrik/remote-account-executive-named-germany-447311
 
-**Detection & Response Engineer**
-https://jobicy.com/jobs/155169-detection-response-engineer
+**Webflow: Senior Manager, Corporate Sales - West**
+https://weworkremotely.com/remote-jobs/webflow-senior-manager-corporate-sales-west
 
 --- RUBY ON RAILS ---
 
-**Commercial Legal Counsel**
-https://jobicy.com/jobs/155203-commercial-legal-counsel-2
+**Sales & Operations Specialist, RC Capital**
+https://jobicy.com/jobs/155244-sales-operations-specialist-rc-capital
+
+**Backend Engineer**
+https://jobicy.com/jobs/155238-backend-engineer-4
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Principal Specialist Sales Engineer, Zero Trust Branch - Majors, West**
-https://jobicy.com/jobs/155190-principal-specialist-sales-engineer-zero-trust-branch-majors-west
+**Enterprise Account Executive - Financial Services, New York/Northeast**
+https://jobicy.com/jobs/155240-enterprise-account-executive-financial-services-new-york-northeast
 
-**CX Operations Analyst**
-https://jobicy.com/jobs/155181-cx-operations-analyst
+**Enterprise Account Executive - Business Services**
+https://jobicy.com/jobs/155237-enterprise-account-executive-business-services
 
-**Strategic Solutions Engineer**
-https://jobicy.com/jobs/155176-strategic-solutions-engineer-2
+**Coinbase: Associate General Counsel, Privacy**
+https://weworkremotely.com/remote-jobs/coinbase-associate-general-counsel-privacy
 
-**Director, Solutions Architecture EMEA**
-https://jobicy.com/jobs/155174-director-solutions-architecture-emea
+**Oportun: Principal Product Manager, Savings (R13997)**
+https://weworkremotely.com/remote-jobs/oportun-principal-product-manager-savings-r13997
 
