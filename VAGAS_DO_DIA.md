@@ -1,85 +1,65 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (15/10/2026)
+Segue nossa lista de vagas de hoje! (16/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Enterprise Account Executive - Public Sector**
-https://jobicy.com/jobs/153219-enterprise-account-executive-public-sector
+**Client Delivery Lead - Payments**
+https://www.arbeitnow.nl/jobs/companies/kraken/remote-client-delivery-lead-payments-276415
 
-**Senior System Engineer (Virtual Private Cloud Team)**
-https://jobicy.com/jobs/150590-senior-system-engineer-virtual-private-cloud-team
+**Zscaler: Account Executive - Enterprise, Wisconsin**
+https://weworkremotely.com/remote-jobs/zscaler-account-executive-enterprise-wisconsin
 
-**Head of Engineering**
-https://jobicy.com/jobs/150588-head-of-engineering
+**Zscaler: Account Executive, Enterprise - Southern CA**
+https://weworkremotely.com/remote-jobs/zscaler-account-executive-enterprise-southern-ca
 
-**Delivery Solutions Architect - Digital Native Business**
-https://jobicy.com/jobs/153197-delivery-solutions-architect-digital-native-business
-
---- REACT / NEXT.JS / REACT NATIVE ---
-
-**Executive Assistant, Marketing**
-https://jobicy.com/jobs/153296-executive-assistant-marketing
+**ClickHouse: Principal Product Marketing Manager**
+https://weworkremotely.com/remote-jobs/clickhouse-principal-product-marketing-manager
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Senior Game Mathematician**
-https://jobicy.com/jobs/153229-senior-game-mathematician
+**Founding Engineer (Remote - EEA/UK)**
+https://www.arbeitnow.com/jobs/companies/tarebase/founding-engineer-remote-eea-uk-berlin-162955
 
-**Lattice: Senior Software Engineer, Infrastructure Platform**
-https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform
+--- JAVA / SPRING BOOT ---
 
-**Upgrade: Développeur(-euse) Expérience IA (IA conversationnelle)**
-https://weworkremotely.com/remote-jobs/upgrade-developpeur-euse-experience-ia-ia-conversationnelle
-
---- VUE.JS / NUXT ---
-
-**Staff Site Reliability Engineer**
-https://www.arbeitnow.fr/jobs/companies/adikteev/remote-staff-site-reliability-engineer-paris-357394
+**PagerDuty: Senior Solutions Consultant**
+https://weworkremotely.com/remote-jobs/pagerduty-senior-solutions-consultant
 
 --- C# / .NET ---
 
-**AITrainers: Remote AI Trainers (Generalist and Python Coding Experts)**
-https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-and-python-coding-experts
-
-**Apollo: Business Recruiter**
-https://weworkremotely.com/remote-jobs/apollo-business-recruiter
+**Zapier: Sr. Motion Designer**
+https://weworkremotely.com/remote-jobs/zapier-sr-motion-designer
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Analyst II, Full Stack (Revenue Analytics)**
-https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics
+**Senior/Lead Security Engineer (Detection & Response)**
+https://www.arbeitnow.fr/jobs/companies/fuseenergy/remote-senior-lead-security-engineer-detection-response-france-104833
 
-**Analytics Engineer II**
-https://jobicy.com/jobs/153263-analytics-engineer-ii
+**BeyondTrust: Cloud Network Engineer**
+https://weworkremotely.com/remote-jobs/beyondtrust-cloud-network-engineer
 
-**Analytics Lead, Full Stack**
-https://jobicy.com/jobs/153266-analytics-lead-full-stack
-
-**Member of Technical Staff (Robotics)**
-https://jobicy.com/jobs/153241-member-of-technical-staff-robotics
+**6sense: IT Support Specialist**
+https://weworkremotely.com/remote-jobs/6sense-it-support-specialist
 
 --- GO ---
 
-**Enterprise Sales Leader - Technology and Telecommunications**
-https://jobicy.com/jobs/153218-enterprise-sales-leader-technology-and-telecommunications
+**PagerDuty: Senior Director, Solutions Consulting**
+https://weworkremotely.com/remote-jobs/pagerduty-senior-director-solutions-consulting
 
-**Datadog: Enterprise Security Sales Specialist**
-https://weworkremotely.com/remote-jobs/datadog-enterprise-security-sales-specialist
-
-**Faire: Senior Business Recruiter**
-https://weworkremotely.com/remote-jobs/faire-senior-business-recruiter
+**Fivetran : Global Alliance Lead, Capgemini**
+https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Chief Information Security Officer**
-https://jobicy.com/jobs/153270-chief-information-security-officer-2
+**Fivetran : Enterprise Sales Director**
+https://weworkremotely.com/remote-jobs/fivetran-enterprise-sales-director
 
-**Senior Product Designer (Full Remote - France)**
-https://jobicy.com/jobs/153267-senior-product-designer-full-remote-france
+**StockX: Category Manager - Apparel**
+https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel
 
-**Enterprise Account Executive - TMT**
-https://jobicy.com/jobs/153201-enterprise-account-executive-tmt
+**StockX: Category Manager**
+https://weworkremotely.com/remote-jobs/stockx-category-manager
 
-**Sales Enablement Professional**
-https://jobicy.com/jobs/146029-sales-enablement-professional
+**Keeper Security: Associate Talent Acquisition Partner, Tech**
+https://weworkremotely.com/remote-jobs/keeper-security-associate-talent-acquisition-partner-tech
 
