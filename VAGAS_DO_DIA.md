@@ -1,65 +1,85 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (16/10/2026)
+Segue nossa lista de vagas de hoje! (17/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Client Delivery Lead - Payments**
-https://www.arbeitnow.nl/jobs/companies/kraken/remote-client-delivery-lead-payments-276415
+**Onboarding Coach**
+https://jobicy.com/jobs/155580-onboarding-coach-2
 
-**Zscaler: Account Executive - Enterprise, Wisconsin**
-https://weworkremotely.com/remote-jobs/zscaler-account-executive-enterprise-wisconsin
+**Senior Manager, AI Engineering**
+https://jobicy.com/jobs/153461-senior-manager-ai-engineering-2
 
-**Zscaler: Account Executive, Enterprise - Southern CA**
-https://weworkremotely.com/remote-jobs/zscaler-account-executive-enterprise-southern-ca
+**Senior Software Engineer (Home Energy)**
+https://jobicy.com/jobs/153404-senior-software-engineer-home-energy-2
 
-**ClickHouse: Principal Product Marketing Manager**
-https://weworkremotely.com/remote-jobs/clickhouse-principal-product-marketing-manager
+**Legion: Principal Product Manager, Agentic AI**
+https://weworkremotely.com/remote-jobs/legion-principal-product-manager-agentic-ai
+
+--- REACT / NEXT.JS / REACT NATIVE ---
+
+**Data Director, EU**
+https://jobicy.com/jobs/155581-data-director-eu
+
+**Lead Developer / Architect Web3**
+https://jobicy.com/jobs/155565-1140-lead-developer-architect-web3
+
+**Software Engineer - Auth**
+https://jobicy.com/jobs/153449-software-engineer-auth
+
+**Sanctuary Computer: Head of Technology**
+https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Founding Engineer (Remote - EEA/UK)**
-https://www.arbeitnow.com/jobs/companies/tarebase/founding-engineer-remote-eea-uk-berlin-162955
+**Edge Functions Engineer**
+https://jobicy.com/jobs/153452-edge-functions-engineer
 
---- JAVA / SPRING BOOT ---
+**Postgres Deployment Engineer (Nix)**
+https://jobicy.com/jobs/153446-postgres-deployment-engineer-nix
 
-**PagerDuty: Senior Solutions Consultant**
-https://weworkremotely.com/remote-jobs/pagerduty-senior-solutions-consultant
+**Samsara: Staff Software Engineer**
+https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer
 
 --- C# / .NET ---
 
-**Zapier: Sr. Motion Designer**
-https://weworkremotely.com/remote-jobs/zapier-sr-motion-designer
+**CSM II**
+https://jobicy.com/jobs/153459-csm-ii
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Senior/Lead Security Engineer (Detection & Response)**
-https://www.arbeitnow.fr/jobs/companies/fuseenergy/remote-senior-lead-security-engineer-detection-response-france-104833
-
-**BeyondTrust: Cloud Network Engineer**
-https://weworkremotely.com/remote-jobs/beyondtrust-cloud-network-engineer
-
-**6sense: IT Support Specialist**
-https://weworkremotely.com/remote-jobs/6sense-it-support-specialist
+**Senior DevOps Engineer - Storage Platforms**
+https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms
 
 --- GO ---
 
-**PagerDuty: Senior Director, Solutions Consulting**
-https://weworkremotely.com/remote-jobs/pagerduty-senior-director-solutions-consulting
+**Legal Counsel**
+https://jobicy.com/jobs/155567-legal-counsel
 
-**Fivetran : Global Alliance Lead, Capgemini**
-https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini
+**Growth Design Lead**
+https://jobicy.com/jobs/155564-growth-design-lead
+
+**Sr. Product Marketing Manager, Enterprise**
+https://jobicy.com/jobs/155558-sr-product-marketing-manager-enterprise
+
+**Sr. Motion Designer**
+https://jobicy.com/jobs/155561-sr-motion-designer
+
+--- BANCOS DE DADOS (SQL / NOSQL) ---
+
+**Product Lead - Infrastructure**
+https://jobicy.com/jobs/153453-product-lead-infrastructure
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Fivetran : Enterprise Sales Director**
-https://weworkremotely.com/remote-jobs/fivetran-enterprise-sales-director
+**AI Engineer - 4 Day Week + Remote**
+https://jobicy.com/jobs/155579-ai-engineer-4-day-week-remote
 
-**StockX: Category Manager - Apparel**
-https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel
+**Legion: Enterprise Account Executive - NAMER**
+https://weworkremotely.com/remote-jobs/legion-enterprise-account-executive-namer
 
-**StockX: Category Manager**
-https://weworkremotely.com/remote-jobs/stockx-category-manager
+**Mixpanel: Customer Value Architect III**
+https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii
 
-**Keeper Security: Associate Talent Acquisition Partner, Tech**
-https://weworkremotely.com/remote-jobs/keeper-security-associate-talent-acquisition-partner-tech
+**Keeper Security: Analyst Relations Manager**
+https://weworkremotely.com/remote-jobs/keeper-security-analyst-relations-manager
 
