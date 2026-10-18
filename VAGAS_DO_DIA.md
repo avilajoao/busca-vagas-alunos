@@ -1,85 +1,108 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (17/10/2026)
+Segue nossa lista de vagas de hoje! (18/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Onboarding Coach**
-https://jobicy.com/jobs/155580-onboarding-coach-2
+**Enterprise Account Executive, Growth | Remote | Sweden**
+https://jobicy.com/jobs/155696-enterprise-account-executive-growth-remote-sweden
 
-**Senior Manager, AI Engineering**
-https://jobicy.com/jobs/153461-senior-manager-ai-engineering-2
+**Enterprise Account Executive, Acquisition | Remote | Sweden**
+https://jobicy.com/jobs/155690-enterprise-account-executive-acquisition-remote-sweden
 
-**Senior Software Engineer (Home Energy)**
-https://jobicy.com/jobs/153404-senior-software-engineer-home-energy-2
+**Enterprise Account Executive, Growth - META | Remote | Spain**
+https://jobicy.com/jobs/155693-enterprise-account-executive-growth-meta-remote-spain
 
-**Legion: Principal Product Manager, Agentic AI**
-https://weworkremotely.com/remote-jobs/legion-principal-product-manager-agentic-ai
+**Software Engineer II - Poland**
+https://jobicy.com/jobs/155678-software-engineer-ii-poland
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Data Director, EU**
-https://jobicy.com/jobs/155581-data-director-eu
+**Enterprise Customer Success Manager**
+https://jobicy.com/jobs/155703-enterprise-customer-success-manager-9
 
-**Lead Developer / Architect Web3**
-https://jobicy.com/jobs/155565-1140-lead-developer-architect-web3
+**Enterprise Customer Success Manager (French speaker)**
+https://jobicy.com/jobs/155706-enterprise-customer-success-manager-french-speaker
 
-**Software Engineer - Auth**
-https://jobicy.com/jobs/153449-software-engineer-auth
+**Account Director, EMEA (Crypto)**
+https://jobicy.com/jobs/155688-account-director-emea-crypto
 
-**Sanctuary Computer: Head of Technology**
-https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology
+**Automation Specialist, Customer Success**
+https://jobicy.com/jobs/155667-automation-specialist-customer-success
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Edge Functions Engineer**
-https://jobicy.com/jobs/153452-edge-functions-engineer
+**Software Engineer - Applied AI**
+https://jobicy.com/jobs/155671-software-engineer-applied-ai
 
-**Postgres Deployment Engineer (Nix)**
-https://jobicy.com/jobs/153446-postgres-deployment-engineer-nix
+**Technical Support Engineer, APAC**
+https://jobicy.com/jobs/155669-technical-support-engineer-apac
 
-**Samsara: Staff Software Engineer**
-https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer
+**Software Engineer**
+https://jobicy.com/jobs/155660-software-engineer-12
 
---- C# / .NET ---
+**Senior Software Engineer, AI Engineer (Brazil)**
+https://jobicy.com/jobs/155662-senior-software-engineer-ai-engineer-brazil
 
-**CSM II**
-https://jobicy.com/jobs/153459-csm-ii
+--- ANGULAR ---
+
+**Full Stack Developer (Frontend-Focused) - Brazil**
+https://jobicy.com/jobs/155661-full-stack-developer-frontend-focused-brazil
+
+--- JAVA / SPRING BOOT ---
+
+**Lithic: Senior Software Engineer, Product Platform**
+https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform
+
+**Airbnb: Operations Engineer, BizTech**
+https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech
+
+**Lithic: Senior Software Engineer, Processing**
+https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing
+
+**Squarespace: Staff Software Engineer, Revenue Systems**
+https://weworkremotely.com/remote-jobs/squarespace-staff-software-engineer-revenue-systems
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Senior DevOps Engineer - Storage Platforms**
-https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms
+**IT Support Specialist**
+https://jobicy.com/jobs/155698-it-support-specialist-3
+
+**Senior Data Scientist, Full Stack (Brazil)**
+https://jobicy.com/jobs/155658-senior-data-scientist-full-stack-brazil
+
+**PlanetScale: Enterprise Support Engineer**
+https://weworkremotely.com/remote-jobs/planetscale-enterprise-support-engineer
 
 --- GO ---
 
-**Legal Counsel**
-https://jobicy.com/jobs/155567-legal-counsel
+**Senior International Sales Recruiter, UK/EMEA**
+https://jobicy.com/jobs/155694-senior-international-sales-recruiter-uk-emea
 
-**Growth Design Lead**
-https://jobicy.com/jobs/155564-growth-design-lead
+**Deployment Strategist, Eastern Europe**
+https://jobicy.com/jobs/155691-deployment-strategist-eastern-europe
 
-**Sr. Product Marketing Manager, Enterprise**
-https://jobicy.com/jobs/155558-sr-product-marketing-manager-enterprise
+**Senior Technical Recruiter (Contract)**
+https://jobicy.com/jobs/155666-senior-technical-recruiter-contract
 
-**Sr. Motion Designer**
-https://jobicy.com/jobs/155561-sr-motion-designer
+**Senior New Business Sales Manager – Active Travel / Smart Mobility**
+https://www.arbeitnow.co.uk/jobs/companies/eco-compteur/remote-senior-new-business-sales-manager-active-travel-smart-mobility-silverstone-259589
 
---- BANCOS DE DADOS (SQL / NOSQL) ---
+--- RUBY ON RAILS ---
 
-**Product Lead - Infrastructure**
-https://jobicy.com/jobs/153453-product-lead-infrastructure
+**Senior Quality Engineer - Tellent Intelligence (AI)**
+https://www.arbeitnow.nl/jobs/companies/tellent/remote-senior-quality-engineer-tellent-intelligence-ai-amsterdam-295070
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**AI Engineer - 4 Day Week + Remote**
-https://jobicy.com/jobs/155579-ai-engineer-4-day-week-remote
+**Senior Customer Success Engineer**
+https://jobicy.com/jobs/155685-senior-customer-success-engineer-2
 
-**Legion: Enterprise Account Executive - NAMER**
-https://weworkremotely.com/remote-jobs/legion-enterprise-account-executive-namer
+**Collections Specialist 12 Month Contract**
+https://jobicy.com/jobs/155677-collections-specialist-12-month-contract
 
-**Mixpanel: Customer Value Architect III**
-https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii
+**Staff Solutions Architect, AI Subject Matter Expert**
+https://www.arbeitnow.com/jobs/companies/gitlab/remote-staff-solutions-architect-ai-subject-matter-expert-456239
 
-**Keeper Security: Analyst Relations Manager**
-https://weworkremotely.com/remote-jobs/keeper-security-analyst-relations-manager
+**Cloud Consultant-Architect**
+https://www.arbeitnow.com/jobs/companies/itq/remote-cloud-consultant-architect-dusseldorf-261020
 
