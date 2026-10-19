@@ -1,108 +1,69 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (18/10/2026)
+Segue nossa lista de vagas de hoje! (19/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Enterprise Account Executive, Growth | Remote | Sweden**
-https://jobicy.com/jobs/155696-enterprise-account-executive-growth-remote-sweden
+**Senior Strategic Finance Manager**
+https://jobicy.com/jobs/155825-senior-strategic-finance-manager
 
-**Enterprise Account Executive, Acquisition | Remote | Sweden**
-https://jobicy.com/jobs/155690-enterprise-account-executive-acquisition-remote-sweden
+**Accounting Associate (Turkish Speaking)**
+https://jobicy.com/jobs/155818-accounting-associate-turkish-speaking
 
-**Enterprise Account Executive, Growth - META | Remote | Spain**
-https://jobicy.com/jobs/155693-enterprise-account-executive-growth-meta-remote-spain
+**Business Development Representative, Spanish Speaking**
+https://jobicy.com/jobs/155813-business-development-representative-spanish-speaking
 
-**Software Engineer II - Poland**
-https://jobicy.com/jobs/155678-software-engineer-ii-poland
-
---- REACT / NEXT.JS / REACT NATIVE ---
-
-**Enterprise Customer Success Manager**
-https://jobicy.com/jobs/155703-enterprise-customer-success-manager-9
-
-**Enterprise Customer Success Manager (French speaker)**
-https://jobicy.com/jobs/155706-enterprise-customer-success-manager-french-speaker
-
-**Account Director, EMEA (Crypto)**
-https://jobicy.com/jobs/155688-account-director-emea-crypto
-
-**Automation Specialist, Customer Success**
-https://jobicy.com/jobs/155667-automation-specialist-customer-success
+**Business Development Representative, Italian Speaking**
+https://jobicy.com/jobs/155811-business-development-representative-italian-speaking
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Software Engineer - Applied AI**
-https://jobicy.com/jobs/155671-software-engineer-applied-ai
-
-**Technical Support Engineer, APAC**
-https://jobicy.com/jobs/155669-technical-support-engineer-apac
-
-**Software Engineer**
-https://jobicy.com/jobs/155660-software-engineer-12
-
-**Senior Software Engineer, AI Engineer (Brazil)**
-https://jobicy.com/jobs/155662-senior-software-engineer-ai-engineer-brazil
-
---- ANGULAR ---
-
-**Full Stack Developer (Frontend-Focused) - Brazil**
-https://jobicy.com/jobs/155661-full-stack-developer-frontend-focused-brazil
-
---- JAVA / SPRING BOOT ---
-
-**Lithic: Senior Software Engineer, Product Platform**
-https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform
-
-**Airbnb: Operations Engineer, BizTech**
-https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech
-
-**Lithic: Senior Software Engineer, Processing**
-https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing
-
-**Squarespace: Staff Software Engineer, Revenue Systems**
-https://weworkremotely.com/remote-jobs/squarespace-staff-software-engineer-revenue-systems
+**Senior Product Security Engineer (all genders)**
+https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-product-security-engineer-all-genders-berlin-249335
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**IT Support Specialist**
-https://jobicy.com/jobs/155698-it-support-specialist-3
+**Forward Deployed Engineer**
+https://jobicy.com/jobs/155803-forward-deployed-engineer-7
 
-**Senior Data Scientist, Full Stack (Brazil)**
-https://jobicy.com/jobs/155658-senior-data-scientist-full-stack-brazil
+**Bioinformatics Scientist**
+https://jobicy.com/jobs/155801-bioinformatics-scientist
 
-**PlanetScale: Enterprise Support Engineer**
-https://weworkremotely.com/remote-jobs/planetscale-enterprise-support-engineer
+**Forward Deployed Engineer - Software Engineer - USA**
+https://jobicy.com/jobs/155802-forward-deployed-engineer-software-engineer-usa
+
+**Flexport: Senior Security Engineer, Detection & Response**
+https://weworkremotely.com/remote-jobs/flexport-senior-security-engineer-detection-response
 
 --- GO ---
 
-**Senior International Sales Recruiter, UK/EMEA**
-https://jobicy.com/jobs/155694-senior-international-sales-recruiter-uk-emea
+**Treasury Analyst**
+https://jobicy.com/jobs/155821-treasury-analyst
 
-**Deployment Strategist, Eastern Europe**
-https://jobicy.com/jobs/155691-deployment-strategist-eastern-europe
-
-**Senior Technical Recruiter (Contract)**
-https://jobicy.com/jobs/155666-senior-technical-recruiter-contract
-
-**Senior New Business Sales Manager – Active Travel / Smart Mobility**
-https://www.arbeitnow.co.uk/jobs/companies/eco-compteur/remote-senior-new-business-sales-manager-active-travel-smart-mobility-silverstone-259589
+**Director, Strategic Institutional Partnerships - Special Projects Lead**
+https://jobicy.com/jobs/155792-director-strategic-institutional-partnerships-special-projects-lead
 
 --- RUBY ON RAILS ---
 
-**Senior Quality Engineer - Tellent Intelligence (AI)**
-https://www.arbeitnow.nl/jobs/companies/tellent/remote-senior-quality-engineer-tellent-intelligence-ai-amsterdam-295070
+**Senior FP&A Manager**
+https://jobicy.com/jobs/155793-senior-fpa-manager-2
+
+**Partnership Manager**
+https://jobicy.com/jobs/155790-partnership-manager
+
+**Product Manager, Growth**
+https://jobicy.com/jobs/153609-product-manager-growth
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Senior Customer Success Engineer**
-https://jobicy.com/jobs/155685-senior-customer-success-engineer-2
+**Senior Affiliate Manager (Full Remote - Czech Republic)**
+https://jobicy.com/jobs/155814-senior-affiliate-manager-full-remote-czech-republic
 
-**Collections Specialist 12 Month Contract**
-https://jobicy.com/jobs/155677-collections-specialist-12-month-contract
+**Senior Affiliate Manager (Full Remote - Poland)**
+https://jobicy.com/jobs/155812-senior-affiliate-manager-full-remote-poland
 
-**Staff Solutions Architect, AI Subject Matter Expert**
-https://www.arbeitnow.com/jobs/companies/gitlab/remote-staff-solutions-architect-ai-subject-matter-expert-456239
+**Senior Affiliate Manager (Full Remote - Italy)**
+https://jobicy.com/jobs/155805-senior-affiliate-manager-full-remote-italy-2
 
-**Cloud Consultant-Architect**
-https://www.arbeitnow.com/jobs/companies/itq/remote-cloud-consultant-architect-dusseldorf-261020
+**Senior Affiliate Manager (Full Remote - Spain)**
+https://jobicy.com/jobs/155808-senior-affiliate-manager-full-remote-spain-2
 
