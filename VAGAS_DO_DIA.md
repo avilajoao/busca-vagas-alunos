@@ -1,69 +1,108 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (19/10/2026)
+Segue nossa lista de vagas de hoje! (20/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Senior Strategic Finance Manager**
-https://jobicy.com/jobs/155825-senior-strategic-finance-manager
+**Microsoft 365 Engineer**
+https://jobicy.com/jobs/155962-microsoft-365-engineer
 
-**Accounting Associate (Turkish Speaking)**
-https://jobicy.com/jobs/155818-accounting-associate-turkish-speaking
+**Strategic Account Executive, Life Science**
+https://jobicy.com/jobs/155965-strategic-account-executive-life-science
 
-**Business Development Representative, Spanish Speaking**
-https://jobicy.com/jobs/155813-business-development-representative-spanish-speaking
+**ML Infrastructure Engineer**
+https://jobicy.com/jobs/155964-ml-infrastructure-engineer
 
-**Business Development Representative, Italian Speaking**
-https://jobicy.com/jobs/155811-business-development-representative-italian-speaking
+**Founding Enterprise Account Executive, UK - Tavily**
+https://jobicy.com/jobs/155952-founding-enterprise-account-executive-uk-tavily
+
+--- REACT / NEXT.JS / REACT NATIVE ---
+
+**Full Stack Engineer**
+https://jobicy.com/jobs/155950-full-stack-engineer-7
+
+**Senior Full Stack Engineer**
+https://jobicy.com/jobs/155949-senior-full-stack-engineer-8
+
+**Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform**
+https://jobicy.com/jobs/153659-senior-full-stack-engineer-realtime-voice-customer-experience-platform
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Senior Product Security Engineer (all genders)**
-https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-product-security-engineer-all-genders-berlin-249335
+**Bulgarian SEO Specialist**
+https://jobicy.com/jobs/151172-bulgarian-seo-specialist
+
+**Technical Integrations Consultant**
+https://jobicy.com/jobs/153676-technical-integrations-consultant
+
+--- JAVA / SPRING BOOT ---
+
+**Principal Engineer - Platform & Data**
+https://jobicy.com/jobs/153652-principal-engineer-platform-data-2
+
+--- C# / .NET ---
+
+**Vertex Marketing Group: Distribution Engineer**
+https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer
+
+**Carrot: Director, Information Security**
+https://weworkremotely.com/remote-jobs/carrot-director-information-security
+
+**Carrot: Business Intelligence Analyst**
+https://weworkremotely.com/remote-jobs/carrot-business-intelligence-analyst
+
+**Veeva Systems: Senior Consultant - CRM Data Software**
+https://weworkremotely.com/remote-jobs/veeva-systems-senior-consultant-crm-data-software
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Forward Deployed Engineer**
-https://jobicy.com/jobs/155803-forward-deployed-engineer-7
+**Senior AI Engineer (GTM)**
+https://jobicy.com/jobs/155963-senior-ai-engineer-gtm
 
-**Bioinformatics Scientist**
-https://jobicy.com/jobs/155801-bioinformatics-scientist
+**Manager, ML Solutions Architecture - Token Factory**
+https://jobicy.com/jobs/155956-manager-ml-solutions-architecture-token-factory
 
-**Forward Deployed Engineer - Software Engineer - USA**
-https://jobicy.com/jobs/155802-forward-deployed-engineer-software-engineer-usa
+**Forward Deployed Engineer, Physical AI Infrastructure**
+https://jobicy.com/jobs/155951-forward-deployed-engineer-physical-ai-infrastructure
 
-**Flexport: Senior Security Engineer, Detection & Response**
-https://weworkremotely.com/remote-jobs/flexport-senior-security-engineer-detection-response
+**DevOps Engineer, Blockchain Infra (Fully Remote)**
+https://jobicy.com/jobs/153653-devops-engineer-blockchain-infra-fully-remote
 
 --- GO ---
 
-**Treasury Analyst**
-https://jobicy.com/jobs/155821-treasury-analyst
+**Senior FP&A Analyst**
+https://jobicy.com/jobs/155958-senior-fpa-analyst
 
-**Director, Strategic Institutional Partnerships - Special Projects Lead**
-https://jobicy.com/jobs/155792-director-strategic-institutional-partnerships-special-projects-lead
+**Enterprise Account Executive**
+https://jobicy.com/jobs/153673-enterprise-account-executive-13
+
+**Sales Director, NAMER | US**
+https://jobicy.com/jobs/153632-sales-director-namer-us
+
+**Samsara: Account Executive, Commercial**
+https://weworkremotely.com/remote-jobs/samsara-account-executive-commercial
 
 --- RUBY ON RAILS ---
 
-**Senior FP&A Manager**
-https://jobicy.com/jobs/155793-senior-fpa-manager-2
+**Principal Product Manager- Conversational AI**
+https://jobicy.com/jobs/153654-principal-product-manager-conversational-ai
 
-**Partnership Manager**
-https://jobicy.com/jobs/155790-partnership-manager
+**Application Integration Developer**
+https://jobicy.com/jobs/153674-application-integration-developer
 
-**Product Manager, Growth**
-https://jobicy.com/jobs/153609-product-manager-growth
+**Abbott: Clinical Specialist, CRM - Mobile, AL**
+https://weworkremotely.com/remote-jobs/abbott-clinical-specialist-crm-mobile-al
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Senior Affiliate Manager (Full Remote - Czech Republic)**
-https://jobicy.com/jobs/155814-senior-affiliate-manager-full-remote-czech-republic
+**Staff Systems Engineer**
+https://jobicy.com/jobs/155966-staff-systems-engineer
 
-**Senior Affiliate Manager (Full Remote - Poland)**
-https://jobicy.com/jobs/155812-senior-affiliate-manager-full-remote-poland
+**Learning Experience Designer, Nebius Academy**
+https://jobicy.com/jobs/155955-learning-experience-designer-nebius-academy
 
-**Senior Affiliate Manager (Full Remote - Italy)**
-https://jobicy.com/jobs/155805-senior-affiliate-manager-full-remote-italy-2
+**Graduate Customer Success Manager**
+https://jobicy.com/jobs/153669-graduate-customer-success-manager
 
-**Senior Affiliate Manager (Full Remote - Spain)**
-https://jobicy.com/jobs/155808-senior-affiliate-manager-full-remote-spain-2
+**Enterprise Customer Success Manager**
+https://jobicy.com/jobs/153675-enterprise-customer-success-manager-6
 
