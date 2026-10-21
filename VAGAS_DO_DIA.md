@@ -1,108 +1,100 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (20/10/2026)
+Segue nossa lista de vagas de hoje! (21/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Microsoft 365 Engineer**
-https://jobicy.com/jobs/155962-microsoft-365-engineer
+**Enterprise Account Executive - Singapore**
+https://jobicy.com/jobs/156198-enterprise-account-executive-singapore
 
-**Strategic Account Executive, Life Science**
-https://jobicy.com/jobs/155965-strategic-account-executive-life-science
+**Staff Software Engineer, Platform Infrastructure**
+https://jobicy.com/jobs/156184-staff-software-engineer-platform-infrastructure
 
-**ML Infrastructure Engineer**
-https://jobicy.com/jobs/155964-ml-infrastructure-engineer
+**Staff Software Engineer**
+https://jobicy.com/jobs/156181-staff-software-engineer-9
 
-**Founding Enterprise Account Executive, UK - Tavily**
-https://jobicy.com/jobs/155952-founding-enterprise-account-executive-uk-tavily
+**Solutions Architect**
+https://jobicy.com/jobs/156171-solutions-architect-2
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Full Stack Engineer**
-https://jobicy.com/jobs/155950-full-stack-engineer-7
+**Senior Web Engineer - Subscriptions**
+https://jobicy.com/jobs/156186-senior-web-engineer-subscriptions
 
-**Senior Full Stack Engineer**
-https://jobicy.com/jobs/155949-senior-full-stack-engineer-8
+**Policy Communications Lead, Europe**
+https://jobicy.com/jobs/156177-policy-communications-lead-europe
 
-**Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform**
-https://jobicy.com/jobs/153659-senior-full-stack-engineer-realtime-voice-customer-experience-platform
+**VP of Global Growth**
+https://jobicy.com/jobs/156143-vp-of-global-growth
+
+**Full Stack Blockchain Engineer for RWA market**
+https://www.arbeitnow.ch/jobs/companies/blockvora/full-stack-blockchain-engineer-for-rwa-market-zug-393337
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Bulgarian SEO Specialist**
-https://jobicy.com/jobs/151172-bulgarian-seo-specialist
+**Senior Solutions Architect - Europe**
+https://jobicy.com/jobs/156151-senior-solutions-architect-europe
 
-**Technical Integrations Consultant**
-https://jobicy.com/jobs/153676-technical-integrations-consultant
+**Customer Success Engineer ( London)**
+https://jobicy.com/jobs/156153-customer-success-engineer-london
 
---- JAVA / SPRING BOOT ---
+**Lemon.io: Senior Vue Developer**
+https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1
 
-**Principal Engineer - Platform & Data**
-https://jobicy.com/jobs/153652-principal-engineer-platform-data-2
+**Upsun: Product Manager**
+https://weworkremotely.com/remote-jobs/upsun-product-manager
+
+--- ANGULAR ---
+
+**Software Engineer (.NET)**
+https://jobicy.com/jobs/156146-software-engineer-net
 
 --- C# / .NET ---
 
-**Vertex Marketing Group: Distribution Engineer**
-https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer
+**DuckDuckGo: Senior Backend Engineer**
+https://weworkremotely.com/remote-jobs/duckduckgo-senior-backend-engineer
 
-**Carrot: Director, Information Security**
-https://weworkremotely.com/remote-jobs/carrot-director-information-security
-
-**Carrot: Business Intelligence Analyst**
-https://weworkremotely.com/remote-jobs/carrot-business-intelligence-analyst
-
-**Veeva Systems: Senior Consultant - CRM Data Software**
-https://weworkremotely.com/remote-jobs/veeva-systems-senior-consultant-crm-data-software
+**Workiva: Principal Experience Designer - Visual Design & Design Systems**
+https://weworkremotely.com/remote-jobs/workiva-principal-experience-designer-visual-design-design-systems
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Senior AI Engineer (GTM)**
-https://jobicy.com/jobs/155963-senior-ai-engineer-gtm
+**Senior Software Engineer, Platform**
+https://jobicy.com/jobs/156187-senior-software-engineer-platform-3
 
-**Manager, ML Solutions Architecture - Token Factory**
-https://jobicy.com/jobs/155956-manager-ml-solutions-architecture-token-factory
+**Fastly: Threat Detection Analyst (Japanese Speaking desirable)**
+https://weworkremotely.com/remote-jobs/fastly-threat-detection-analyst-japanese-speaking-desirable
 
-**Forward Deployed Engineer, Physical AI Infrastructure**
-https://jobicy.com/jobs/155951-forward-deployed-engineer-physical-ai-infrastructure
+**Reddit: Analytics Engineer**
+https://weworkremotely.com/remote-jobs/reddit-analytics-engineer
 
-**DevOps Engineer, Blockchain Infra (Fully Remote)**
-https://jobicy.com/jobs/153653-devops-engineer-blockchain-infra-fully-remote
+**Clover Health: Data Analyst, Clinical Data Effectiveness**
+https://weworkremotely.com/remote-jobs/clover-health-data-analyst-clinical-data-effectiveness
 
 --- GO ---
 
-**Senior FP&A Analyst**
-https://jobicy.com/jobs/155958-senior-fpa-analyst
+**Localisation Project Manager**
+https://jobicy.com/jobs/156175-localisation-project-manager
 
-**Enterprise Account Executive**
-https://jobicy.com/jobs/153673-enterprise-account-executive-13
+**Commercial Account Executive, DACH**
+https://jobicy.com/jobs/156154-commercial-account-executive-dach
 
-**Sales Director, NAMER | US**
-https://jobicy.com/jobs/153632-sales-director-namer-us
+**Product Manager - 4 Day Week + Remote**
+https://jobicy.com/jobs/156149-product-manager-4-day-week-remote-2
 
-**Samsara: Account Executive, Commercial**
-https://weworkremotely.com/remote-jobs/samsara-account-executive-commercial
-
---- RUBY ON RAILS ---
-
-**Principal Product Manager- Conversational AI**
-https://jobicy.com/jobs/153654-principal-product-manager-conversational-ai
-
-**Application Integration Developer**
-https://jobicy.com/jobs/153674-application-integration-developer
-
-**Abbott: Clinical Specialist, CRM - Mobile, AL**
-https://weworkremotely.com/remote-jobs/abbott-clinical-specialist-crm-mobile-al
+**Senior All-Source Investigator, Severe Harms**
+https://jobicy.com/jobs/156139-senior-all-source-investigator-severe-harms
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Staff Systems Engineer**
-https://jobicy.com/jobs/155966-staff-systems-engineer
+**Content Marketing Lead, Insights**
+https://jobicy.com/jobs/156148-content-marketing-lead-insights
 
-**Learning Experience Designer, Nebius Academy**
-https://jobicy.com/jobs/155955-learning-experience-designer-nebius-academy
+**Cribl: Cloud Partner Sales Manager  (Northeast)**
+https://weworkremotely.com/remote-jobs/cribl-cloud-partner-sales-manager-northeast
 
-**Graduate Customer Success Manager**
-https://jobicy.com/jobs/153669-graduate-customer-success-manager
+**Roblox: Director of Public Policy, UAE/Middle East**
+https://weworkremotely.com/remote-jobs/roblox-director-of-public-policy-uae-middle-east
 
-**Enterprise Customer Success Manager**
-https://jobicy.com/jobs/153675-enterprise-customer-success-manager-6
+**Roblox: Developer Engagement Team  (Contract)**
+https://weworkremotely.com/remote-jobs/roblox-developer-engagement-team-contract
 
