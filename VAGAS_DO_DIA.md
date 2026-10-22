@@ -1,100 +1,83 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (21/10/2026)
+Segue nossa lista de vagas de hoje! (22/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Enterprise Account Executive - Singapore**
-https://jobicy.com/jobs/156198-enterprise-account-executive-singapore
+**Senior Enterprise Account Executive, Acquisition | Tokyo, Japan**
+https://jobicy.com/jobs/156377-senior-enterprise-account-executive-acquisition-tokyo-japan
 
-**Staff Software Engineer, Platform Infrastructure**
-https://jobicy.com/jobs/156184-staff-software-engineer-platform-infrastructure
+**Founding Customer Success Manager - APAC**
+https://jobicy.com/jobs/156370-founding-customer-success-manager-apac
 
-**Staff Software Engineer**
-https://jobicy.com/jobs/156181-staff-software-engineer-9
+**Senior/Staff Product Designer**
+https://jobicy.com/jobs/156358-senior-staff-product-designer
 
-**Solutions Architect**
-https://jobicy.com/jobs/156171-solutions-architect-2
+**Principal Engineer - Core Cloud Platform**
+https://jobicy.com/jobs/156350-principal-engineer-core-cloud-platform
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Senior Web Engineer - Subscriptions**
-https://jobicy.com/jobs/156186-senior-web-engineer-subscriptions
+**Senior Capture Manager - UK**
+https://jobicy.com/jobs/156368-senior-capture-manager-uk
 
-**Policy Communications Lead, Europe**
-https://jobicy.com/jobs/156177-policy-communications-lead-europe
-
-**VP of Global Growth**
-https://jobicy.com/jobs/156143-vp-of-global-growth
-
-**Full Stack Blockchain Engineer for RWA market**
-https://www.arbeitnow.ch/jobs/companies/blockvora/full-stack-blockchain-engineer-for-rwa-market-zug-393337
-
---- TYPESCRIPT / JAVASCRIPT ---
-
-**Senior Solutions Architect - Europe**
-https://jobicy.com/jobs/156151-senior-solutions-architect-europe
-
-**Customer Success Engineer ( London)**
-https://jobicy.com/jobs/156153-customer-success-engineer-london
-
-**Lemon.io: Senior Vue Developer**
-https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1
-
-**Upsun: Product Manager**
-https://weworkremotely.com/remote-jobs/upsun-product-manager
-
---- ANGULAR ---
-
-**Software Engineer (.NET)**
-https://jobicy.com/jobs/156146-software-engineer-net
+**Global Investigator (Triage)**
+https://jobicy.com/jobs/156364-global-investigator-triage
 
 --- C# / .NET ---
 
-**DuckDuckGo: Senior Backend Engineer**
-https://weworkremotely.com/remote-jobs/duckduckgo-senior-backend-engineer
+**Apollo GraphQL: Senior Solution Engineer (Pre-sales)**
+https://weworkremotely.com/remote-jobs/apollo-graphql-senior-solution-engineer-pre-sales
 
-**Workiva: Principal Experience Designer - Visual Design & Design Systems**
-https://weworkremotely.com/remote-jobs/workiva-principal-experience-designer-visual-design-design-systems
+**TRM Labs: Senior / Staff Threat Intelligence Analyst, Hacks**
+https://weworkremotely.com/remote-jobs/trm-labs-senior-staff-threat-intelligence-analyst-hacks
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Senior Software Engineer, Platform**
-https://jobicy.com/jobs/156187-senior-software-engineer-platform-3
+**Lead Machine Learning Scientist, Customer Operations**
+https://jobicy.com/jobs/156363-lead-machine-learning-scientist-customer-operations
 
-**Fastly: Threat Detection Analyst (Japanese Speaking desirable)**
-https://weworkremotely.com/remote-jobs/fastly-threat-detection-analyst-japanese-speaking-desirable
+**Tech Lead Data Engineer**
+https://jobicy.com/jobs/156345-tech-lead-data-engineer
 
-**Reddit: Analytics Engineer**
-https://weworkremotely.com/remote-jobs/reddit-analytics-engineer
+**Linux Systems Administrator**
+https://jobicy.com/jobs/156341-linux-systems-administrator
 
-**Clover Health: Data Analyst, Clinical Data Effectiveness**
-https://weworkremotely.com/remote-jobs/clover-health-data-analyst-clinical-data-effectiveness
+**Senior Linux System Administrator**
+https://jobicy.com/jobs/156326-senior-linux-system-administrator
 
 --- GO ---
 
-**Localisation Project Manager**
-https://jobicy.com/jobs/156175-localisation-project-manager
+**Business Development Manager**
+https://jobicy.com/jobs/156378-business-development-manager-6
 
-**Commercial Account Executive, DACH**
-https://jobicy.com/jobs/156154-commercial-account-executive-dach
+**Commercial Account Executive**
+https://jobicy.com/jobs/156366-commercial-account-executive-6
 
-**Product Manager - 4 Day Week + Remote**
-https://jobicy.com/jobs/156149-product-manager-4-day-week-remote-2
+**Business Development Representative, German Speaking - UK/I**
+https://jobicy.com/jobs/156351-business-development-representative-german-speaking-uk-i
 
-**Senior All-Source Investigator, Severe Harms**
-https://jobicy.com/jobs/156139-senior-all-source-investigator-severe-harms
+**Mid-Market Onboarding Lead**
+https://jobicy.com/jobs/156334-mid-market-onboarding-lead
+
+--- RUBY ON RAILS ---
+
+**Senior Product Manager, Platform**
+https://jobicy.com/jobs/156333-senior-product-manager-platform-2
+
+**Overseas Operations Manager (P2P)**
+https://jobicy.com/jobs/156330-overseas-operations-manager-p2p
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Content Marketing Lead, Insights**
-https://jobicy.com/jobs/156148-content-marketing-lead-insights
+**Sales Engineer | Thailand**
+https://jobicy.com/jobs/156371-sales-engineer-thailand
 
-**Cribl: Cloud Partner Sales Manager  (Northeast)**
-https://weworkremotely.com/remote-jobs/cribl-cloud-partner-sales-manager-northeast
+**Customer Support Specialist (Full Remote - Philippines)**
+https://jobicy.com/jobs/156374-customer-support-specialist-full-remote-philippines
 
-**Roblox: Director of Public Policy, UAE/Middle East**
-https://weworkremotely.com/remote-jobs/roblox-director-of-public-policy-uae-middle-east
+**Growth Partnerships Manager, Korea**
+https://jobicy.com/jobs/156373-growth-partnerships-manager-korea
 
-**Roblox: Developer Engagement Team  (Contract)**
-https://weworkremotely.com/remote-jobs/roblox-developer-engagement-team-contract
+**Associate Vice President, Pre-Sales, EMEA**
+https://jobicy.com/jobs/156352-associate-vice-president-pre-sales-emea
 
