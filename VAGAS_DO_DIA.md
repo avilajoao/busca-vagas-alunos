@@ -1,125 +1,107 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (23/10/2026)
+Segue nossa lista de vagas de hoje! (24/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Senior Backend Engineer, Cloud Platform**
-https://jobicy.com/jobs/156568-senior-backend-engineer-cloud-platform
+**Enterprise Account Executive - NYC**
+https://jobicy.com/jobs/153954-enterprise-account-executive-nyc
 
-**Analyst - Weekend - ENGLISH & GERMAN speaking**
-https://jobicy.com/jobs/156565-analyst-weekend-english-german-speaking
+**Enterprise Account Executive - MATL**
+https://jobicy.com/jobs/153950-enterprise-account-executive-matl
 
-**Account Executive, Commercial**
-https://jobicy.com/jobs/156554-account-executive-commercial-2
+**Business Development Representative**
+https://jobicy.com/jobs/153936-business-development-representative-15
 
-**Junior Software Engineer – Early Career (Strong Problem solving & Coding Focus) – 100% Remote within Poland**
-https://jobicy.com/jobs/156547-junior-software-engineer-early-career-strong-problem-solving-coding-focus-100-remote-within-poland-2
+**Senior Systems Engineer**
+https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-systems-engineer-494924
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Senior Software Engineer, Backend**
-https://jobicy.com/jobs/156558-senior-software-engineer-backend-4
+**Senior Software Engineer**
+https://jobicy.com/jobs/156705-senior-software-engineer-16
 
-**Senior Software Engineer, Product/AI**
-https://jobicy.com/jobs/156560-senior-software-engineer-product-ai
+**Rust Engineering Lead - Linux and Open Source**
+https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source
 
-**Product Director**
-https://jobicy.com/jobs/156545-product-director
+**Jumio: Customer Success Manager, EMEA**
+https://weworkremotely.com/remote-jobs/jumio-customer-success-manager-emea
 
-**Product Manager, Procure-to-Pay**
-https://jobicy.com/jobs/156546-product-manager-procure-to-pay
+**Gusto, Inc.: Payment Operations Analyst**
+https://weworkremotely.com/remote-jobs/gusto-inc-payment-operations-analyst
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Sr. Engineer, Infrastructure Security**
-https://jobicy.com/jobs/156567-sr-engineer-infrastructure-security
+**Ubuntu Security Engineer**
+https://jobicy.com/jobs/149565-ubuntu-security-engineer
 
-**Manual QA Engineer (Game Client)**
-https://jobicy.com/jobs/156544-manual-qa-engineer-game-client
+**GTM Enablement - Partner Program**
+https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-gtm-enablement-partner-program-57458
 
-**DevOps Engineer (100% remote)**
-https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/devops-engineer-100-remote-united-kindom-97107
-
-**Bybit: Blockchain Risk Control Lead**
-https://weworkremotely.com/remote-jobs/bybit-blockchain-risk-control-lead
+**Backend Engineer**
+https://www.arbeitnow.ch/jobs/companies/blockvora/backend-engineer-zug-145470
 
 --- JAVA / SPRING BOOT ---
 
-**Engineering Director - Commercial Systems**
-https://jobicy.com/jobs/156570-engineering-director-commercial-systems
-
-**Engineering Manager, Commercial Systems**
-https://jobicy.com/jobs/156572-engineering-manager-commercial-systems
-
-**Senior Sales Engineer, Enterprise**
-https://jobicy.com/jobs/156559-senior-sales-engineer-enterprise
+**Engineering Manager, Managed Services**
+https://jobicy.com/jobs/149528-engineering-manager-managed-services
 
 --- C# / .NET ---
 
-**OnTheGoSystems: Head of Content and Editorial**
-https://weworkremotely.com/remote-jobs/onthegosystems-head-of-content-and-editorial
+**Carrot: Medical Expert, Fertility (Contractor)**
+https://weworkremotely.com/remote-jobs/carrot-medical-expert-fertility-contractor
 
-**T-Maxx International: German, French Voice Recording Contributor – Remote / Part-Time**
-https://weworkremotely.com/remote-jobs/t-maxx-international-german-french-voice-recording-contributor-remote-part-time
+**Carrot: Lead Product Management**
+https://weworkremotely.com/remote-jobs/carrot-lead-product-management
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Engineering Manager - Distributed Systems, Python / Go**
-https://jobicy.com/jobs/156573-engineering-manager-distributed-systems-python-go
+**Senior Machine Learning Engineer, Ads - Quora**
+https://jobicy.com/jobs/153939-senior-machine-learning-engineer-ads-quora
 
-**Engineering Manager- Ceph & Distributed Storage**
-https://jobicy.com/jobs/156571-engineering-manager-ceph-distributed-storage-2
+**Cloud Field Engineer**
+https://jobicy.com/jobs/149523-cloud-field-engineer
 
-**Engineering Director - Business Data**
-https://jobicy.com/jobs/156569-engineering-director-business-data
+**Senior Data Analyst, GTM Analytics - US**
+https://jobicy.com/jobs/153937-senior-data-analyst-gtm-analytics-us
 
-**Senior HPC Cluster Engineer**
-https://jobicy.com/jobs/156540-senior-hpc-cluster-engineer
+**Solution Architecture Manager**
+https://jobicy.com/jobs/149531-solution-architecture-manager
 
 --- GO ---
 
-**Cloud Platform Engineer**
-https://jobicy.com/jobs/156583-cloud-platform-engineer
+**Senior Systems Engineer**
+https://jobicy.com/jobs/156708-senior-systems-engineer-3
 
-**Partnerships Manager, Ecosystem**
-https://jobicy.com/jobs/156574-partnerships-manager-ecosystem-2
+**Senior Sales Engineer**
+https://jobicy.com/jobs/156706-senior-sales-engineer-8
 
-**Sr. Engineer, Database Reliability**
-https://jobicy.com/jobs/156564-sr-engineer-database-reliability
+**Senior Account Executive / EMEA**
+https://jobicy.com/jobs/156702-senior-account-executive-emea-2
 
-**Partner Manager - German Speaker**
-https://jobicy.com/jobs/156542-partner-manager-german-speaker
+**Country Manager, Canada**
+https://jobicy.com/jobs/153968-country-manager-canada
 
 --- RUBY ON RAILS ---
 
-**Product Manager - Anti Fraud**
-https://jobicy.com/jobs/156525-product-manager-anti-fraud
+**Senior Partner Consultant, Systems Integrators**
+https://jobicy.com/jobs/153956-senior-partner-consultant-systems-integrators
 
 --- BANCOS DE DADOS (SQL / NOSQL) ---
 
-**Performance Engineer - Performance Analysis & Tuning**
-https://jobicy.com/jobs/156581-performance-engineer-performance-analysis-tuning
-
-**Performance Engineer - Benchmarking**
-https://jobicy.com/jobs/156582-performance-engineer-benchmarking
-
-**Supalite Engineer**
-https://jobicy.com/jobs/156576-supalite-engineer
-
-**Release Engineer**
-https://jobicy.com/jobs/156579-release-engineer
+**Blockchain Engineer**
+https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-291866
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Senior Technical Account Manager - Customer Success (EMEA)**
-https://jobicy.com/jobs/156566-senior-technical-account-manager-customer-success-emea
+**Audio Engineering (Freelance)**
+https://jobicy.com/jobs/156709-audio-engineering-freelance
 
-**Senior HPC Engineer, GPU Compute**
-https://jobicy.com/jobs/156543-senior-hpc-engineer-gpu-compute
+**Research Engineer - Data Infrastructure**
+https://jobicy.com/jobs/156701-research-engineer-data-infrastructure
 
-**Partner Manager**
-https://jobicy.com/jobs/156539-partner-manager
+**Senior Performance Marketer (Full Remote - Ukraine)**
+https://jobicy.com/jobs/156695-senior-performance-marketer-full-remote-ukraine
 
-**Senior Data Engineer**
-https://jobicy.com/jobs/156537-senior-data-engineer-5
+**Senior Performance Marketer (Full Remote - Cyprus)**
+https://jobicy.com/jobs/156692-senior-performance-marketer-full-remote-cyprus-2
 
