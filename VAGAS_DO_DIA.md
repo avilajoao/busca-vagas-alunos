@@ -1,107 +1,105 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (24/10/2026)
+Segue nossa lista de vagas de hoje! (25/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Enterprise Account Executive - NYC**
-https://jobicy.com/jobs/153954-enterprise-account-executive-nyc
+**Account Manager I**
+https://jobicy.com/jobs/156875-account-manager-i
 
-**Enterprise Account Executive - MATL**
-https://jobicy.com/jobs/153950-enterprise-account-executive-matl
+**Senior Software Engineer, Internally Deployed Products**
+https://jobicy.com/jobs/156869-senior-software-engineer-internally-deployed-products
 
-**Business Development Representative**
-https://jobicy.com/jobs/153936-business-development-representative-15
+**Director - Specialty Fibers**
+https://jobicy.com/jobs/154017-director-specialty-fibers
 
-**Senior Systems Engineer**
-https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-systems-engineer-494924
+**Account Manager (Remote - Mexico)**
+https://jobicy.com/jobs/154041-account-manager-remote-mexico
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Senior Software Engineer**
-https://jobicy.com/jobs/156705-senior-software-engineer-16
+**Principal Frontend Engineer**
+https://jobicy.com/jobs/156876-principal-frontend-engineer
 
-**Rust Engineering Lead - Linux and Open Source**
-https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source
-
-**Jumio: Customer Success Manager, EMEA**
-https://weworkremotely.com/remote-jobs/jumio-customer-success-manager-emea
-
-**Gusto, Inc.: Payment Operations Analyst**
-https://weworkremotely.com/remote-jobs/gusto-inc-payment-operations-analyst
+**Director, Product Communications (Hers)**
+https://jobicy.com/jobs/154042-director-product-communications-hers
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Ubuntu Security Engineer**
-https://jobicy.com/jobs/149565-ubuntu-security-engineer
+**Machine Learning Engineer, Ranking & Retrieval**
+https://jobicy.com/jobs/156887-machine-learning-engineer-ranking-retrieval
 
-**GTM Enablement - Partner Program**
-https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-gtm-enablement-partner-program-57458
+**Support Engineer I - UK**
+https://jobicy.com/jobs/154015-support-engineer-i-uk
 
-**Backend Engineer**
-https://www.arbeitnow.ch/jobs/companies/blockvora/backend-engineer-zug-145470
+**PlanetScale: AI Developer Experience Engineer**
+https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer
 
 --- JAVA / SPRING BOOT ---
 
-**Engineering Manager, Managed Services**
-https://jobicy.com/jobs/149528-engineering-manager-managed-services
+**Senior Staff Software Engineer, Data**
+https://jobicy.com/jobs/156905-senior-staff-software-engineer-data
+
+**Staff Software Engineer**
+https://jobicy.com/jobs/156897-staff-software-engineer-10
 
 --- C# / .NET ---
 
-**Carrot: Medical Expert, Fertility (Contractor)**
-https://weworkremotely.com/remote-jobs/carrot-medical-expert-fertility-contractor
+**Medical Expert, Fertility (Contractor)**
+https://jobicy.com/jobs/156901-medical-expert-fertility-contractor
 
-**Carrot: Lead Product Management**
-https://weworkremotely.com/remote-jobs/carrot-lead-product-management
+**Telemedicine Physician Consultant**
+https://jobicy.com/jobs/154026-telemedicine-physician-consultant
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Senior Machine Learning Engineer, Ads - Quora**
-https://jobicy.com/jobs/153939-senior-machine-learning-engineer-ads-quora
+**Customer Success Operations Analyst**
+https://jobicy.com/jobs/156880-customer-success-operations-analyst-4
 
-**Cloud Field Engineer**
-https://jobicy.com/jobs/149523-cloud-field-engineer
+**Staff Analyst, GTM**
+https://jobicy.com/jobs/156884-staff-analyst-gtm
 
-**Senior Data Analyst, GTM Analytics - US**
-https://jobicy.com/jobs/153937-senior-data-analyst-gtm-analytics-us
+**Staff Data Engineer**
+https://jobicy.com/jobs/156872-staff-data-engineer-5
 
-**Solution Architecture Manager**
-https://jobicy.com/jobs/149531-solution-architecture-manager
+**Gemini: Lead, Technical Compliance**
+https://weworkremotely.com/remote-jobs/gemini-lead-technical-compliance
 
 --- GO ---
 
-**Senior Systems Engineer**
-https://jobicy.com/jobs/156708-senior-systems-engineer-3
+**Samsara: Account Executive, Commercial ( West)**
+https://weworkremotely.com/remote-jobs/samsara-account-executive-commercial-west
 
-**Senior Sales Engineer**
-https://jobicy.com/jobs/156706-senior-sales-engineer-8
+**Samsara: Account Executive, Commercial - Mexico**
+https://weworkremotely.com/remote-jobs/samsara-account-executive-commercial-mexico
 
-**Senior Account Executive / EMEA**
-https://jobicy.com/jobs/156702-senior-account-executive-emea-2
+**Cribl: Director, Product Management (Security)**
+https://weworkremotely.com/remote-jobs/cribl-director-product-management-security
 
-**Country Manager, Canada**
-https://jobicy.com/jobs/153968-country-manager-canada
+**BeyondTrust: Federal Account Manager, Combatant Commands**
+https://weworkremotely.com/remote-jobs/beyondtrust-federal-account-manager-combatant-commands
 
 --- RUBY ON RAILS ---
 
-**Senior Partner Consultant, Systems Integrators**
-https://jobicy.com/jobs/153956-senior-partner-consultant-systems-integrators
+**Lead Brand Designer**
+https://jobicy.com/jobs/156886-lead-brand-designer
 
---- BANCOS DE DADOS (SQL / NOSQL) ---
+**Senior Manager, Software Engineering - Infrastructure**
+https://jobicy.com/jobs/156881-senior-manager-software-engineering-infrastructure
 
-**Blockchain Engineer**
-https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-291866
+**PlanetScale: Software Engineer - PlanetScale Postgres**
+https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Audio Engineering (Freelance)**
-https://jobicy.com/jobs/156709-audio-engineering-freelance
+**Senior Manager, Engineering - Identity & Access Management**
+https://jobicy.com/jobs/156885-senior-manager-engineering-identity-access-management
 
-**Research Engineer - Data Infrastructure**
-https://jobicy.com/jobs/156701-research-engineer-data-infrastructure
+**Industrial Compute**
+https://jobicy.com/jobs/156877-industrial-compute
 
-**Senior Performance Marketer (Full Remote - Ukraine)**
-https://jobicy.com/jobs/156695-senior-performance-marketer-full-remote-ukraine
+**Lead Product Manager**
+https://jobicy.com/jobs/154045-lead-product-manager
 
-**Senior Performance Marketer (Full Remote - Cyprus)**
-https://jobicy.com/jobs/156692-senior-performance-marketer-full-remote-cyprus-2
+**Keeper Security: Communications Intern**
+https://weworkremotely.com/remote-jobs/keeper-security-communications-intern
 
