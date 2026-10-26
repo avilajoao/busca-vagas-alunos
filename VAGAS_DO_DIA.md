@@ -1,105 +1,99 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (25/10/2026)
+Segue nossa lista de vagas de hoje! (26/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Account Manager I**
-https://jobicy.com/jobs/156875-account-manager-i
+**Account Executive (Korean Speaking)**
+https://jobicy.com/jobs/157148-account-executive-korean-speaking
 
-**Senior Software Engineer, Internally Deployed Products**
-https://jobicy.com/jobs/156869-senior-software-engineer-internally-deployed-products
+**Account Executive (Singapore)**
+https://jobicy.com/jobs/157145-account-executive-singapore
 
-**Director - Specialty Fibers**
-https://jobicy.com/jobs/154017-director-specialty-fibers
+**Senior Business Value Engineer | Germany | Remote**
+https://jobicy.com/jobs/157139-senior-business-value-engineer-germany-remote
 
-**Account Manager (Remote - Mexico)**
-https://jobicy.com/jobs/154041-account-manager-remote-mexico
+**Principal Technical Marketing Engineer | UK | Remote**
+https://jobicy.com/jobs/157135-principal-technical-marketing-engineer-uk-remote
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Principal Frontend Engineer**
-https://jobicy.com/jobs/156876-principal-frontend-engineer
+**Sales Development Representative | Switzerland | Remote**
+https://jobicy.com/jobs/157138-sales-development-representative-switzerland-remote
 
-**Director, Product Communications (Hers)**
-https://jobicy.com/jobs/154042-director-product-communications-hers
+**Sales Development Representative | Sweden | Remote**
+https://jobicy.com/jobs/157137-sales-development-representative-sweden-remote
 
---- TYPESCRIPT / JAVASCRIPT ---
+**Senior Software Engineer, Product**
+https://jobicy.com/jobs/157109-senior-software-engineer-product
 
-**Machine Learning Engineer, Ranking & Retrieval**
-https://jobicy.com/jobs/156887-machine-learning-engineer-ranking-retrieval
-
-**Support Engineer I - UK**
-https://jobicy.com/jobs/154015-support-engineer-i-uk
-
-**PlanetScale: AI Developer Experience Engineer**
-https://weworkremotely.com/remote-jobs/planetscale-ai-developer-experience-engineer
+**Full Stack Software Engineer, New Grad - Quora**
+https://jobicy.com/jobs/157105-full-stack-software-engineer-new-grad-quora
 
 --- JAVA / SPRING BOOT ---
 
-**Senior Staff Software Engineer, Data**
-https://jobicy.com/jobs/156905-senior-staff-software-engineer-data
-
-**Staff Software Engineer**
-https://jobicy.com/jobs/156897-staff-software-engineer-10
+**Backend Engineer, Java - Web 3 Wallet**
+https://jobicy.com/jobs/157144-backend-engineer-java-web-3-wallet
 
 --- C# / .NET ---
 
-**Medical Expert, Fertility (Contractor)**
-https://jobicy.com/jobs/156901-medical-expert-fertility-contractor
+**MapTiler:  Head of Design | Maps Platform (Remote in Europe)**
+https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe
 
-**Telemedicine Physician Consultant**
-https://jobicy.com/jobs/154026-telemedicine-physician-consultant
+**T-Maxx International: AI Voice Recording Contributor – Remote / Part-Time**
+https://weworkremotely.com/remote-jobs/t-maxx-international-ai-voice-recording-contributor-remote-part-time
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Customer Success Operations Analyst**
-https://jobicy.com/jobs/156880-customer-success-operations-analyst-4
+**Binance Acceleration Program - Product Data Analyst**
+https://jobicy.com/jobs/157147-binance-acceleration-program-product-data-analyst-2
 
-**Staff Analyst, GTM**
-https://jobicy.com/jobs/156884-staff-analyst-gtm
+**Senior Software Engineer - Verification Platform**
+https://jobicy.com/jobs/157121-senior-software-engineer-verification-platform-2
 
-**Staff Data Engineer**
-https://jobicy.com/jobs/156872-staff-data-engineer-5
+**Machine Learning Engineer, New Grad - Quora**
+https://jobicy.com/jobs/157108-machine-learning-engineer-new-grad-quora
 
-**Gemini: Lead, Technical Compliance**
-https://weworkremotely.com/remote-jobs/gemini-lead-technical-compliance
+**Senior Backend Engineer**
+https://jobicy.com/jobs/157106-senior-backend-engineer-13
+
+--- PHP / LARAVEL ---
+
+**Motion Designer (Permanent work from home)**
+https://jobicy.com/jobs/157142-motion-designer-permanent-work-from-home
 
 --- GO ---
 
-**Samsara: Account Executive, Commercial ( West)**
-https://weworkremotely.com/remote-jobs/samsara-account-executive-commercial-west
+**Principal Technical Marketing Engineer | Spain | Remote**
+https://jobicy.com/jobs/157133-principal-technical-marketing-engineer-spain-remote
 
-**Samsara: Account Executive, Commercial - Mexico**
-https://weworkremotely.com/remote-jobs/samsara-account-executive-commercial-mexico
+**Principal Technical Marketing Engineer | Germany | Remote**
+https://jobicy.com/jobs/157131-principal-technical-marketing-engineer-germany-remote
 
-**Cribl: Director, Product Management (Security)**
-https://weworkremotely.com/remote-jobs/cribl-director-product-management-security
+**Principal Technical Marketing Engineer | Ireland | Remote**
+https://jobicy.com/jobs/157132-principal-technical-marketing-engineer-ireland-remote
 
-**BeyondTrust: Federal Account Manager, Combatant Commands**
-https://weworkremotely.com/remote-jobs/beyondtrust-federal-account-manager-combatant-commands
+**Principal Technical Marketing Engineer | Sweden | Remote**
+https://jobicy.com/jobs/157134-principal-technical-marketing-engineer-sweden-remote
 
 --- RUBY ON RAILS ---
 
-**Lead Brand Designer**
-https://jobicy.com/jobs/156886-lead-brand-designer
+**Manager, Client Analytics Partnerships**
+https://jobicy.com/jobs/157087-manager-client-analytics-partnerships
 
-**Senior Manager, Software Engineering - Infrastructure**
-https://jobicy.com/jobs/156881-senior-manager-software-engineering-infrastructure
-
-**PlanetScale: Software Engineer - PlanetScale Postgres**
-https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres
+**Ping Identity: Director, Global Alliances – Accenture**
+https://weworkremotely.com/remote-jobs/ping-identity-director-global-alliances-accenture
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Senior Manager, Engineering - Identity & Access Management**
-https://jobicy.com/jobs/156885-senior-manager-engineering-identity-access-management
+**Channel Director, Northeast**
+https://jobicy.com/jobs/157115-channel-director-northeast
 
-**Industrial Compute**
-https://jobicy.com/jobs/156877-industrial-compute
+**Senior Software Engineer - Infrastructure Security**
+https://jobicy.com/jobs/157102-senior-software-engineer-infrastructure-security-2
 
-**Lead Product Manager**
-https://jobicy.com/jobs/154045-lead-product-manager
+**Strategic Finance Manager**
+https://jobicy.com/jobs/157107-strategic-finance-manager-2
 
-**Keeper Security: Communications Intern**
-https://weworkremotely.com/remote-jobs/keeper-security-communications-intern
+**Intermediate Security Engineer, Security Incident Response Team (SIRT)**
+https://jobicy.com/jobs/157093-intermediate-security-engineer-security-incident-response-team-sirt
 
