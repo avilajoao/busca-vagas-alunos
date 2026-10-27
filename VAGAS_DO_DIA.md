@@ -1,99 +1,94 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (26/10/2026)
+Segue nossa lista de vagas de hoje! (27/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Account Executive (Korean Speaking)**
-https://jobicy.com/jobs/157148-account-executive-korean-speaking
+**Product Manager - Trust & Safety (Full Remote - Spain)**
+https://jobicy.com/jobs/157353-product-manager-trust-safety-full-remote-spain
 
-**Account Executive (Singapore)**
-https://jobicy.com/jobs/157145-account-executive-singapore
+**Product Manager - Trust & Safety (Full Remote - Netherlands)**
+https://jobicy.com/jobs/157352-product-manager-trust-safety-full-remote-netherlands
 
-**Senior Business Value Engineer | Germany | Remote**
-https://jobicy.com/jobs/157139-senior-business-value-engineer-germany-remote
+**Product Manager - Trust & Safety (Full Remote - UK)**
+https://jobicy.com/jobs/157351-product-manager-trust-safety-full-remote-uk
 
-**Principal Technical Marketing Engineer | UK | Remote**
-https://jobicy.com/jobs/157135-principal-technical-marketing-engineer-uk-remote
+**Senior Account Executive**
+https://jobicy.com/jobs/157333-senior-account-executive-9
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Sales Development Representative | Switzerland | Remote**
-https://jobicy.com/jobs/157138-sales-development-representative-switzerland-remote
+**Technical Account Manager**
+https://jobicy.com/jobs/157348-technical-account-manager-10
 
-**Sales Development Representative | Sweden | Remote**
-https://jobicy.com/jobs/157137-sales-development-representative-sweden-remote
+**Senior Phishing Tradecraft Researcher**
+https://jobicy.com/jobs/157339-senior-phishing-tradecraft-researcher
 
-**Senior Software Engineer, Product**
-https://jobicy.com/jobs/157109-senior-software-engineer-product
+**Engineering Manager**
+https://jobicy.com/jobs/157337-engineering-manager-13
 
-**Full Stack Software Engineer, New Grad - Quora**
-https://jobicy.com/jobs/157105-full-stack-software-engineer-new-grad-quora
+**Principal Product Security Researcher**
+https://jobicy.com/jobs/157330-principal-product-security-researcher-2
 
---- JAVA / SPRING BOOT ---
+--- TYPESCRIPT / JAVASCRIPT ---
 
-**Backend Engineer, Java - Web 3 Wallet**
-https://jobicy.com/jobs/157144-backend-engineer-java-web-3-wallet
+**Head of security**
+https://jobicy.com/jobs/157316-head-of-security-2
+
+**Veracode: Senior Website Manager**
+https://weworkremotely.com/remote-jobs/veracode-senior-website-manager
 
 --- C# / .NET ---
 
-**MapTiler:  Head of Design | Maps Platform (Remote in Europe)**
-https://weworkremotely.com/remote-jobs/maptiler-head-of-design-maps-platform-remote-in-europe
+**Tailscale: Head of Communications**
+https://weworkremotely.com/remote-jobs/tailscale-head-of-communications
 
-**T-Maxx International: AI Voice Recording Contributor – Remote / Part-Time**
-https://weworkremotely.com/remote-jobs/t-maxx-international-ai-voice-recording-contributor-remote-part-time
+**Replika: Lifecycle & CRM Specialist**
+https://weworkremotely.com/remote-jobs/replika-lifecycle-crm-specialist
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Binance Acceleration Program - Product Data Analyst**
-https://jobicy.com/jobs/157147-binance-acceleration-program-product-data-analyst-2
+**Principal Product Security Engineer**
+https://jobicy.com/jobs/157328-principal-product-security-engineer
 
-**Senior Software Engineer - Verification Platform**
-https://jobicy.com/jobs/157121-senior-software-engineer-verification-platform-2
+**Field Integration Engineer**
+https://jobicy.com/jobs/157314-field-integration-engineer
 
-**Machine Learning Engineer, New Grad - Quora**
-https://jobicy.com/jobs/157108-machine-learning-engineer-new-grad-quora
+**Staff Machine Learning Engineer, Recommendation Systems - Quora**
+https://jobicy.com/jobs/157306-staff-machine-learning-engineer-recommendation-systems-quora
 
-**Senior Backend Engineer**
-https://jobicy.com/jobs/157106-senior-backend-engineer-13
-
---- PHP / LARAVEL ---
-
-**Motion Designer (Permanent work from home)**
-https://jobicy.com/jobs/157142-motion-designer-permanent-work-from-home
+**Staff Cloud Platform Engineer - Cloud Developer Experience**
+https://jobicy.com/jobs/157311-staff-cloud-platform-engineer-cloud-developer-experience
 
 --- GO ---
 
-**Principal Technical Marketing Engineer | Spain | Remote**
-https://jobicy.com/jobs/157133-principal-technical-marketing-engineer-spain-remote
+**Junior Media Specialist**
+https://jobicy.com/jobs/157354-junior-media-specialist
 
-**Principal Technical Marketing Engineer | Germany | Remote**
-https://jobicy.com/jobs/157131-principal-technical-marketing-engineer-germany-remote
+**GTM AI Engineer**
+https://jobicy.com/jobs/157343-gtm-ai-engineer
 
-**Principal Technical Marketing Engineer | Ireland | Remote**
-https://jobicy.com/jobs/157132-principal-technical-marketing-engineer-ireland-remote
+**Enterprise Account Executive, North America**
+https://jobicy.com/jobs/157341-enterprise-account-executive-north-america
 
-**Principal Technical Marketing Engineer | Sweden | Remote**
-https://jobicy.com/jobs/157134-principal-technical-marketing-engineer-sweden-remote
+**Strategic Account Executive (UKI)**
+https://jobicy.com/jobs/157313-strategic-account-executive-uki
 
---- RUBY ON RAILS ---
+--- BANCOS DE DADOS (SQL / NOSQL) ---
 
-**Manager, Client Analytics Partnerships**
-https://jobicy.com/jobs/157087-manager-client-analytics-partnerships
-
-**Ping Identity: Director, Global Alliances – Accenture**
-https://weworkremotely.com/remote-jobs/ping-identity-director-global-alliances-accenture
+**Senior DevOps Engineer**
+https://www.arbeitnow.com/jobs/companies/0g/remote-senior-devops-engineer-314207
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Channel Director, Northeast**
-https://jobicy.com/jobs/157115-channel-director-northeast
+**Customer Success Manager**
+https://jobicy.com/jobs/157357-customer-success-manager-55
 
-**Senior Software Engineer - Infrastructure Security**
-https://jobicy.com/jobs/157102-senior-software-engineer-infrastructure-security-2
+**Senior Performance Marketer (Full Remote - Greece)**
+https://jobicy.com/jobs/157349-senior-performance-marketer-full-remote-greece
 
-**Strategic Finance Manager**
-https://jobicy.com/jobs/157107-strategic-finance-manager-2
+**Senior Performance Marketer (Full Remote - Lithuania)**
+https://jobicy.com/jobs/157347-senior-performance-marketer-full-remote-lithuania
 
-**Intermediate Security Engineer, Security Incident Response Team (SIRT)**
-https://jobicy.com/jobs/157093-intermediate-security-engineer-security-incident-response-team-sirt
+**Senior Performance Marketer (Full Remote - Germany)**
+https://jobicy.com/jobs/157346-senior-performance-marketer-full-remote-germany-2
 
