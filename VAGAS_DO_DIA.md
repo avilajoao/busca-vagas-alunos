@@ -1,94 +1,80 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (27/10/2026)
+Segue nossa lista de vagas de hoje! (28/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Product Manager - Trust & Safety (Full Remote - Spain)**
-https://jobicy.com/jobs/157353-product-manager-trust-safety-full-remote-spain
+**Senior Full Stack Product Engineer (TypeScript)**
+https://jobicy.com/jobs/151824-senior-full-stack-product-engineer-typescript
 
-**Product Manager - Trust & Safety (Full Remote - Netherlands)**
-https://jobicy.com/jobs/157352-product-manager-trust-safety-full-remote-netherlands
+**Business Development Representative**
+https://jobicy.com/jobs/151818-business-development-representative-10
 
-**Product Manager - Trust & Safety (Full Remote - UK)**
-https://jobicy.com/jobs/157351-product-manager-trust-safety-full-remote-uk
+**Senior Business Engineer - Ads**
+https://jobicy.com/jobs/144633-senior-business-engineer-ads
 
-**Senior Account Executive**
-https://jobicy.com/jobs/157333-senior-account-executive-9
+**Sales Manager**
+https://jobicy.com/jobs/151839-sales-manager-5
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Technical Account Manager**
-https://jobicy.com/jobs/157348-technical-account-manager-10
-
-**Senior Phishing Tradecraft Researcher**
-https://jobicy.com/jobs/157339-senior-phishing-tradecraft-researcher
-
-**Engineering Manager**
-https://jobicy.com/jobs/157337-engineering-manager-13
-
-**Principal Product Security Researcher**
-https://jobicy.com/jobs/157330-principal-product-security-researcher-2
+**Toggl: Senior Full Stack**
+https://weworkremotely.com/remote-jobs/toggl-senior-full-stack
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Head of security**
-https://jobicy.com/jobs/157316-head-of-security-2
+**Business Consultant (6 months contract with possible extension)**
+https://jobicy.com/jobs/154104-business-consultant-6-months-contract-with-possible-extension
 
-**Veracode: Senior Website Manager**
-https://weworkremotely.com/remote-jobs/veracode-senior-website-manager
+**Lifecycle Marketing Automation Specialist**
+https://jobicy.com/jobs/151881-lifecycle-marketing-automation-specialist
 
 --- C# / .NET ---
 
-**Tailscale: Head of Communications**
-https://weworkremotely.com/remote-jobs/tailscale-head-of-communications
+**Carrot: Sr. Data Engineer**
+https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer
 
-**Replika: Lifecycle & CRM Specialist**
-https://weworkremotely.com/remote-jobs/replika-lifecycle-crm-specialist
+**Carrot: Product Design Lead**
+https://weworkremotely.com/remote-jobs/carrot-product-design-lead
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Principal Product Security Engineer**
-https://jobicy.com/jobs/157328-principal-product-security-engineer
+**Applied Data Scientist / Machine Learning Engineer (Decision Intelligence)**
+https://jobicy.com/jobs/147495-applied-data-scientist-machine-learning-engineer-decision-intelligence
 
-**Field Integration Engineer**
-https://jobicy.com/jobs/157314-field-integration-engineer
+**Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration | Remote 100%**
+https://www.arbeitnow.com/jobs/companies/hurracom/freelance-full-stack-developer-django-ai-products-python-llm-integration-remote-100-stuttgart-200558
 
-**Staff Machine Learning Engineer, Recommendation Systems - Quora**
-https://jobicy.com/jobs/157306-staff-machine-learning-engineer-recommendation-systems-quora
+**Germany | Working Student in Consulting | Climate Risk and Decarbonisation**
+https://www.arbeitnow.com/jobs/companies/true-north-partners-llp/remote-germany-working-student-in-consulting-climate-risk-and-decarbonisation-frankfurt-486948
 
-**Staff Cloud Platform Engineer - Cloud Developer Experience**
-https://jobicy.com/jobs/157311-staff-cloud-platform-engineer-cloud-developer-experience
+**Upsun: Senior IT Systems Engineer**
+https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer
 
 --- GO ---
 
-**Junior Media Specialist**
-https://jobicy.com/jobs/157354-junior-media-specialist
+**Engineering Manager - Feegow (100% Remote within Brazil)**
+https://jobicy.com/jobs/154108-engineering-manager-feegow-100-remote-within-brazil
 
-**GTM AI Engineer**
-https://jobicy.com/jobs/157343-gtm-ai-engineer
+**Senior Product Designer - Feegow (100% remote friendly in Brazil)**
+https://jobicy.com/jobs/154105-senior-product-designer-feegow-100-remote-friendly-in-brazil
 
-**Enterprise Account Executive, North America**
-https://jobicy.com/jobs/157341-enterprise-account-executive-north-america
+**Senior Account Executive**
+https://jobicy.com/jobs/151845-senior-account-executive-2
 
-**Strategic Account Executive (UKI)**
-https://jobicy.com/jobs/157313-strategic-account-executive-uki
-
---- BANCOS DE DADOS (SQL / NOSQL) ---
-
-**Senior DevOps Engineer**
-https://www.arbeitnow.com/jobs/companies/0g/remote-senior-devops-engineer-314207
+**Samsara: Account Executive, Mid Market (Northeast)**
+https://weworkremotely.com/remote-jobs/samsara-account-executive-mid-market-northeast
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Customer Success Manager**
-https://jobicy.com/jobs/157357-customer-success-manager-55
+**Cloud Support Engineer**
+https://jobicy.com/jobs/151889-cloud-support-engineer-2
 
-**Senior Performance Marketer (Full Remote - Greece)**
-https://jobicy.com/jobs/157349-senior-performance-marketer-full-remote-greece
+**Supervisor Field Services**
+https://jobicy.com/jobs/144643-supervisor-field-services
 
-**Senior Performance Marketer (Full Remote - Lithuania)**
-https://jobicy.com/jobs/157347-senior-performance-marketer-full-remote-lithuania
+**AI Research Scientist – Scientific Evaluation (ML/AI)**
+https://www.arbeitnow.ch/jobs/companies/lightly-ag/ai-research-scientist-scientific-evaluation-ml-ai-zurich-74951
 
-**Senior Performance Marketer (Full Remote - Germany)**
-https://jobicy.com/jobs/157346-senior-performance-marketer-full-remote-germany-2
+**StockX: Director, Category Growth (General Manager)**
+https://weworkremotely.com/remote-jobs/stockx-director-category-growth-general-manager
 
