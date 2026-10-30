@@ -1,110 +1,94 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (29/10/2026)
+Segue nossa lista de vagas de hoje! (30/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Senior Software Engineer, Security Assurance | UK | Remote**
-https://jobicy.com/jobs/157834-senior-software-engineer-security-assurance-uk-remote
+**Clinical Database Programmer**
+https://jobicy.com/jobs/157989-clinical-database-programmer
 
-**Strategic Account Executive (German Speaking)**
-https://jobicy.com/jobs/157833-strategic-account-executive-german-speaking-2
+**Supply Chain Manager**
+https://jobicy.com/jobs/157988-supply-chain-manager
 
-**Senior Software Engineer, Security Assurance | Sweden | Remote**
-https://jobicy.com/jobs/157829-senior-software-engineer-security-assurance-sweden-remote
+**Principal Solutions Architect, South Korea**
+https://jobicy.com/jobs/157985-principal-solutions-architect-south-korea
 
-**Strategic Account Executive**
-https://jobicy.com/jobs/157828-strategic-account-executive-14
+**Principal Solutions Architect, Japan**
+https://jobicy.com/jobs/157981-principal-solutions-architect-japan
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Senior PR and Communications Manager (12 month fixed-term contract)**
-https://jobicy.com/jobs/157823-senior-pr-and-communications-manager-12-month-fixed-term-contract
+**Staff Software Engineer**
+https://jobicy.com/jobs/157993-staff-software-engineer-14
 
-**Senior Software Engineer**
-https://jobicy.com/jobs/157787-senior-software-engineer-18
+**Technical Writer – Part-Time, Fixed-Term (3 Months) – Australia**
+https://jobicy.com/jobs/157979-technical-writer-part-time-fixed-term-3-months-australia
 
-**Edconic: Front-End Developer**
-https://weworkremotely.com/remote-jobs/edconic-front-end-developer
+**Senior Design Engineer**
+https://jobicy.com/jobs/157958-senior-design-engineer
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Senior Software Engineer, Security Assurance | Spain | Remote**
-https://jobicy.com/jobs/157824-senior-software-engineer-security-assurance-spain-remote
+**Founding Engineer (Remote or Hybrid - EEA/UK)**
+https://www.arbeitnow.com/jobs/companies/tarebase/founding-engineer-remote-or-hybrid-eea-uk-berlin-43150
 
-**Principal Technical Consultant**
-https://jobicy.com/jobs/157782-principal-technical-consultant
+**Senior AWS Platform Engineer**
+https://www.arbeitnow.nl/jobs/companies/luscii/remote-senior-aws-platform-engineer-utrecht-130307
 
-**Senior Software Engineer, Security Assurance | Ireland | Remote**
-https://jobicy.com/jobs/157774-senior-software-engineer-security-assurance-ireland-remote
+**Jumio: Principal Enterprise Architect**
+https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect
 
-**Senior Software Engineer, Security Assurance | Germany | Remote**
-https://jobicy.com/jobs/157770-senior-software-engineer-security-assurance-germany-remote
+**ZoomInfo Technologies LLC: Principal Applied AI Engineer - Entity Agents**
+https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-applied-ai-engineer-entity-agents
 
 --- JAVA / SPRING BOOT ---
 
-**Software Development Engineer**
-https://jobicy.com/jobs/157793-software-development-engineer
+**Software Engineer (Remote - Contractor)**
+https://jobicy.com/jobs/157969-software-engineer-remote-contractor
 
-**Legion: Senior Integration Engineer**
-https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer
+**Smartsheet: Manager, Engineering (Remote Eligible in Bulgaria)**
+https://weworkremotely.com/remote-jobs/smartsheet-manager-engineering-remote-eligible-in-bulgaria
 
 --- C# / .NET ---
 
-**Account Executive III**
-https://jobicy.com/jobs/157804-account-executive-iii-2
+**Carrot: Sr. IT Systems Engineer**
+https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer
 
-**Netlify: Your Chance to Join Our Talent Community!**
-https://weworkremotely.com/remote-jobs/netlify-your-chance-to-join-our-talent-community
+**Carrot: Sr. Manager, Data Engineering**
+https://weworkremotely.com/remote-jobs/carrot-sr-manager-data-engineering
+
+**talaint: HubSpot CRM Administrator**
+https://weworkremotely.com/remote-jobs/talaint-hubspot-crm-administrator
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Enterprise Solutions Engineer - Sweden**
-https://jobicy.com/jobs/157827-enterprise-solutions-engineer-sweden
-
-**Site Reliability Engineer in Hardware Infrastructure**
-https://jobicy.com/jobs/157822-site-reliability-engineer-in-hardware-infrastructure
-
-**Head of Tax Information Reporting**
-https://jobicy.com/jobs/157815-head-of-tax-information-reporting
-
-**Staff Analyst, Product & Marketing**
-https://jobicy.com/jobs/157798-staff-analyst-product-marketing
+**Wrike: CloudOps Engineer (Network Engineer)**
+https://weworkremotely.com/remote-jobs/wrike-cloudops-engineer-network-engineer
 
 --- GO ---
 
-**Project Development Manager- Data Centers, EMEA**
-https://jobicy.com/jobs/157814-project-development-manager-data-centers-emea-2
+**Account Manager - Corporate**
+https://jobicy.com/jobs/157975-account-manager-corporate-2
 
-**Principal Engineer, Applied AI (Fullstack/Backend)**
-https://jobicy.com/jobs/157805-principal-engineer-applied-ai-fullstack-backend
+**Senior Project Manager, Business Transformation**
+https://jobicy.com/jobs/157972-senior-project-manager-business-transformation
 
-**Staff DevOps Engineer**
-https://jobicy.com/jobs/157784-staff-devops-engineer-4
+**Staff Product Manager, Enterprise Deployment Solutions | UK | Remote**
+https://jobicy.com/jobs/157954-staff-product-manager-enterprise-deployment-solutions-uk-remote
 
-**Senior Manager, New Business DACH & Benelux**
-https://jobicy.com/jobs/157783-senior-manager-new-business-dach-benelux
-
---- RUBY ON RAILS ---
-
-**Bybit: Business Development Assistant**
-https://weworkremotely.com/remote-jobs/bybit-business-development-assistant
-
---- BANCOS DE DADOS (SQL / NOSQL) ---
-
-**Senior DevOps Engineer**
-https://jobicy.com/jobs/157779-senior-devops-engineer-12
+**Staff Product Manager, Enterprise Deployment Solutions | Sweden | Remote**
+https://jobicy.com/jobs/157951-staff-product-manager-enterprise-deployment-solutions-sweden-remote
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Senior International Payroll Analyst**
-https://jobicy.com/jobs/157778-senior-international-payroll-analyst
+**Manager, Technical Account Management**
+https://jobicy.com/jobs/157983-manager-technical-account-management-2
 
-**Senior/Principal Data Scientist (m/f/d)**
-https://www.arbeitnow.com/jobs/companies/stenon-gmbh/senior-principal-data-scientist-berlin-25961
+**Compliance Engineer**
+https://jobicy.com/jobs/157959-compliance-engineer-3
 
-**Roblox: Marketing Manager, MENAT**
-https://weworkremotely.com/remote-jobs/roblox-marketing-manager-menat
+**Staff Technical Support Manager, Enterprise**
+https://jobicy.com/jobs/157952-staff-technical-support-manager-enterprise
 
-**Legion: Sales Development Representative - Strategics**
-https://weworkremotely.com/remote-jobs/legion-sales-development-representative-strategics
+**Staff Product Manager, Enterprise Deployment Solutions | Spain | Remote**
+https://jobicy.com/jobs/157948-staff-product-manager-enterprise-deployment-solutions-spain-remote
 
