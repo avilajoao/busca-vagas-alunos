@@ -1,94 +1,74 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (30/10/2026)
+Segue nossa lista de vagas de hoje! (31/10/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Clinical Database Programmer**
-https://jobicy.com/jobs/157989-clinical-database-programmer
+**Recruiter, Sales (APJ)**
+https://jobicy.com/jobs/158205-recruiter-sales-apj
 
-**Supply Chain Manager**
-https://jobicy.com/jobs/157988-supply-chain-manager
+**Manager, Sales Recruiting (APJ)**
+https://jobicy.com/jobs/158201-manager-sales-recruiting-apj
 
-**Principal Solutions Architect, South Korea**
-https://jobicy.com/jobs/157985-principal-solutions-architect-south-korea
+**Data Analytics Manager**
+https://jobicy.com/jobs/158191-data-analytics-manager
 
-**Principal Solutions Architect, Japan**
-https://jobicy.com/jobs/157981-principal-solutions-architect-japan
+**Staff Software Engineer, Frontend**
+https://jobicy.com/jobs/158175-staff-software-engineer-frontend
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Staff Software Engineer**
-https://jobicy.com/jobs/157993-staff-software-engineer-14
+**Principal Design Program Manager, International Packaging**
+https://jobicy.com/jobs/158161-principal-design-program-manager-international-packaging
 
-**Technical Writer – Part-Time, Fixed-Term (3 Months) – Australia**
-https://jobicy.com/jobs/157979-technical-writer-part-time-fixed-term-3-months-australia
+**(Senior) React Native Engineer (m/f/x) - Based in Germany**
+https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-react-native-engineer-based-in-germany-berlin-388773
 
-**Senior Design Engineer**
-https://jobicy.com/jobs/157958-senior-design-engineer
+**(Senior) React Native Engineer (m/f/x) - Based in Germany**
+https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-react-native-engineer-based-in-germany-164217
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Founding Engineer (Remote or Hybrid - EEA/UK)**
-https://www.arbeitnow.com/jobs/companies/tarebase/founding-engineer-remote-or-hybrid-eea-uk-berlin-43150
-
-**Senior AWS Platform Engineer**
-https://www.arbeitnow.nl/jobs/companies/luscii/remote-senior-aws-platform-engineer-utrecht-130307
-
-**Jumio: Principal Enterprise Architect**
-https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect
-
-**ZoomInfo Technologies LLC: Principal Applied AI Engineer - Entity Agents**
-https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-applied-ai-engineer-entity-agents
-
---- JAVA / SPRING BOOT ---
-
-**Software Engineer (Remote - Contractor)**
-https://jobicy.com/jobs/157969-software-engineer-remote-contractor
-
-**Smartsheet: Manager, Engineering (Remote Eligible in Bulgaria)**
-https://weworkremotely.com/remote-jobs/smartsheet-manager-engineering-remote-eligible-in-bulgaria
+**Sr. Staff Platform Engineer**
+https://jobicy.com/jobs/158167-sr-staff-platform-engineer
 
 --- C# / .NET ---
 
-**Carrot: Sr. IT Systems Engineer**
-https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer
-
-**Carrot: Sr. Manager, Data Engineering**
-https://weworkremotely.com/remote-jobs/carrot-sr-manager-data-engineering
-
-**talaint: HubSpot CRM Administrator**
-https://weworkremotely.com/remote-jobs/talaint-hubspot-crm-administrator
+**The Supply Chainer: Independent Sales Agent, B2B Media - Commission Based, Remote**
+https://weworkremotely.com/remote-jobs/the-supply-chainer-independent-sales-agent-b2b-media-commission-based-remote
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Wrike: CloudOps Engineer (Network Engineer)**
-https://weworkremotely.com/remote-jobs/wrike-cloudops-engineer-network-engineer
+**Sr. Backend Engineer - Engine Team: API**
+https://jobicy.com/jobs/158166-sr-backend-engineer-engine-team-api
+
+**Senior Data Intelligence Engineer**
+https://jobicy.com/jobs/158160-senior-data-intelligence-engineer
 
 --- GO ---
 
-**Account Manager - Corporate**
-https://jobicy.com/jobs/157975-account-manager-corporate-2
+**Director, Customer Success**
+https://jobicy.com/jobs/158174-director-customer-success
 
-**Senior Project Manager, Business Transformation**
-https://jobicy.com/jobs/157972-senior-project-manager-business-transformation
+**Senior Product Marketing Manager**
+https://jobicy.com/jobs/158164-senior-product-marketing-manager-8
 
-**Staff Product Manager, Enterprise Deployment Solutions | UK | Remote**
-https://jobicy.com/jobs/157954-staff-product-manager-enterprise-deployment-solutions-uk-remote
+**Senior Partner Manager, Data & AI Security**
+https://jobicy.com/jobs/158158-senior-partner-manager-data-ai-security
 
-**Staff Product Manager, Enterprise Deployment Solutions | Sweden | Remote**
-https://jobicy.com/jobs/157951-staff-product-manager-enterprise-deployment-solutions-sweden-remote
+**Senior Growth Marketing Manager (App Installs)**
+https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-growth-marketing-manager-app-installs-478157
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Manager, Technical Account Management**
-https://jobicy.com/jobs/157983-manager-technical-account-management-2
+**Security Operations Analyst**
+https://jobicy.com/jobs/158202-security-operations-analyst-2
 
-**Compliance Engineer**
-https://jobicy.com/jobs/157959-compliance-engineer-3
+**Staff Industrial Designer**
+https://jobicy.com/jobs/158195-staff-industrial-designer
 
-**Staff Technical Support Manager, Enterprise**
-https://jobicy.com/jobs/157952-staff-technical-support-manager-enterprise
+**Staff Graphic Designer, Print & Packaging**
+https://jobicy.com/jobs/158189-staff-graphic-designer-print-packaging
 
-**Staff Product Manager, Enterprise Deployment Solutions | Spain | Remote**
-https://jobicy.com/jobs/157948-staff-product-manager-enterprise-deployment-solutions-spain-remote
+**Financial Analyst**
+https://jobicy.com/jobs/158182-financial-analyst-4
 
