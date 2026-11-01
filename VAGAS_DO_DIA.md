@@ -1,74 +1,75 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (31/10/2026)
+Segue nossa lista de vagas de hoje! (01/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Recruiter, Sales (APJ)**
-https://jobicy.com/jobs/158205-recruiter-sales-apj
+**Senior Professional Services Engineer**
+https://jobicy.com/jobs/158368-senior-professional-services-engineer
 
-**Manager, Sales Recruiting (APJ)**
-https://jobicy.com/jobs/158201-manager-sales-recruiting-apj
+**Senior Product Manager, Billing Engine & Platforms Monetization**
+https://jobicy.com/jobs/158365-senior-product-manager-billing-engine-platforms-monetization
 
-**Data Analytics Manager**
-https://jobicy.com/jobs/158191-data-analytics-manager
+**Senior Contracts Manager, Commercial (EMEA)**
+https://jobicy.com/jobs/158350-senior-contracts-manager-commercial-emea
 
-**Staff Software Engineer, Frontend**
-https://jobicy.com/jobs/158175-staff-software-engineer-frontend
+**Senior Backend Engineer (Ruby), Production Engineering:Tenant Controls**
+https://jobicy.com/jobs/158341-senior-backend-engineer-ruby-production-engineeringtenant-controls
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Principal Design Program Manager, International Packaging**
-https://jobicy.com/jobs/158161-principal-design-program-manager-international-packaging
+**Growth PM**
+https://jobicy.com/jobs/158342-growth-pm
 
-**(Senior) React Native Engineer (m/f/x) - Based in Germany**
-https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-react-native-engineer-based-in-germany-berlin-388773
-
-**(Senior) React Native Engineer (m/f/x) - Based in Germany**
-https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-react-native-engineer-based-in-germany-164217
-
---- TYPESCRIPT / JAVASCRIPT ---
-
-**Sr. Staff Platform Engineer**
-https://jobicy.com/jobs/158167-sr-staff-platform-engineer
-
---- C# / .NET ---
-
-**The Supply Chainer: Independent Sales Agent, B2B Media - Commission Based, Remote**
-https://weworkremotely.com/remote-jobs/the-supply-chainer-independent-sales-agent-b2b-media-commission-based-remote
+**Senior Site Reliability Engineer (SRE) m/f/x**
+https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-445711
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Sr. Backend Engineer - Engine Team: API**
-https://jobicy.com/jobs/158166-sr-backend-engineer-engine-team-api
+**Applied AI Engineer**
+https://jobicy.com/jobs/158366-applied-ai-engineer-3
 
-**Senior Data Intelligence Engineer**
-https://jobicy.com/jobs/158160-senior-data-intelligence-engineer
+**Forward Deployed Engineer - Software Engineer - United Kingdom**
+https://jobicy.com/jobs/158357-forward-deployed-engineer-software-engineer-united-kingdom
+
+**Finance Data Scientist**
+https://jobicy.com/jobs/158354-finance-data-scientist
+
+**Analytics Engineer**
+https://jobicy.com/jobs/158351-analytics-engineer-6
 
 --- GO ---
 
-**Director, Customer Success**
-https://jobicy.com/jobs/158174-director-customer-success
+**Product Manager (ElevenCreative Self-Serve)**
+https://jobicy.com/jobs/158363-product-manager-elevencreative-self-serve
 
-**Senior Product Marketing Manager**
-https://jobicy.com/jobs/158164-senior-product-marketing-manager-8
+**Deployment Strategist, Public Sector (EMEA)**
+https://jobicy.com/jobs/158349-deployment-strategist-public-sector-emea
 
-**Senior Partner Manager, Data & AI Security**
-https://jobicy.com/jobs/158158-senior-partner-manager-data-ai-security
+**Enablement Manager, Public Sector**
+https://jobicy.com/jobs/158345-enablement-manager-public-sector
 
-**Senior Growth Marketing Manager (App Installs)**
-https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-growth-marketing-manager-app-installs-478157
+**Lead Product Manager, Veriff Network**
+https://jobicy.com/jobs/158344-lead-product-manager-veriff-network
+
+--- RUBY ON RAILS ---
+
+**Senior Support Engineer**
+https://jobicy.com/jobs/158332-senior-support-engineer-3
+
+**Tailscale: Commercial Legal Counsel**
+https://weworkremotely.com/remote-jobs/tailscale-commercial-legal-counsel
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Security Operations Analyst**
-https://jobicy.com/jobs/158202-security-operations-analyst-2
+**Account Director, Central Banks & Regulators (EMEA)**
+https://jobicy.com/jobs/158339-account-director-central-banks-regulators-emea
 
-**Staff Industrial Designer**
-https://jobicy.com/jobs/158195-staff-industrial-designer
+**Vice President of Retail, APAC**
+https://jobicy.com/jobs/158329-vice-president-of-retail-apac
 
-**Staff Graphic Designer, Print & Packaging**
-https://jobicy.com/jobs/158189-staff-graphic-designer-print-packaging
+**Staff Software Engineer - Databases SRE | Spain | Remote**
+https://jobicy.com/jobs/158324-staff-software-engineer-databases-sre-spain-remote
 
-**Financial Analyst**
-https://jobicy.com/jobs/158182-financial-analyst-4
+**Staff Software Engineer - Databases SRE | Ireland | Remote**
+https://jobicy.com/jobs/158320-staff-software-engineer-databases-sre-ireland-remote
 
