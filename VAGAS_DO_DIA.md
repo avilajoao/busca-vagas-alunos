@@ -1,75 +1,116 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (01/11/2026)
+Segue nossa lista de vagas de hoje! (02/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Senior Professional Services Engineer**
-https://jobicy.com/jobs/158368-senior-professional-services-engineer
+**Staff Backend Engineer, Developer Experience**
+https://jobicy.com/jobs/158549-staff-backend-engineer-developer-experience
 
-**Senior Product Manager, Billing Engine & Platforms Monetization**
-https://jobicy.com/jobs/158365-senior-product-manager-billing-engine-platforms-monetization
+**Senior Program Manager, Enterprise Technology and AI**
+https://jobicy.com/jobs/158545-senior-program-manager-enterprise-technology-and-ai
 
-**Senior Contracts Manager, Commercial (EMEA)**
-https://jobicy.com/jobs/158350-senior-contracts-manager-commercial-emea
+**Senior Manager, Global Benefits**
+https://jobicy.com/jobs/158544-senior-manager-global-benefits
 
-**Senior Backend Engineer (Ruby), Production Engineering:Tenant Controls**
-https://jobicy.com/jobs/158341-senior-backend-engineer-ruby-production-engineeringtenant-controls
+**Senior Professional Services Project Manager (EMEA)**
+https://jobicy.com/jobs/158540-senior-professional-services-project-manager-emea
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Growth PM**
-https://jobicy.com/jobs/158342-growth-pm
+**Front End Software Engineer, Media Player**
+https://jobicy.com/jobs/158567-front-end-software-engineer-media-player
 
-**Senior Site Reliability Engineer (SRE) m/f/x**
-https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-445711
+**Front End Software Engineer, Consumer Engineering**
+https://jobicy.com/jobs/158562-front-end-software-engineer-consumer-engineering
+
+**Binance Accelerator Program - VIP Institutional Growth & Operations**
+https://jobicy.com/jobs/158532-binance-accelerator-program-vip-institutional-growth-operations
+
+**Senior Full Stack Developer - Deepdesk**
+https://www.arbeitnow.nl/jobs/companies/anywherenow/remote-senior-full-stack-developer-deepdesk-rotterdam-346552
+
+--- TYPESCRIPT / JAVASCRIPT ---
+
+**Online Support Representative**
+https://jobicy.com/jobs/158534-online-support-representative
+
+**Partner Solutions Engineer, Southern Europe**
+https://jobicy.com/jobs/158525-partner-solutions-engineer-southern-europe-2
+
+**Technical Support Engineer - night shifts**
+https://jobicy.com/jobs/158523-technical-support-engineer-night-shifts
+
+--- VUE.JS / NUXT ---
+
+**Sales Manager, Mid-Market - EMEA**
+https://jobicy.com/jobs/158522-sales-manager-mid-market-emea
+
+--- JAVA / SPRING BOOT ---
+
+**Software Development Engineer III, MuleSoft**
+https://jobicy.com/jobs/158553-software-development-engineer-iii-mulesoft
+
+**Smartsheet: Principal Software Engineer (Remote Eligible in Bulgaria)**
+https://weworkremotely.com/remote-jobs/smartsheet-principal-software-engineer-remote-eligible-in-bulgaria
+
+--- C# / .NET ---
+
+**AI Engineer**
+https://www.arbeitnow.co.uk/jobs/companies/anywherenow/remote-ai-engineer-london-34491
+
+**Forward Push Law Firm Marketing: Marketing Specialist**
+https://weworkremotely.com/remote-jobs/forward-push-law-firm-marketing-marketing-specialist
+
+**Carrot: Telemedicine Registered Nurse (RN), Consultant**
+https://weworkremotely.com/remote-jobs/carrot-telemedicine-registered-nurse-rn-consultant
+
+**Carrot: Telemedicine Physician Consultant**
+https://weworkremotely.com/remote-jobs/carrot-telemedicine-physician-consultant
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Applied AI Engineer**
-https://jobicy.com/jobs/158366-applied-ai-engineer-3
+**Software Engineer in Hardware Infrastructure Observability**
+https://jobicy.com/jobs/158526-software-engineer-in-hardware-infrastructure-observability
 
-**Forward Deployed Engineer - Software Engineer - United Kingdom**
-https://jobicy.com/jobs/158357-forward-deployed-engineer-software-engineer-united-kingdom
+**CrowdStrike: Regional Principal Analyst, Falcon Complete (Remote)**
+https://weworkremotely.com/remote-jobs/crowdstrike-regional-principal-analyst-falcon-complete-remote
 
-**Finance Data Scientist**
-https://jobicy.com/jobs/158354-finance-data-scientist
-
-**Analytics Engineer**
-https://jobicy.com/jobs/158351-analytics-engineer-6
+**Doximity: Senior Software Engineer, Data**
+https://weworkremotely.com/remote-jobs/doximity-senior-software-engineer-data
 
 --- GO ---
 
-**Product Manager (ElevenCreative Self-Serve)**
-https://jobicy.com/jobs/158363-product-manager-elevencreative-self-serve
+**Talent Growth and Inclusion Intern- Summer 2027**
+https://jobicy.com/jobs/158568-talent-growth-and-inclusion-intern-summer-2027
 
-**Deployment Strategist, Public Sector (EMEA)**
-https://jobicy.com/jobs/158349-deployment-strategist-public-sector-emea
+**Sr Enterprise Account Executive (Remote: Houston, TX area)**
+https://jobicy.com/jobs/158563-sr-enterprise-account-executive-remote-houston-tx-area
 
-**Enablement Manager, Public Sector**
-https://jobicy.com/jobs/158345-enablement-manager-public-sector
+**Sourcing Manager**
+https://jobicy.com/jobs/158558-sourcing-manager
 
-**Lead Product Manager, Veriff Network**
-https://jobicy.com/jobs/158344-lead-product-manager-veriff-network
+**Global Inventory Planner**
+https://jobicy.com/jobs/158538-global-inventory-planner
 
 --- RUBY ON RAILS ---
 
-**Senior Support Engineer**
-https://jobicy.com/jobs/158332-senior-support-engineer-3
+**Engineer III**
+https://jobicy.com/jobs/158531-engineer-iii
 
-**Tailscale: Commercial Legal Counsel**
-https://weworkremotely.com/remote-jobs/tailscale-commercial-legal-counsel
+**Clover Health: Chief Actuary**
+https://weworkremotely.com/remote-jobs/clover-health-chief-actuary
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Account Director, Central Banks & Regulators (EMEA)**
-https://jobicy.com/jobs/158339-account-director-central-banks-regulators-emea
+**Associate General Counsel, Ads Product**
+https://jobicy.com/jobs/158552-associate-general-counsel-ads-product
 
-**Vice President of Retail, APAC**
-https://jobicy.com/jobs/158329-vice-president-of-retail-apac
+**Glossier: Director of Co-Manufacturing & Procurement**
+https://weworkremotely.com/remote-jobs/glossier-director-of-co-manufacturing-procurement
 
-**Staff Software Engineer - Databases SRE | Spain | Remote**
-https://jobicy.com/jobs/158324-staff-software-engineer-databases-sre-spain-remote
+**Keeper Security: Creative Localization Specialist**
+https://weworkremotely.com/remote-jobs/keeper-security-creative-localization-specialist
 
-**Staff Software Engineer - Databases SRE | Ireland | Remote**
-https://jobicy.com/jobs/158320-staff-software-engineer-databases-sre-ireland-remote
+**Keeper Security: Consumer Support Specialist (Weekend Shift, Sunday - Thursday)**
+https://weworkremotely.com/remote-jobs/keeper-security-consumer-support-specialist-weekend-shift-sunday-thursday
 
