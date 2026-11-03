@@ -1,116 +1,88 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (02/11/2026)
+Segue nossa lista de vagas de hoje! (03/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Staff Backend Engineer, Developer Experience**
-https://jobicy.com/jobs/158549-staff-backend-engineer-developer-experience
+**Staff Solutions Architect, AI Subject Matter Expert**
+https://jobicy.com/jobs/158642-staff-solutions-architect-ai-subject-matter-expert
 
-**Senior Program Manager, Enterprise Technology and AI**
-https://jobicy.com/jobs/158545-senior-program-manager-enterprise-technology-and-ai
+**GRC Analyst (EMEA)**
+https://jobicy.com/jobs/158638-grc-analyst-emea
 
-**Senior Manager, Global Benefits**
-https://jobicy.com/jobs/158544-senior-manager-global-benefits
+**Staff Software Engineer, Security Factory: Static Analysis**
+https://jobicy.com/jobs/158635-staff-software-engineer-security-factory-static-analysis
 
-**Senior Professional Services Project Manager (EMEA)**
-https://jobicy.com/jobs/158540-senior-professional-services-project-manager-emea
+**Enterprise Sales Engineer - Middle East**
+https://jobicy.com/jobs/158629-enterprise-sales-engineer-middle-east
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Front End Software Engineer, Media Player**
-https://jobicy.com/jobs/158567-front-end-software-engineer-media-player
+**Senior/Lead Lifecycle Marketing Manager (Full Remote - Greece)**
+https://jobicy.com/jobs/158644-senior-lead-lifecycle-marketing-manager-full-remote-greece
 
-**Front End Software Engineer, Consumer Engineering**
-https://jobicy.com/jobs/158562-front-end-software-engineer-consumer-engineering
+**Senior/Lead Lifecycle Marketing Manager (Full Remote - Netherlands)**
+https://jobicy.com/jobs/158637-senior-lead-lifecycle-marketing-manager-full-remote-netherlands
 
-**Binance Accelerator Program - VIP Institutional Growth & Operations**
-https://jobicy.com/jobs/158532-binance-accelerator-program-vip-institutional-growth-operations
+**Senior/Lead Lifecycle Marketing Manager (Full Remote - France)**
+https://jobicy.com/jobs/158628-senior-lead-lifecycle-marketing-manager-full-remote-france
 
-**Senior Full Stack Developer - Deepdesk**
-https://www.arbeitnow.nl/jobs/companies/anywherenow/remote-senior-full-stack-developer-deepdesk-rotterdam-346552
+**Global Investigator (EMEA)**
+https://jobicy.com/jobs/158617-global-investigator-emea
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Online Support Representative**
-https://jobicy.com/jobs/158534-online-support-representative
+**Kernel Build Automation Engineer - Ubuntu Linux**
+https://jobicy.com/jobs/158610-kernel-build-automation-engineer-ubuntu-linux
 
-**Partner Solutions Engineer, Southern Europe**
-https://jobicy.com/jobs/158525-partner-solutions-engineer-southern-europe-2
+**Developer Relations Engineer (London, UK)**
+https://www.arbeitnow.co.uk/jobs/companies/supabase/remote-developer-relations-engineer-london-uk-202326
 
-**Technical Support Engineer - night shifts**
-https://jobicy.com/jobs/158523-technical-support-engineer-night-shifts
-
---- VUE.JS / NUXT ---
-
-**Sales Manager, Mid-Market - EMEA**
-https://jobicy.com/jobs/158522-sales-manager-mid-market-emea
+**Software Engineer (Remote-Worldwide)**
+https://www.arbeitnow.nl/jobs/companies/your-software-supplier/software-engineer-remote-worldwide-amsterdam-489033
 
 --- JAVA / SPRING BOOT ---
 
-**Software Development Engineer III, MuleSoft**
-https://jobicy.com/jobs/158553-software-development-engineer-iii-mulesoft
+**Senior Engineering Manager**
+https://jobicy.com/jobs/158601-senior-engineering-manager-3
 
-**Smartsheet: Principal Software Engineer (Remote Eligible in Bulgaria)**
-https://weworkremotely.com/remote-jobs/smartsheet-principal-software-engineer-remote-eligible-in-bulgaria
-
---- C# / .NET ---
-
-**AI Engineer**
-https://www.arbeitnow.co.uk/jobs/companies/anywherenow/remote-ai-engineer-london-34491
-
-**Forward Push Law Firm Marketing: Marketing Specialist**
-https://weworkremotely.com/remote-jobs/forward-push-law-firm-marketing-marketing-specialist
-
-**Carrot: Telemedicine Registered Nurse (RN), Consultant**
-https://weworkremotely.com/remote-jobs/carrot-telemedicine-registered-nurse-rn-consultant
-
-**Carrot: Telemedicine Physician Consultant**
-https://weworkremotely.com/remote-jobs/carrot-telemedicine-physician-consultant
+**Renewal Specialist**
+https://jobicy.com/jobs/158588-renewal-specialist-2
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Software Engineer in Hardware Infrastructure Observability**
-https://jobicy.com/jobs/158526-software-engineer-in-hardware-infrastructure-observability
-
-**CrowdStrike: Regional Principal Analyst, Falcon Complete (Remote)**
-https://weworkremotely.com/remote-jobs/crowdstrike-regional-principal-analyst-falcon-complete-remote
-
-**Doximity: Senior Software Engineer, Data**
-https://weworkremotely.com/remote-jobs/doximity-senior-software-engineer-data
+**Lead Data Governance Engineer**
+https://jobicy.com/jobs/158612-lead-data-governance-engineer
 
 --- GO ---
 
-**Talent Growth and Inclusion Intern- Summer 2027**
-https://jobicy.com/jobs/158568-talent-growth-and-inclusion-intern-summer-2027
+**Lead Product Designer (100% Remote within Poland)**
+https://jobicy.com/jobs/158603-lead-product-designer-100-remote-within-poland
 
-**Sr Enterprise Account Executive (Remote: Houston, TX area)**
-https://jobicy.com/jobs/158563-sr-enterprise-account-executive-remote-houston-tx-area
+**Juju Software Engineer (Go)**
+https://jobicy.com/jobs/158600-juju-software-engineer-go
 
-**Sourcing Manager**
-https://jobicy.com/jobs/158558-sourcing-manager
+**Account Manager, Life Sciences**
+https://jobicy.com/jobs/158597-account-manager-life-sciences
 
-**Global Inventory Planner**
-https://jobicy.com/jobs/158538-global-inventory-planner
+**Senior Director, Enablement**
+https://jobicy.com/jobs/158596-senior-director-enablement
 
---- RUBY ON RAILS ---
+--- BANCOS DE DADOS (SQL / NOSQL) ---
 
-**Engineer III**
-https://jobicy.com/jobs/158531-engineer-iii
-
-**Clover Health: Chief Actuary**
-https://weworkremotely.com/remote-jobs/clover-health-chief-actuary
+**Senior Analyst, Treasury & Tax Operations**
+https://jobicy.com/jobs/158618-senior-analyst-treasury-tax-operations
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Associate General Counsel, Ads Product**
-https://jobicy.com/jobs/158552-associate-general-counsel-ads-product
+**Manager, Product Manager**
+https://jobicy.com/jobs/158627-manager-product-manager
 
-**Glossier: Director of Co-Manufacturing & Procurement**
-https://weworkremotely.com/remote-jobs/glossier-director-of-co-manufacturing-procurement
+**Staff Solutions Architect**
+https://jobicy.com/jobs/158620-staff-solutions-architect
 
-**Keeper Security: Creative Localization Specialist**
-https://weworkremotely.com/remote-jobs/keeper-security-creative-localization-specialist
+**Enterprise Sales Engineer - Denmark**
+https://jobicy.com/jobs/158614-enterprise-sales-engineer-denmark
 
-**Keeper Security: Consumer Support Specialist (Weekend Shift, Sunday - Thursday)**
-https://weworkremotely.com/remote-jobs/keeper-security-consumer-support-specialist-weekend-shift-sunday-thursday
+**Senior/Lead Lifecycle Marketing Manager (Full Remote - UK)**
+https://jobicy.com/jobs/158613-senior-lead-lifecycle-marketing-manager-full-remote-uk
 
