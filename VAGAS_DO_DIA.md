@@ -1,88 +1,77 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (03/11/2026)
+Segue nossa lista de vagas de hoje! (04/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Staff Solutions Architect, AI Subject Matter Expert**
-https://jobicy.com/jobs/158642-staff-solutions-architect-ai-subject-matter-expert
+**Senior Software Engineer, Backend**
+https://jobicy.com/jobs/158960-senior-software-engineer-backend-2
 
-**GRC Analyst (EMEA)**
-https://jobicy.com/jobs/158638-grc-analyst-emea
+**Principal Data Architect**
+https://jobicy.com/jobs/158923-principal-data-architect
 
-**Staff Software Engineer, Security Factory: Static Analysis**
-https://jobicy.com/jobs/158635-staff-software-engineer-security-factory-static-analysis
+**Senior Manager, Global Procurement (Soft Home - Bedding)**
+https://jobicy.com/jobs/158920-senior-manager-global-procurement-soft-home-bedding
 
-**Enterprise Sales Engineer - Middle East**
-https://jobicy.com/jobs/158629-enterprise-sales-engineer-middle-east
+**Senior Director, Marketing Operations & Analytics**
+https://jobicy.com/jobs/158919-senior-director-marketing-operations-analytics
 
---- REACT / NEXT.JS / REACT NATIVE ---
+--- VUE.JS / NUXT ---
 
-**Senior/Lead Lifecycle Marketing Manager (Full Remote - Greece)**
-https://jobicy.com/jobs/158644-senior-lead-lifecycle-marketing-manager-full-remote-greece
-
-**Senior/Lead Lifecycle Marketing Manager (Full Remote - Netherlands)**
-https://jobicy.com/jobs/158637-senior-lead-lifecycle-marketing-manager-full-remote-netherlands
-
-**Senior/Lead Lifecycle Marketing Manager (Full Remote - France)**
-https://jobicy.com/jobs/158628-senior-lead-lifecycle-marketing-manager-full-remote-france
-
-**Global Investigator (EMEA)**
-https://jobicy.com/jobs/158617-global-investigator-emea
-
---- TYPESCRIPT / JAVASCRIPT ---
-
-**Kernel Build Automation Engineer - Ubuntu Linux**
-https://jobicy.com/jobs/158610-kernel-build-automation-engineer-ubuntu-linux
-
-**Developer Relations Engineer (London, UK)**
-https://www.arbeitnow.co.uk/jobs/companies/supabase/remote-developer-relations-engineer-london-uk-202326
-
-**Software Engineer (Remote-Worldwide)**
-https://www.arbeitnow.nl/jobs/companies/your-software-supplier/software-engineer-remote-worldwide-amsterdam-489033
+**Zanda Health: Product Owner**
+https://weworkremotely.com/remote-jobs/zanda-health-product-owner-1
 
 --- JAVA / SPRING BOOT ---
 
-**Senior Engineering Manager**
-https://jobicy.com/jobs/158601-senior-engineering-manager-3
+**Senior Staff Software Engineer - SAP Connectors**
+https://jobicy.com/jobs/158932-senior-staff-software-engineer-sap-connectors
 
-**Renewal Specialist**
-https://jobicy.com/jobs/158588-renewal-specialist-2
+**Senior Staff Software Engineer - SAP Connectors**
+https://www.arbeitnow.nl/jobs/companies/fivetran/remote-senior-staff-software-engineer-sap-connectors-462420
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Lead Data Governance Engineer**
-https://jobicy.com/jobs/158612-lead-data-governance-engineer
+**Python Software Engineer - Ubuntu Hardware Certification Team**
+https://jobicy.com/jobs/158954-python-software-engineer-ubuntu-hardware-certification-team
+
+**Python Software Engineer, Commercial Systems**
+https://jobicy.com/jobs/158952-python-software-engineer-commercial-systems
+
+**Full-Stack Engineer (Backend Leaning) - Payments Engineering**
+https://jobicy.com/jobs/158947-full-stack-engineer-backend-leaning-payments-engineering
+
+**Full-Stack Engineer (Backend Leaning) - Platform Engineering**
+https://jobicy.com/jobs/158945-full-stack-engineer-backend-leaning-platform-engineering
 
 --- GO ---
 
-**Lead Product Designer (100% Remote within Poland)**
-https://jobicy.com/jobs/158603-lead-product-designer-100-remote-within-poland
+**Vertical Sales Strategy and Operations**
+https://jobicy.com/jobs/158959-vertical-sales-strategy-and-operations
 
-**Juju Software Engineer (Go)**
-https://jobicy.com/jobs/158600-juju-software-engineer-go
+**Partnerships Strategy & Operations**
+https://jobicy.com/jobs/158957-partnerships-strategy-operations
 
-**Account Manager, Life Sciences**
-https://jobicy.com/jobs/158597-account-manager-life-sciences
+**Product Marketing - Agents - Government**
+https://jobicy.com/jobs/158943-product-marketing-agents-government
 
-**Senior Director, Enablement**
-https://jobicy.com/jobs/158596-senior-director-enablement
+**Samsara: Account Development Representative II - Phoenix**
+https://weworkremotely.com/remote-jobs/samsara-account-development-representative-ii-phoenix
 
---- BANCOS DE DADOS (SQL / NOSQL) ---
+--- RUBY ON RAILS ---
 
-**Senior Analyst, Treasury & Tax Operations**
-https://jobicy.com/jobs/158618-senior-analyst-treasury-tax-operations
+**Fraud Prevention Analyst**
+https://jobicy.com/jobs/158964-fraud-prevention-analyst
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Manager, Product Manager**
-https://jobicy.com/jobs/158627-manager-product-manager
+**Senior Clinical Research Associate (Argentina)**
+https://jobicy.com/jobs/158969-senior-clinical-research-associate-argentina
 
-**Staff Solutions Architect**
-https://jobicy.com/jobs/158620-staff-solutions-architect
+**Product Manager - Ubuntu**
+https://jobicy.com/jobs/158948-product-manager-ubuntu
 
-**Enterprise Sales Engineer - Denmark**
-https://jobicy.com/jobs/158614-enterprise-sales-engineer-denmark
+**Product Manager - Security**
+https://jobicy.com/jobs/158946-product-manager-security-2
 
-**Senior/Lead Lifecycle Marketing Manager (Full Remote - UK)**
-https://jobicy.com/jobs/158613-senior-lead-lifecycle-marketing-manager-full-remote-uk
+**Product Manager - Data**
+https://jobicy.com/jobs/158944-product-manager-data
 
