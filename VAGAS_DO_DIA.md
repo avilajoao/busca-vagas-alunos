@@ -1,119 +1,84 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (05/11/2026)
+Segue nossa lista de vagas de hoje! (06/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Business Development Associate**
-https://jobicy.com/jobs/159154-business-development-associate-2
+**Partner Manager, UK**
+https://jobicy.com/jobs/159274-partner-manager-uk
 
-**Director, Compensation**
-https://jobicy.com/jobs/159153-director-compensation
+**GCP - Computer System Validation Specialist (12 month limited-term)**
+https://jobicy.com/jobs/159260-gcp-computer-system-validation-specialist-12-month-limited-term
 
-**Sr. Forward Deployed Engineer (FDE) - Digital Native Business**
-https://jobicy.com/jobs/159152-sr-forward-deployed-engineer-fde-digital-native-business
+**Senior Staff Machine Learning Engineer - Content Platform**
+https://jobicy.com/jobs/159258-senior-staff-machine-learning-engineer-content-platform
 
-**Sr. Forward Deployed Engineer**
-https://jobicy.com/jobs/159149-sr-forward-deployed-engineer
+**Product Architect**
+https://jobicy.com/jobs/159251-product-architect
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Partner Engineer**
-https://jobicy.com/jobs/159156-partner-engineer-2
+**Director of Global Field Operations**
+https://jobicy.com/jobs/159243-director-of-global-field-operations
 
-**AI Process Forward Deployed Engineer**
-https://www.arbeitnow.com/jobs/companies/camunda/remote-ai-process-forward-deployed-engineer-32726
+**Horizon3: Staff Technical Support Engineer (Web App)**
+https://weworkremotely.com/remote-jobs/horizon3-staff-technical-support-engineer-web-app
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Manual QA Engineer (Game Client)**
-https://jobicy.com/jobs/159157-manual-qa-engineer-game-client-2
-
-**Cloud Support Engineer**
-https://jobicy.com/jobs/159135-cloud-support-engineer-3
-
-**HighLevel: Software Development Engineer II - CRM**
-https://weworkremotely.com/remote-jobs/highlevel-software-development-engineer-ii-crm
-
-**Seekerh: Consultor Dynamics 365 CRM - remoto**
-https://weworkremotely.com/remote-jobs/seekerh-consultor-dynamics-365-crm-remoto
-
---- VUE.JS / NUXT ---
-
-**HighLevel: Software Development Engineer III (Fullstack ) - Workflows**
-https://weworkremotely.com/remote-jobs/highlevel-software-development-engineer-iii-fullstack-workflows
-
---- ANGULAR ---
-
-**Secure Privacy: Senior Full-Stack Web Developer (.NET/C#/MongoDB/Angular/Redux) – AI-First, with GDPR Experience**
-https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience
+**Senior Backend Engineer**
+https://jobicy.com/jobs/154740-senior-backend-engineer-9
 
 --- C# / .NET ---
 
-**Welltech: Product Growth Manager (Acquisition Funnels)**
-https://weworkremotely.com/remote-jobs/welltech-product-growth-manager-acquisition-funnels
+**Database Programmer**
+https://jobicy.com/jobs/159250-database-programmer
 
-**TalentXD: Director of Affiliates**
-https://weworkremotely.com/remote-jobs/talentxd-director-of-affiliates
+**Ace Stainless Supply: SOCIAL MEDIA & SEO MANAGER**
+https://weworkremotely.com/remote-jobs/ace-stainless-supply-social-media-seo-manager-2
 
-**Omnidian: Senior Salesforce Developer, Field Service**
-https://weworkremotely.com/remote-jobs/omnidian-senior-salesforce-developer-field-service
+**Jobgether: Google Ads Media Buyer**
+https://weworkremotely.com/remote-jobs/jobgether-google-ads-media-buyer
 
-**Super Speciosa: Supply Chain & Operations Manager - LATAM**
-https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam
+**Zanda Health: Paid Media Coordinator**
+https://weworkremotely.com/remote-jobs/zanda-health-paid-media-coordinator
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Senior Analyst, Care**
-https://jobicy.com/jobs/159151-senior-analyst-care
+**Cloud Governance Engineer**
+https://jobicy.com/jobs/154675-cloud-governance-engineer
 
-**Senior Analyst**
-https://jobicy.com/jobs/159148-senior-analyst-2
+**Senior Backend Engineer, AI Engineering: Chat**
+https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-ai-engineering-chat-363501
 
-**Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services)**
-https://jobicy.com/jobs/159140-specialist-solutions-architect-data-engineering-warehousing-financial-services
-
-**Specialist Solutions Architect - Azure Infrastructure & AI Platform**
-https://jobicy.com/jobs/159137-specialist-solutions-architect-azure-infrastructure-ai-platform
+**Mindrift: Freelance Mechanical CFD Engineer - AI Trainer**
+https://weworkremotely.com/remote-jobs/mindrift-freelance-mechanical-cfd-engineer-ai-trainer
 
 --- GO ---
 
-**Account Manager, TMT**
-https://jobicy.com/jobs/159129-account-manager-tmt
+**Bask Health: Client Success Manager**
+https://weworkremotely.com/remote-jobs/bask-health-client-success-manager
 
-**Senior Product Designer, Knowledge Graph | Ireland | Remote**
-https://jobicy.com/jobs/159124-senior-product-designer-knowledge-graph-ireland-remote
-
-**DevOps Engineer, Blockchain Infra (Fully Remote)**
-https://jobicy.com/jobs/159117-devops-engineer-blockchain-infra-fully-remote-2
-
-**Senior Product Designer, Knowledge Graph | Germany | Remote**
-https://jobicy.com/jobs/159116-senior-product-designer-knowledge-graph-germany-remote
+**BillionToOne: Client Services Associate I, Oncology (East Coast)**
+https://weworkremotely.com/remote-jobs/billiontoone-client-services-associate-i-oncology-east-coast
 
 --- RUBY ON RAILS ---
 
-**Sanctions Operations Analyst (1 year contract)**
-https://jobicy.com/jobs/159169-sanctions-operations-analyst-1-year-contract
+**Billing Operations Manager**
+https://jobicy.com/jobs/159273-billing-operations-manager
 
-**Principal Product Manager, AI Platform**
-https://jobicy.com/jobs/159139-principal-product-manager-ai-platform
+--- BANCOS DE DADOS (SQL / NOSQL) ---
 
-**VXI Global Solutions: US Remote Patient Care Advocate (Customer Service)**
-https://weworkremotely.com/remote-jobs/vxi-global-solutions-us-remote-patient-care-advocate-customer-service
-
-**A.Team: Senior Independent AI Engineer / Architect**
-https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect
+**Blockchain Engineer**
+https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-400842
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Sales Enablement Manager**
-https://jobicy.com/jobs/159171-sales-enablement-manager
+**Chainguard: Senior ABM Manager**
+https://weworkremotely.com/remote-jobs/chainguard-senior-abm-manager
 
-**Sr. Engagement Manager, FDE - LATAM**
-https://jobicy.com/jobs/159143-sr-engagement-manager-fde-latam
+**Microsoft: Unified Foundational Offers Strategy and Operations Lead**
+https://weworkremotely.com/remote-jobs/microsoft-unified-foundational-offers-strategy-and-operations-lead
 
-**Contracts Manager**
-https://jobicy.com/jobs/159141-contracts-manager
-
-**Enterprise Account Executive**
-https://jobicy.com/jobs/159136-enterprise-account-executive-34
+**Ping Identity: Director, Partner Operations**
+https://weworkremotely.com/remote-jobs/ping-identity-director-partner-operations
 
