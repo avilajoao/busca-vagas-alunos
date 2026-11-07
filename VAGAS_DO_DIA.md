@@ -1,84 +1,105 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (06/11/2026)
+Segue nossa lista de vagas de hoje! (07/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Partner Manager, UK**
-https://jobicy.com/jobs/159274-partner-manager-uk
+**Billing Analyst**
+https://jobicy.com/jobs/159532-billing-analyst-2
 
-**GCP - Computer System Validation Specialist (12 month limited-term)**
-https://jobicy.com/jobs/159260-gcp-computer-system-validation-specialist-12-month-limited-term
+**Sr Staff Site Reliability Engineer**
+https://jobicy.com/jobs/159531-sr-staff-site-reliability-engineer
 
-**Senior Staff Machine Learning Engineer - Content Platform**
-https://jobicy.com/jobs/159258-senior-staff-machine-learning-engineer-content-platform
+**Enterprise Account Executive**
+https://jobicy.com/jobs/159529-enterprise-account-executive-36
 
-**Product Architect**
-https://jobicy.com/jobs/159251-product-architect
+**Staff Revenue Operations Manager - EMEA**
+https://jobicy.com/jobs/159528-staff-revenue-operations-manager-emea
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Director of Global Field Operations**
-https://jobicy.com/jobs/159243-director-of-global-field-operations
+**Senior Design Engineer | Deel**
+https://www.arbeitnow.com/jobs/companies/hirehire/remote-senior-design-engineer-deel-395604
 
-**Horizon3: Staff Technical Support Engineer (Web App)**
-https://weworkremotely.com/remote-jobs/horizon3-staff-technical-support-engineer-web-app
+**Senior Forward Deployed Engineer - Canada**
+https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-forward-deployed-engineer-canada-170128
+
+**Cambridge Information Group Inc: Front-End Developer**
+https://weworkremotely.com/remote-jobs/cambridge-information-group-inc-front-end-developer
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Senior Backend Engineer**
-https://jobicy.com/jobs/154740-senior-backend-engineer-9
+**Sr. Forward Deployed Engineer - Public Sector**
+https://jobicy.com/jobs/159490-sr-forward-deployed-engineer-public-sector
+
+**Senior Partner Solutions Architect (Pan-EMEA GSI)**
+https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-partner-solutions-architect-pan-emea-gsi-458815
+
+**(Senior/Staff) Platform Engineer**
+https://www.arbeitnow.nl/jobs/companies/duna/remote-senior-staff-platform-engineer-382004
+
+--- JAVA / SPRING BOOT ---
+
+**Software Engineer - Data team**
+https://jobicy.com/jobs/159520-software-engineer-data-team
+
+**Quality Assurance Engineer (m/f/d)**
+https://jobicy.com/jobs/159518-quality-assurance-engineer-m-f-d
+
+**Data Engineer**
+https://www.arbeitnow.com/jobs/companies/huzzle/remote-data-engineer-germany-76259
 
 --- C# / .NET ---
 
-**Database Programmer**
-https://jobicy.com/jobs/159250-database-programmer
+**GM - Commercial Strategy and Insights**
+https://jobicy.com/jobs/159534-gm-commercial-strategy-and-insights
 
-**Ace Stainless Supply: SOCIAL MEDIA & SEO MANAGER**
-https://weworkremotely.com/remote-jobs/ace-stainless-supply-social-media-seo-manager-2
+**Karat: Software Engineer Interviewer**
+https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer
 
-**Jobgether: Google Ads Media Buyer**
-https://weworkremotely.com/remote-jobs/jobgether-google-ads-media-buyer
-
-**Zanda Health: Paid Media Coordinator**
-https://weworkremotely.com/remote-jobs/zanda-health-paid-media-coordinator
+**Dropbox: Scaled Customer Success Manager**
+https://weworkremotely.com/remote-jobs/dropbox-scaled-customer-success-manager
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Cloud Governance Engineer**
-https://jobicy.com/jobs/154675-cloud-governance-engineer
+**Mid/Senior AI LLM Engineer (Full Remote - Spain)**
+https://jobicy.com/jobs/159526-mid-senior-ai-llm-engineer-full-remote-spain
 
-**Senior Backend Engineer, AI Engineering: Chat**
-https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-ai-engineering-chat-363501
+**Sr. Staff Security Software Engineer - Agentic Security Engineering**
+https://jobicy.com/jobs/159516-sr-staff-security-software-engineer-agentic-security-engineering
 
-**Mindrift: Freelance Mechanical CFD Engineer - AI Trainer**
-https://weworkremotely.com/remote-jobs/mindrift-freelance-mechanical-cfd-engineer-ai-trainer
+**Sr. Solutions Engineer - Digital Native Business (Strategic Accounts)**
+https://jobicy.com/jobs/159514-sr-solutions-engineer-digital-native-business-strategic-accounts
+
+**Sr. Solutions Architect - Travel and Hospitality**
+https://jobicy.com/jobs/159512-sr-solutions-architect-travel-and-hospitality
 
 --- GO ---
 
-**Bask Health: Client Success Manager**
-https://weworkremotely.com/remote-jobs/bask-health-client-success-manager
+**Business Development Representative - UK**
+https://jobicy.com/jobs/159523-business-development-representative-uk
 
-**BillionToOne: Client Services Associate I, Oncology (East Coast)**
-https://weworkremotely.com/remote-jobs/billiontoone-client-services-associate-i-oncology-east-coast
+**Embedded AI Engineer, On-Device Models**
+https://jobicy.com/jobs/159501-embedded-ai-engineer-on-device-models
+
+**Elavate: UGC Coordinator**
+https://weworkremotely.com/remote-jobs/elavate-ugc-coordinator
 
 --- RUBY ON RAILS ---
 
-**Billing Operations Manager**
-https://jobicy.com/jobs/159273-billing-operations-manager
-
---- BANCOS DE DADOS (SQL / NOSQL) ---
-
-**Blockchain Engineer**
-https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-400842
+**Sr. Security Engineer, Enterprise Security**
+https://jobicy.com/jobs/159508-sr-security-engineer-enterprise-security
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Chainguard: Senior ABM Manager**
-https://weworkremotely.com/remote-jobs/chainguard-senior-abm-manager
+**Sales Manager - Weather & Climate (EMEA & APAC)**
+https://jobicy.com/jobs/159525-sales-manager-weather-climate-emea-apac-3
 
-**Microsoft: Unified Foundational Offers Strategy and Operations Lead**
-https://weworkremotely.com/remote-jobs/microsoft-unified-foundational-offers-strategy-and-operations-lead
+**Associate General Counsel**
+https://jobicy.com/jobs/159521-associate-general-counsel-2
 
-**Ping Identity: Director, Partner Operations**
-https://weworkremotely.com/remote-jobs/ping-identity-director-partner-operations
+**Federal Partner Manager**
+https://jobicy.com/jobs/159515-federal-partner-manager
+
+**Sr. Solutions Architect - Digital Native Business (Strategic Accounts)**
+https://jobicy.com/jobs/159510-sr-solutions-architect-digital-native-business-strategic-accounts
 
