@@ -1,105 +1,77 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (07/11/2026)
+Segue nossa lista de vagas de hoje! (08/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Billing Analyst**
-https://jobicy.com/jobs/159532-billing-analyst-2
+**Senior Document Control Specialist**
+https://jobicy.com/jobs/159802-senior-document-control-specialist
 
-**Sr Staff Site Reliability Engineer**
-https://jobicy.com/jobs/159531-sr-staff-site-reliability-engineer
+**Lead AI Architect - Data Platform**
+https://jobicy.com/jobs/159786-lead-ai-architect-data-platform
 
-**Enterprise Account Executive**
-https://jobicy.com/jobs/159529-enterprise-account-executive-36
+**Account Executive, Enterprise - Northeast**
+https://jobicy.com/jobs/159764-account-executive-enterprise-northeast
 
-**Staff Revenue Operations Manager - EMEA**
-https://jobicy.com/jobs/159528-staff-revenue-operations-manager-emea
+**ComPsych Corporation: Workforce Manager**
+https://weworkremotely.com/remote-jobs/compsych-corporation-workforce-manager
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Senior Design Engineer | Deel**
-https://www.arbeitnow.com/jobs/companies/hirehire/remote-senior-design-engineer-deel-395604
-
-**Senior Forward Deployed Engineer - Canada**
-https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-forward-deployed-engineer-canada-170128
-
-**Cambridge Information Group Inc: Front-End Developer**
-https://weworkremotely.com/remote-jobs/cambridge-information-group-inc-front-end-developer
+**Principal UX Engineer, Ads**
+https://jobicy.com/jobs/159806-principal-ux-engineer-ads
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Sr. Forward Deployed Engineer - Public Sector**
-https://jobicy.com/jobs/159490-sr-forward-deployed-engineer-public-sector
+**Norwegian SEO Specialist**
+https://jobicy.com/jobs/159772-norwegian-seo-specialist
 
-**Senior Partner Solutions Architect (Pan-EMEA GSI)**
-https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-partner-solutions-architect-pan-emea-gsi-458815
-
-**(Senior/Staff) Platform Engineer**
-https://www.arbeitnow.nl/jobs/companies/duna/remote-senior-staff-platform-engineer-382004
-
---- JAVA / SPRING BOOT ---
-
-**Software Engineer - Data team**
-https://jobicy.com/jobs/159520-software-engineer-data-team
-
-**Quality Assurance Engineer (m/f/d)**
-https://jobicy.com/jobs/159518-quality-assurance-engineer-m-f-d
-
-**Data Engineer**
-https://www.arbeitnow.com/jobs/companies/huzzle/remote-data-engineer-germany-76259
-
---- C# / .NET ---
-
-**GM - Commercial Strategy and Insights**
-https://jobicy.com/jobs/159534-gm-commercial-strategy-and-insights
-
-**Karat: Software Engineer Interviewer**
-https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer
-
-**Dropbox: Scaled Customer Success Manager**
-https://weworkremotely.com/remote-jobs/dropbox-scaled-customer-success-manager
+**GTM Enablement - Partner Program**
+https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-gtm-enablement-partner-program-77337
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Mid/Senior AI LLM Engineer (Full Remote - Spain)**
-https://jobicy.com/jobs/159526-mid-senior-ai-llm-engineer-full-remote-spain
+**Senior Staff Platform Engineer**
+https://jobicy.com/jobs/159794-senior-staff-platform-engineer
 
-**Sr. Staff Security Software Engineer - Agentic Security Engineering**
-https://jobicy.com/jobs/159516-sr-staff-security-software-engineer-agentic-security-engineering
+**Deployment Strategist - Mexico**
+https://jobicy.com/jobs/159769-deployment-strategist-mexico
 
-**Sr. Solutions Engineer - Digital Native Business (Strategic Accounts)**
-https://jobicy.com/jobs/159514-sr-solutions-engineer-digital-native-business-strategic-accounts
-
-**Sr. Solutions Architect - Travel and Hospitality**
-https://jobicy.com/jobs/159512-sr-solutions-architect-travel-and-hospitality
+**Deployment Strategist Lead - USA**
+https://jobicy.com/jobs/159765-deployment-strategist-lead-usa
 
 --- GO ---
 
-**Business Development Representative - UK**
-https://jobicy.com/jobs/159523-business-development-representative-uk
+**Veeam Kasten, Sales Specialist (Remote US - Phoenix or Atlanta preferred)**
+https://jobicy.com/jobs/159804-veeam-kasten-sales-specialist-remote-us-phoenix-or-atlanta-preferred
 
-**Embedded AI Engineer, On-Device Models**
-https://jobicy.com/jobs/159501-embedded-ai-engineer-on-device-models
+**Enterprise Accounte Executive - K-12**
+https://jobicy.com/jobs/159800-enterprise-accounte-executive-k-12
 
-**Elavate: UGC Coordinator**
-https://weworkremotely.com/remote-jobs/elavate-ugc-coordinator
+**Sr. Counsel; Product, Privacy, and AI**
+https://jobicy.com/jobs/159799-sr-counsel-product-privacy-and-ai
+
+**Revenue Strategy & Operations**
+https://jobicy.com/jobs/159763-revenue-strategy-operations
 
 --- RUBY ON RAILS ---
 
-**Sr. Security Engineer, Enterprise Security**
-https://jobicy.com/jobs/159508-sr-security-engineer-enterprise-security
+**Associate General Counsel, GTM & Commercial Legal**
+https://jobicy.com/jobs/159795-associate-general-counsel-gtm-commercial-legal
+
+**Chief Information Security Officer**
+https://www.arbeitnow.nl/jobs/companies/decentralized-masters/remote-chief-information-security-officer-amsterdam-193201
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Sales Manager - Weather & Climate (EMEA & APAC)**
-https://jobicy.com/jobs/159525-sales-manager-weather-climate-emea-apac-3
+**Head of AI, Automation & Analytics**
+https://jobicy.com/jobs/159809-head-of-ai-automation-analytics
 
-**Associate General Counsel**
-https://jobicy.com/jobs/159521-associate-general-counsel-2
+**Enterprise Account Executive - DoD/DoW**
+https://jobicy.com/jobs/159805-enterprise-account-executive-dod-dow
 
-**Federal Partner Manager**
-https://jobicy.com/jobs/159515-federal-partner-manager
+**Privacy Program Manager**
+https://jobicy.com/jobs/159767-privacy-program-manager-2
 
-**Sr. Solutions Architect - Digital Native Business (Strategic Accounts)**
-https://jobicy.com/jobs/159510-sr-solutions-architect-digital-native-business-strategic-accounts
+**UnitedHealth Group: Behavioral Intake Counselor**
+https://weworkremotely.com/remote-jobs/unitedhealth-group-behavioral-intake-counselor
 
