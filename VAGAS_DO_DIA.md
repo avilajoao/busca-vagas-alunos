@@ -1,77 +1,85 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (08/11/2026)
+Segue nossa lista de vagas de hoje! (09/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Senior Document Control Specialist**
-https://jobicy.com/jobs/159802-senior-document-control-specialist
+**Product Manager II (Soccer)**
+https://jobicy.com/jobs/160277-product-manager-ii-soccer
 
-**Lead AI Architect - Data Platform**
-https://jobicy.com/jobs/159786-lead-ai-architect-data-platform
+**Data Scientist II (Soccer)**
+https://jobicy.com/jobs/160270-data-scientist-ii-soccer
 
-**Account Executive, Enterprise - Northeast**
-https://jobicy.com/jobs/159764-account-executive-enterprise-northeast
+**Enterprise Account Executive - Nordics**
+https://jobicy.com/jobs/160268-enterprise-account-executive-nordics-2
 
-**ComPsych Corporation: Workforce Manager**
-https://weworkremotely.com/remote-jobs/compsych-corporation-workforce-manager
+**Marketing Manager (Maternity Cover)**
+https://jobicy.com/jobs/160212-marketing-manager-maternity-cover
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Principal UX Engineer, Ads**
-https://jobicy.com/jobs/159806-principal-ux-engineer-ads
+**Website Growth Engineer**
+https://jobicy.com/jobs/160208-website-growth-engineer
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Norwegian SEO Specialist**
-https://jobicy.com/jobs/159772-norwegian-seo-specialist
+**Security Engineer, Offensive Security**
+https://jobicy.com/jobs/160030-security-engineer-offensive-security
 
-**GTM Enablement - Partner Program**
-https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-gtm-enablement-partner-program-77337
+--- C# / .NET ---
+
+**OnTheGoSystems: Content Marketing Lead**
+https://weworkremotely.com/remote-jobs/onthegosystems-content-marketing-lead
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Senior Staff Platform Engineer**
-https://jobicy.com/jobs/159794-senior-staff-platform-engineer
+**Strategic WFM Analyst**
+https://jobicy.com/jobs/160216-strategic-wfm-analyst
 
-**Deployment Strategist - Mexico**
-https://jobicy.com/jobs/159769-deployment-strategist-mexico
+**LLM Applied Data Scientist (RAG/ NLP)**
+https://jobicy.com/jobs/160069-llm-applied-data-scientist-rag-nlp
 
-**Deployment Strategist Lead - USA**
-https://jobicy.com/jobs/159765-deployment-strategist-lead-usa
+**Consultant (m/w/d) SAP Data Engineering & Databricks**
+https://www.arbeitnow.com/jobs/companies/windhoff-group/consultant-sap-data-engineering-databricks-berlin-159015
+
+**Halcyon: Senior Backend Cloud Engineer**
+https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer
 
 --- GO ---
 
-**Veeam Kasten, Sales Specialist (Remote US - Phoenix or Atlanta preferred)**
-https://jobicy.com/jobs/159804-veeam-kasten-sales-specialist-remote-us-phoenix-or-atlanta-preferred
+**Onboarding Specialist**
+https://jobicy.com/jobs/160279-onboarding-specialist
 
-**Enterprise Accounte Executive - K-12**
-https://jobicy.com/jobs/159800-enterprise-accounte-executive-k-12
+**Manager, Sales Development**
+https://jobicy.com/jobs/160274-manager-sales-development-2
 
-**Sr. Counsel; Product, Privacy, and AI**
-https://jobicy.com/jobs/159799-sr-counsel-product-privacy-and-ai
+**Customer Success & Sales Specialist - Fluent in Ukrainian**
+https://jobicy.com/jobs/160266-customer-success-sales-specialist-fluent-in-ukrainian
 
-**Revenue Strategy & Operations**
-https://jobicy.com/jobs/159763-revenue-strategy-operations
+**Corporate Account Executive - California**
+https://jobicy.com/jobs/160032-corporate-account-executive-california
 
 --- RUBY ON RAILS ---
 
-**Associate General Counsel, GTM & Commercial Legal**
-https://jobicy.com/jobs/159795-associate-general-counsel-gtm-commercial-legal
+**Payment Product Manager (Fiat)**
+https://jobicy.com/jobs/160074-payment-product-manager-fiat
 
-**Chief Information Security Officer**
-https://www.arbeitnow.nl/jobs/companies/decentralized-masters/remote-chief-information-security-officer-amsterdam-193201
+**Kyndryl: VRO Lead**
+https://weworkremotely.com/remote-jobs/kyndryl-vro-lead
+
+**FIRY: Head of Product  - Beamable**
+https://weworkremotely.com/remote-jobs/firy-head-of-product-beamable
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Head of AI, Automation & Analytics**
-https://jobicy.com/jobs/159809-head-of-ai-automation-analytics
+**UKI Enterprise Sales AE**
+https://jobicy.com/jobs/160271-uki-enterprise-sales-ae
 
-**Enterprise Account Executive - DoD/DoW**
-https://jobicy.com/jobs/159805-enterprise-account-executive-dod-dow
+**Account Executive Nordics**
+https://jobicy.com/jobs/160210-account-executive-nordics
 
-**Privacy Program Manager**
-https://jobicy.com/jobs/159767-privacy-program-manager-2
+**Head of Complaince (12 month FTC)**
+https://jobicy.com/jobs/160207-head-of-complaince-12-month-ftc
 
-**UnitedHealth Group: Behavioral Intake Counselor**
-https://weworkremotely.com/remote-jobs/unitedhealth-group-behavioral-intake-counselor
+**Manager, Customer Support Engineering**
+https://jobicy.com/jobs/160038-manager-customer-support-engineering-2
 
