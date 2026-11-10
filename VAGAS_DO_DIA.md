@@ -1,85 +1,84 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (09/11/2026)
+Segue nossa lista de vagas de hoje! (10/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Product Manager II (Soccer)**
-https://jobicy.com/jobs/160277-product-manager-ii-soccer
+**Staff Corporate IT Engineer**
+https://jobicy.com/jobs/161109-staff-corporate-it-engineer
 
-**Data Scientist II (Soccer)**
-https://jobicy.com/jobs/160270-data-scientist-ii-soccer
+**Enterprise Sales Engineer - LATAM**
+https://jobicy.com/jobs/161095-enterprise-sales-engineer-latam
 
-**Enterprise Account Executive - Nordics**
-https://jobicy.com/jobs/160268-enterprise-account-executive-nordics-2
+**Channel Account Manager, Japan**
+https://jobicy.com/jobs/161080-channel-account-manager-japan
 
-**Marketing Manager (Maternity Cover)**
-https://jobicy.com/jobs/160212-marketing-manager-maternity-cover
+**Senior Account Executive(APAC)**
+https://jobicy.com/jobs/161076-senior-account-executiveapac
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Website Growth Engineer**
-https://jobicy.com/jobs/160208-website-growth-engineer
+**Senior GTM Engineer**
+https://jobicy.com/jobs/161067-senior-gtm-engineer
+
+**Account Manager, Americas**
+https://jobicy.com/jobs/161048-account-manager-americas
+
+**Staff Web Engineer, Marketing**
+https://jobicy.com/jobs/161047-staff-web-engineer-marketing
+
+**Senior Site Reliability Engineer (SRE) m/f/x**
+https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-319771
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Security Engineer, Offensive Security**
-https://jobicy.com/jobs/160030-security-engineer-offensive-security
+**Partner One Capital: CRM Software Engineer**
+https://weworkremotely.com/remote-jobs/partner-one-capital-crm-software-engineer
+
+--- JAVA / SPRING BOOT ---
+
+**Solutions Architect**
+https://jobicy.com/jobs/161091-solutions-architect-5
 
 --- C# / .NET ---
 
-**OnTheGoSystems: Content Marketing Lead**
-https://weworkremotely.com/remote-jobs/onthegosystems-content-marketing-lead
+**Experian: Salesforce CRM Team Lead**
+https://weworkremotely.com/remote-jobs/experian-salesforce-crm-team-lead
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Strategic WFM Analyst**
-https://jobicy.com/jobs/160216-strategic-wfm-analyst
-
-**LLM Applied Data Scientist (RAG/ NLP)**
-https://jobicy.com/jobs/160069-llm-applied-data-scientist-rag-nlp
-
-**Consultant (m/w/d) SAP Data Engineering & Databricks**
-https://www.arbeitnow.com/jobs/companies/windhoff-group/consultant-sap-data-engineering-databricks-berlin-159015
-
-**Halcyon: Senior Backend Cloud Engineer**
-https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer
+**Principal Security Operations Center Analyst**
+https://jobicy.com/jobs/161073-principal-security-operations-center-analyst
 
 --- GO ---
 
-**Onboarding Specialist**
-https://jobicy.com/jobs/160279-onboarding-specialist
+**LATAM Enterprise Account Executive - Spanish speaker**
+https://jobicy.com/jobs/161102-latam-enterprise-account-executive-spanish-speaker
 
-**Manager, Sales Development**
-https://jobicy.com/jobs/160274-manager-sales-development-2
+**Senior Technical Support Engineer**
+https://jobicy.com/jobs/161071-senior-technical-support-engineer-2
 
-**Customer Success & Sales Specialist - Fluent in Ukrainian**
-https://jobicy.com/jobs/160266-customer-success-sales-specialist-fluent-in-ukrainian
+**Director, Industry Practice Lead - Corporate Enterprise**
+https://jobicy.com/jobs/161054-director-industry-practice-lead-corporate-enterprise
 
-**Corporate Account Executive - California**
-https://jobicy.com/jobs/160032-corporate-account-executive-california
+**Customer.io: Senior Product Manager, Workflows**
+https://weworkremotely.com/remote-jobs/customer-io-senior-product-manager-workflows
 
 --- RUBY ON RAILS ---
 
-**Payment Product Manager (Fiat)**
-https://jobicy.com/jobs/160074-payment-product-manager-fiat
-
-**Kyndryl: VRO Lead**
-https://weworkremotely.com/remote-jobs/kyndryl-vro-lead
-
-**FIRY: Head of Product  - Beamable**
-https://weworkremotely.com/remote-jobs/firy-head-of-product-beamable
+**Senior Software Engineer — AI-Native Engineering (XTM Foundation)**
+https://jobicy.com/jobs/161063-senior-software-engineer-ai-native-engineering-xtm-foundation
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**UKI Enterprise Sales AE**
-https://jobicy.com/jobs/160271-uki-enterprise-sales-ae
+**Public Cloud Solution Architect**
+https://jobicy.com/jobs/161108-public-cloud-solution-architect
 
-**Account Executive Nordics**
-https://jobicy.com/jobs/160210-account-executive-nordics
+**Partner Marketing Manager**
+https://jobicy.com/jobs/161105-partner-marketing-manager
 
-**Head of Complaince (12 month FTC)**
-https://jobicy.com/jobs/160207-head-of-complaince-12-month-ftc
+**Lead HR Generalist - Americas**
+https://jobicy.com/jobs/161104-lead-hr-generalist-americas
 
-**Manager, Customer Support Engineering**
-https://jobicy.com/jobs/160038-manager-customer-support-engineering-2
+**Graduate Partner Marketing Manager**
+https://jobicy.com/jobs/161096-graduate-partner-marketing-manager
 
