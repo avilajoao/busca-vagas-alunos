@@ -1,84 +1,77 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (10/11/2026)
+Segue nossa lista de vagas de hoje! (11/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Staff Corporate IT Engineer**
-https://jobicy.com/jobs/161109-staff-corporate-it-engineer
+**Sales Development Representative**
+https://jobicy.com/jobs/161286-sales-development-representative-17
 
-**Enterprise Sales Engineer - LATAM**
-https://jobicy.com/jobs/161095-enterprise-sales-engineer-latam
+**Manager, Sales Operations**
+https://jobicy.com/jobs/161281-manager-sales-operations
 
-**Channel Account Manager, Japan**
-https://jobicy.com/jobs/161080-channel-account-manager-japan
+**Senior Backend Engineer | Feeld**
+https://jobicy.com/jobs/161264-senior-backend-engineer-feeld
 
-**Senior Account Executive(APAC)**
-https://jobicy.com/jobs/161076-senior-account-executiveapac
+**Senior GEO & SEO Specialist**
+https://jobicy.com/jobs/161260-senior-geo-seo-specialist
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Senior GTM Engineer**
-https://jobicy.com/jobs/161067-senior-gtm-engineer
-
-**Account Manager, Americas**
-https://jobicy.com/jobs/161048-account-manager-americas
-
-**Staff Web Engineer, Marketing**
-https://jobicy.com/jobs/161047-staff-web-engineer-marketing
-
-**Senior Site Reliability Engineer (SRE) m/f/x**
-https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-319771
+**Lemon.io: Senior Magento Developer**
+https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Partner One Capital: CRM Software Engineer**
-https://weworkremotely.com/remote-jobs/partner-one-capital-crm-software-engineer
-
---- JAVA / SPRING BOOT ---
-
-**Solutions Architect**
-https://jobicy.com/jobs/161091-solutions-architect-5
-
---- C# / .NET ---
-
-**Experian: Salesforce CRM Team Lead**
-https://weworkremotely.com/remote-jobs/experian-salesforce-crm-team-lead
+**Knack: Cloud Engineer**
+https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Principal Security Operations Center Analyst**
-https://jobicy.com/jobs/161073-principal-security-operations-center-analyst
+**AI Security Engineer, Detection and Response**
+https://jobicy.com/jobs/161250-ai-security-engineer-detection-and-response
+
+**Platform Engineer**
+https://jobicy.com/jobs/161246-platform-engineer-3
+
+**Security Engineer (Remote - Denmark)**
+https://jobicy.com/jobs/161233-security-engineer-remote-denmark
+
+**Security Engineer (Remote - Croatia)**
+https://jobicy.com/jobs/161231-security-engineer-remote-croatia
 
 --- GO ---
 
-**LATAM Enterprise Account Executive - Spanish speaker**
-https://jobicy.com/jobs/161102-latam-enterprise-account-executive-spanish-speaker
+**Blockchain Intelligence Analyst, Transnational Crime Organizations**
+https://jobicy.com/jobs/161263-blockchain-intelligence-analyst-transnational-crime-organizations
 
-**Senior Technical Support Engineer**
-https://jobicy.com/jobs/161071-senior-technical-support-engineer-2
+**Senior AI Developer, Agentic Systems**
+https://jobicy.com/jobs/161257-senior-ai-developer-agentic-systems
 
-**Director, Industry Practice Lead - Corporate Enterprise**
-https://jobicy.com/jobs/161054-director-industry-practice-lead-corporate-enterprise
+**Global Alliance Lead, Capgemini**
+https://jobicy.com/jobs/161243-global-alliance-lead-capgemini-2
 
-**Customer.io: Senior Product Manager, Workflows**
-https://weworkremotely.com/remote-jobs/customer-io-senior-product-manager-workflows
+**Senior Product Manager, App o11y | UK | Remote**
+https://jobicy.com/jobs/161236-senior-product-manager-app-o11y-uk-remote
 
 --- RUBY ON RAILS ---
 
-**Senior Software Engineer — AI-Native Engineering (XTM Foundation)**
-https://jobicy.com/jobs/161063-senior-software-engineer-ai-native-engineering-xtm-foundation
+**Digital Success Engineer**
+https://jobicy.com/jobs/161245-digital-success-engineer
+
+**Security Engineer (Remote - Hungary)**
+https://jobicy.com/jobs/161229-security-engineer-remote-hungary
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Public Cloud Solution Architect**
-https://jobicy.com/jobs/161108-public-cloud-solution-architect
+**Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - Austria)**
+https://jobicy.com/jobs/161269-mid-senior-ai-cinematic-video-editor-freelance-full-remote-austria
 
-**Partner Marketing Manager**
-https://jobicy.com/jobs/161105-partner-marketing-manager
+**Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - Denmark)**
+https://jobicy.com/jobs/161267-mid-senior-ai-cinematic-video-editor-freelance-full-remote-denmark
 
-**Lead HR Generalist - Americas**
-https://jobicy.com/jobs/161104-lead-hr-generalist-americas
+**Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - UK)**
+https://jobicy.com/jobs/161265-mid-senior-ai-cinematic-video-editor-freelance-full-remote-uk
 
-**Graduate Partner Marketing Manager**
-https://jobicy.com/jobs/161096-graduate-partner-marketing-manager
+**Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - Finland)**
+https://jobicy.com/jobs/161237-mid-senior-ai-cinematic-video-editor-freelance-full-remote-finland
 
