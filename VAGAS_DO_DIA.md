@@ -1,77 +1,96 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (11/11/2026)
+Segue nossa lista de vagas de hoje! (12/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Sales Development Representative**
-https://jobicy.com/jobs/161286-sales-development-representative-17
+**Enterprise Account Executive, Netherlands**
+https://jobicy.com/jobs/161643-enterprise-account-executive-netherlands-2
 
-**Manager, Sales Operations**
-https://jobicy.com/jobs/161281-manager-sales-operations
+**Staff Software Engineer (L4)**
+https://jobicy.com/jobs/161641-staff-software-engineer-l4
 
-**Senior Backend Engineer | Feeld**
-https://jobicy.com/jobs/161264-senior-backend-engineer-feeld
+**Field Intelligence Analyst (Remote, UAE)**
+https://jobicy.com/jobs/161636-field-intelligence-analyst-remote-uae
 
-**Senior GEO & SEO Specialist**
-https://jobicy.com/jobs/161260-senior-geo-seo-specialist
+**Enterprise Account Executive, Belgium**
+https://jobicy.com/jobs/161635-enterprise-account-executive-belgium
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Lemon.io: Senior Magento Developer**
-https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer
+**Forward Deployed Engineer**
+https://jobicy.com/jobs/161642-forward-deployed-engineer-10
 
---- TYPESCRIPT / JAVASCRIPT ---
+**Senior Platform Engineer**
+https://jobicy.com/jobs/161624-senior-platform-engineer-8
 
-**Knack: Cloud Engineer**
-https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1
+**Assistant Site Manager - Events (Bristol)**
+https://jobicy.com/jobs/161582-assistant-site-manager-events-bristol
+
+--- JAVA / SPRING BOOT ---
+
+**Sr. Software Engineer, Cloud Platform**
+https://jobicy.com/jobs/161585-sr-software-engineer-cloud-platform-2
+
+--- C# / .NET ---
+
+**University of the People: Adjunct Instructor - Multiple Disciplines**
+https://weworkremotely.com/remote-jobs/university-of-the-people-adjunct-instructor-multiple-disciplines
+
+**Changing Lives Productions LLC: Assistant Editor**
+https://weworkremotely.com/remote-jobs/changing-lives-productions-llc-assistant-editor
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**AI Security Engineer, Detection and Response**
-https://jobicy.com/jobs/161250-ai-security-engineer-detection-and-response
+**Senior Revenue Forecasting & Operations Business Partner**
+https://jobicy.com/jobs/161634-senior-revenue-forecasting-operations-business-partner
 
-**Platform Engineer**
-https://jobicy.com/jobs/161246-platform-engineer-3
+**JD Edwards Data & ERP Consultant**
+https://jobicy.com/jobs/161620-jd-edwards-data-erp-consultant
 
-**Security Engineer (Remote - Denmark)**
-https://jobicy.com/jobs/161233-security-engineer-remote-denmark
+**Finance & Strategy Manager**
+https://jobicy.com/jobs/161608-finance-strategy-manager
 
-**Security Engineer (Remote - Croatia)**
-https://jobicy.com/jobs/161231-security-engineer-remote-croatia
+**Senior AI Developer, Data**
+https://jobicy.com/jobs/161590-senior-ai-developer-data
 
 --- GO ---
 
-**Blockchain Intelligence Analyst, Transnational Crime Organizations**
-https://jobicy.com/jobs/161263-blockchain-intelligence-analyst-transnational-crime-organizations
+**Staff Security Operations Specialist, LeapSec**
+https://jobicy.com/jobs/161595-staff-security-operations-specialist-leapsec
 
-**Senior AI Developer, Agentic Systems**
-https://jobicy.com/jobs/161257-senior-ai-developer-agentic-systems
+**English to Hungarian Linguist for Life Sciences**
+https://jobicy.com/jobs/161587-english-to-hungarian-linguist-for-life-sciences
 
-**Global Alliance Lead, Capgemini**
-https://jobicy.com/jobs/161243-global-alliance-lead-capgemini-2
+**Director of Platform Engineering [gn] Data Intelligence Platform**
+https://jobicy.com/jobs/161581-director-of-platform-engineering-gn-data-intelligence-platform
 
-**Senior Product Manager, App o11y | UK | Remote**
-https://jobicy.com/jobs/161236-senior-product-manager-app-o11y-uk-remote
+**Account Executive - EMEA Specialist**
+https://jobicy.com/jobs/161580-account-executive-emea-specialist-2
 
 --- RUBY ON RAILS ---
 
-**Digital Success Engineer**
-https://jobicy.com/jobs/161245-digital-success-engineer
+**Senior QA Engineer**
+https://jobicy.com/jobs/161629-senior-qa-engineer-4
 
-**Security Engineer (Remote - Hungary)**
-https://jobicy.com/jobs/161229-security-engineer-remote-hungary
+**D2B: Sales Development Representative (UK B2B Outbound) - Remote**
+https://weworkremotely.com/remote-jobs/d2b-sales-development-representative-uk-b2b-outbound-remote
+
+--- BANCOS DE DADOS (SQL / NOSQL) ---
+
+**Senior Backend Engineer**
+https://jobicy.com/jobs/161588-senior-backend-engineer-15
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - Austria)**
-https://jobicy.com/jobs/161269-mid-senior-ai-cinematic-video-editor-freelance-full-remote-austria
+**Senior IT Engineer**
+https://jobicy.com/jobs/161619-senior-it-engineer
 
-**Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - Denmark)**
-https://jobicy.com/jobs/161267-mid-senior-ai-cinematic-video-editor-freelance-full-remote-denmark
+**Senior HR Business Partner**
+https://jobicy.com/jobs/161613-senior-hr-business-partner-2
 
-**Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - UK)**
-https://jobicy.com/jobs/161265-mid-senior-ai-cinematic-video-editor-freelance-full-remote-uk
+**Lead AI Engineer**
+https://jobicy.com/jobs/161586-lead-ai-engineer-2
 
-**Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - Finland)**
-https://jobicy.com/jobs/161237-mid-senior-ai-cinematic-video-editor-freelance-full-remote-finland
+**Praxis Precision Medicines, Inc.: Manager CMC Materials Management**
+https://weworkremotely.com/remote-jobs/praxis-precision-medicines-inc-manager-cmc-materials-management
 
