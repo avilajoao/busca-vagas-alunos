@@ -1,79 +1,72 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (13/11/2026)
+Segue nossa lista de vagas de hoje! (14/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Enterprise Account Executive, Americas**
-https://jobicy.com/jobs/161904-enterprise-account-executive-americas
+**Senior Data Scientist, Hardware Quality**
+https://jobicy.com/jobs/162149-senior-data-scientist-hardware-quality
 
-**Helpdesk Technician Tier 1**
-https://jobicy.com/jobs/161790-helpdesk-technician-tier-1-2
+**Manager, Technical Accounting and Equity Reporting**
+https://jobicy.com/jobs/162146-manager-technical-accounting-and-equity-reporting
 
-**Senior Cloud Engineer**
-https://www.arbeitnow.nl/jobs/companies/luscii/remote-senior-cloud-engineer-utrecht-183144
+**Director of Partnerships - Brazil**
+https://jobicy.com/jobs/162144-director-of-partnerships-brazil
 
-**Crazy Maple Studio: AI-Assisted Story Writer (1099 Contract)**
-https://weworkremotely.com/remote-jobs/crazy-maple-studio-ai-assisted-story-writer-1099-contract
+**Logistics Specialist, Fulfillment**
+https://jobicy.com/jobs/162143-logistics-specialist-fulfillment
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Global Investigator - National Security**
-https://jobicy.com/jobs/161913-global-investigator-national-security
-
---- TYPESCRIPT / JAVASCRIPT ---
-
-**Staff Platform Engineer**
-https://jobicy.com/jobs/161903-staff-platform-engineer-4
-
-**Forward Deployed Engineer**
-https://jobicy.com/jobs/161898-forward-deployed-engineer-11
-
---- C# / .NET ---
-
-**OneStream Developer - Technical Lead (Philippines)**
-https://jobicy.com/jobs/161799-onestream-developer-technical-lead-philippines
+**Senior Software Engineer, Frontend | Product Engineering**
+https://jobicy.com/jobs/162134-senior-software-engineer-frontend-product-engineering
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Senior Data Engineer, Graph Analytics**
-https://jobicy.com/jobs/161920-senior-data-engineer-graph-analytics
+**Data Analyst**
+https://jobicy.com/jobs/162172-data-analyst-3
 
-**Senior Field Engineer (Pre-Sales/Forward Deployed)**
-https://jobicy.com/jobs/161916-senior-field-engineer-pre-sales-forward-deployed
+**Senior Programmatic Trader (m/f/d)**
+https://jobicy.com/jobs/162166-senior-programmatic-trader-m-f-d
 
-**Forward Deployed Engineer**
-https://jobicy.com/jobs/161905-forward-deployed-engineer-12
+**Head of Solutions, Power Markets (West)**
+https://jobicy.com/jobs/162136-head-of-solutions-power-markets-west
+
+**Platform Engineer (FedD145)**
+https://jobicy.com/jobs/162132-platform-engineer-fedd145
 
 --- GO ---
 
-**Enterprise Account Executive - Northeast**
-https://jobicy.com/jobs/161891-enterprise-account-executive-northeast-2
+**Senior Sales Engineer - Key Accounts**
+https://jobicy.com/jobs/162150-senior-sales-engineer-key-accounts
 
-**Junior Media Specialist**
-https://jobicy.com/jobs/161793-junior-media-specialist-2
+**Senior Sales Engineer - AI Accounts**
+https://jobicy.com/jobs/162145-senior-sales-engineer-ai-accounts
 
-**Staff Security Engineer (Product & Cloud)**
-https://jobicy.com/jobs/161789-staff-security-engineer-product-cloud
+**S&O Senior Associate**
+https://jobicy.com/jobs/162129-so-senior-associate
 
-**Business Development Director (Europe) - Exeevo Lifesciences CRM**
-https://www.arbeitnow.fr/jobs/companies/valsoft-corp/remote-business-development-director-europe-exeevo-lifesciences-crm-france-208652
+**Head of Product Design**
+https://jobicy.com/jobs/162128-head-of-product-design-3
 
 --- RUBY ON RAILS ---
 
-**Network Operations Manager, Contracting**
-https://jobicy.com/jobs/161787-network-operations-manager-contracting
+**Director Cloud Architecture & Delivery**
+https://jobicy.com/jobs/162131-director-cloud-architecture-delivery
+
+**Senior Application Security Engineer**
+https://jobicy.com/jobs/162120-senior-application-security-engineer-4
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Lead Flight Controls & Software Engineer – Special Programs**
-https://jobicy.com/jobs/161923-lead-flight-controls-software-engineer-special-programs
+**Senior Sales Engineer - Majors (Central)**
+https://jobicy.com/jobs/162175-senior-sales-engineer-majors-central
 
-**Senior Director, GTM People Business Partner**
-https://jobicy.com/jobs/161896-senior-director-gtm-people-business-partner
+**Senior Sales Engineer - FED**
+https://jobicy.com/jobs/162148-senior-sales-engineer-fed
 
-**Sr. Enterprise Account Executive**
-https://jobicy.com/jobs/161890-sr-enterprise-account-executive
+**Senior Field Marketing Manager - Public Sector, Federal & Defense**
+https://jobicy.com/jobs/162142-senior-field-marketing-manager-public-sector-federal-defense
 
-**Business Development & Partnerships Manager**
-https://jobicy.com/jobs/161781-business-development-partnerships-manager
+**Lead Counsel, Commercial and Marketing, APAC and Americas**
+https://jobicy.com/jobs/162133-lead-counsel-commercial-and-marketing-apac-and-americas
 
