@@ -1,72 +1,74 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (14/11/2026)
+Segue nossa lista de vagas de hoje! (15/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Senior Data Scientist, Hardware Quality**
-https://jobicy.com/jobs/162149-senior-data-scientist-hardware-quality
+**Senior Marketing Manager**
+https://jobicy.com/jobs/162416-senior-marketing-manager-2
 
-**Manager, Technical Accounting and Equity Reporting**
-https://jobicy.com/jobs/162146-manager-technical-accounting-and-equity-reporting
+**Customer Success Architect, NEUR**
+https://jobicy.com/jobs/162409-customer-success-architect-neur
 
-**Director of Partnerships - Brazil**
-https://jobicy.com/jobs/162144-director-of-partnerships-brazil
+**Customer Success Architect, France**
+https://jobicy.com/jobs/162407-customer-success-architect-france
 
-**Logistics Specialist, Fulfillment**
-https://jobicy.com/jobs/162143-logistics-specialist-fulfillment
+**ComPsych Corporation: مستشار توجيه (Guidance Consultant)**
+https://weworkremotely.com/remote-jobs/compsych-corporation-guidance-consultant
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Senior Software Engineer, Frontend | Product Engineering**
-https://jobicy.com/jobs/162134-senior-software-engineer-frontend-product-engineering
+**Senior Site Reliability Engineer (SRE) m/f/x**
+https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-312709
+
+--- TYPESCRIPT / JAVASCRIPT ---
+
+**Director, GTM AI Engineering**
+https://jobicy.com/jobs/162392-director-gtm-ai-engineering
+
+--- VUE.JS / NUXT ---
+
+**D2B: Technical Support Engineer**
+https://weworkremotely.com/remote-jobs/d2b-technical-support-engineer
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Data Analyst**
-https://jobicy.com/jobs/162172-data-analyst-3
+**Staff Data Scientist, Pricing**
+https://jobicy.com/jobs/162414-staff-data-scientist-pricing
 
-**Senior Programmatic Trader (m/f/d)**
-https://jobicy.com/jobs/162166-senior-programmatic-trader-m-f-d
+**Senior Data Analyst, Marketing Measurement**
+https://jobicy.com/jobs/162412-senior-data-analyst-marketing-measurement
 
-**Head of Solutions, Power Markets (West)**
-https://jobicy.com/jobs/162136-head-of-solutions-power-markets-west
+**Digital Customer Success Manager, AI & Automation**
+https://jobicy.com/jobs/162390-digital-customer-success-manager-ai-automation
 
-**Platform Engineer (FedD145)**
-https://jobicy.com/jobs/162132-platform-engineer-fedd145
+**Data Engineer**
+https://jobicy.com/jobs/162389-data-engineer-6
 
 --- GO ---
 
-**Senior Sales Engineer - Key Accounts**
-https://jobicy.com/jobs/162150-senior-sales-engineer-key-accounts
+**Director, Mid-Market Sales - Canada**
+https://jobicy.com/jobs/162393-director-mid-market-sales-canada
 
-**Senior Sales Engineer - AI Accounts**
-https://jobicy.com/jobs/162145-senior-sales-engineer-ai-accounts
+**Customer Success Manager**
+https://jobicy.com/jobs/162387-customer-success-manager-60
 
-**S&O Senior Associate**
-https://jobicy.com/jobs/162129-so-senior-associate
+**Customer Success Account Manager - Digital**
+https://jobicy.com/jobs/162386-customer-success-account-manager-digital
 
-**Head of Product Design**
-https://jobicy.com/jobs/162128-head-of-product-design-3
-
---- RUBY ON RAILS ---
-
-**Director Cloud Architecture & Delivery**
-https://jobicy.com/jobs/162131-director-cloud-architecture-delivery
-
-**Senior Application Security Engineer**
-https://jobicy.com/jobs/162120-senior-application-security-engineer-4
+**Core Enterprise Account Executive TOLA**
+https://jobicy.com/jobs/162384-core-enterprise-account-executive-tola
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Senior Sales Engineer - Majors (Central)**
-https://jobicy.com/jobs/162175-senior-sales-engineer-majors-central
+**Junior Performance Marketer (Remote - Greece)**
+https://jobicy.com/jobs/162415-junior-performance-marketer-remote-greece
 
-**Senior Sales Engineer - FED**
-https://jobicy.com/jobs/162148-senior-sales-engineer-fed
+**Senior Director, Brand**
+https://jobicy.com/jobs/162413-senior-director-brand
 
-**Senior Field Marketing Manager - Public Sector, Federal & Defense**
-https://jobicy.com/jobs/162142-senior-field-marketing-manager-public-sector-federal-defense
+**Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - Brazil)**
+https://jobicy.com/jobs/162406-mid-senior-ai-cinematic-video-editor-freelance-full-remote-brazil
 
-**Lead Counsel, Commercial and Marketing, APAC and Americas**
-https://jobicy.com/jobs/162133-lead-counsel-commercial-and-marketing-apac-and-americas
+**Senior Accountant - Mexico remote**
+https://jobicy.com/jobs/162405-senior-accountant-mexico-remote
 
