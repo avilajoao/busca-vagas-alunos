@@ -1,74 +1,94 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (15/11/2026)
+Segue nossa lista de vagas de hoje! (16/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Senior Marketing Manager**
-https://jobicy.com/jobs/162416-senior-marketing-manager-2
+**Senior Systems Administrator**
+https://jobicy.com/jobs/162679-senior-systems-administrator-2
 
-**Customer Success Architect, NEUR**
-https://jobicy.com/jobs/162409-customer-success-architect-neur
+**Product Engineer (AI Driven)**
+https://jobicy.com/jobs/162678-product-engineer-ai-driven
 
-**Customer Success Architect, France**
-https://jobicy.com/jobs/162407-customer-success-architect-france
+**Senior Lifecycle Marketing Manager**
+https://jobicy.com/jobs/162676-senior-lifecycle-marketing-manager-4
 
-**ComPsych Corporation: مستشار توجيه (Guidance Consultant)**
-https://weworkremotely.com/remote-jobs/compsych-corporation-guidance-consultant
+**Risk & Controls Manager**
+https://jobicy.com/jobs/162669-risk-controls-manager
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Senior Site Reliability Engineer (SRE) m/f/x**
-https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-312709
+**Workforce Management - Real Time Analyst**
+https://jobicy.com/jobs/162672-workforce-management-real-time-analyst-2
 
---- TYPESCRIPT / JAVASCRIPT ---
+**Full Stack Senior Software Developer**
+https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/remote-full-stack-senior-software-developer-bern-25676
 
-**Director, GTM AI Engineering**
-https://jobicy.com/jobs/162392-director-gtm-ai-engineering
+**Sanctuary Computer: Head of Technology**
+https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1
 
---- VUE.JS / NUXT ---
+--- JAVA / SPRING BOOT ---
 
-**D2B: Technical Support Engineer**
-https://weworkremotely.com/remote-jobs/d2b-technical-support-engineer
+**SailPoint Identity (IIQ) Senior Developer / Engineer**
+https://www.arbeitnow.com/jobs/companies/market-cloud/sailpoint-identity-iiq-senior-developer-engineer-berlin-306604
+
+**EPAM Systems: Senior DevOps Engineer**
+https://weworkremotely.com/remote-jobs/epam-systems-senior-devops-engineer
+
+--- C# / .NET ---
+
+**Manager, Sales**
+https://jobicy.com/jobs/162655-manager-sales
+
+**Enterprise Account Director, West**
+https://jobicy.com/jobs/162649-enterprise-account-director-west
+
+**Enterprise Account Director, Agency**
+https://jobicy.com/jobs/162644-enterprise-account-director-agency
+
+**Account Director I**
+https://jobicy.com/jobs/162637-account-director-i
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Staff Data Scientist, Pricing**
-https://jobicy.com/jobs/162414-staff-data-scientist-pricing
+**Applied AI Data Scientist (Brazil)**
+https://jobicy.com/jobs/162673-applied-ai-data-scientist-brazil
 
-**Senior Data Analyst, Marketing Measurement**
-https://jobicy.com/jobs/162412-senior-data-analyst-marketing-measurement
+**Operations Specialist - Remote (MX, BR or AR)**
+https://jobicy.com/jobs/162668-operations-specialist-remote-mx-br-or-ar
 
-**Digital Customer Success Manager, AI & Automation**
-https://jobicy.com/jobs/162390-digital-customer-success-manager-ai-automation
+**Technical Implementation Manager**
+https://jobicy.com/jobs/162624-technical-implementation-manager
 
-**Data Engineer**
-https://jobicy.com/jobs/162389-data-engineer-6
+**Bloomreach: Staff DevOps Engineer**
+https://weworkremotely.com/remote-jobs/bloomreach-staff-devops-engineer
 
 --- GO ---
 
-**Director, Mid-Market Sales - Canada**
-https://jobicy.com/jobs/162393-director-mid-market-sales-canada
+**Freelance Executive Producer**
+https://jobicy.com/jobs/162645-freelance-executive-producer
 
-**Customer Success Manager**
-https://jobicy.com/jobs/162387-customer-success-manager-60
+**Associate General Counsel, Commercial**
+https://jobicy.com/jobs/162620-associate-general-counsel-commercial
 
-**Customer Success Account Manager - Digital**
-https://jobicy.com/jobs/162386-customer-success-account-manager-digital
+**CapsLock: Creative Marketing Project Coordinator**
+https://weworkremotely.com/remote-jobs/capslock-creative-marketing-project-coordinator-1
 
-**Core Enterprise Account Executive TOLA**
-https://jobicy.com/jobs/162384-core-enterprise-account-executive-tola
+**Airlock Digital: Channel Account Manager**
+https://weworkremotely.com/remote-jobs/airlock-digital-channel-account-manager
+
+--- RUBY ON RAILS ---
+
+**CoinStats: Social Media Manager for X**
+https://weworkremotely.com/remote-jobs/coinstats-social-media-manager-for-x
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Junior Performance Marketer (Remote - Greece)**
-https://jobicy.com/jobs/162415-junior-performance-marketer-remote-greece
+**Field CISO**
+https://jobicy.com/jobs/162652-field-ciso
 
-**Senior Director, Brand**
-https://jobicy.com/jobs/162413-senior-director-brand
+**Enterprise Sales Engineer - Bay Area**
+https://jobicy.com/jobs/162628-enterprise-sales-engineer-bay-area
 
-**Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - Brazil)**
-https://jobicy.com/jobs/162406-mid-senior-ai-cinematic-video-editor-freelance-full-remote-brazil
-
-**Senior Accountant - Mexico remote**
-https://jobicy.com/jobs/162405-senior-accountant-mexico-remote
+**Security Compliance Analyst**
+https://jobicy.com/jobs/162619-security-compliance-analyst
 
