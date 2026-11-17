@@ -1,94 +1,87 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (16/11/2026)
+Segue nossa lista de vagas de hoje! (17/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Senior Systems Administrator**
-https://jobicy.com/jobs/162679-senior-systems-administrator-2
+**Senior Fullstack Engineer**
+https://jobicy.com/jobs/162989-senior-fullstack-engineer-5
 
-**Product Engineer (AI Driven)**
-https://jobicy.com/jobs/162678-product-engineer-ai-driven
+**Associate Director, Program Management**
+https://jobicy.com/jobs/162978-associate-director-program-management
 
-**Senior Lifecycle Marketing Manager**
-https://jobicy.com/jobs/162676-senior-lifecycle-marketing-manager-4
+**Associate Director / Director of Product Management, Signatera Hematologic Oncology (Heme)**
+https://jobicy.com/jobs/162975-associate-director-director-of-product-management-signatera-hematologic-oncology-heme
 
-**Risk & Controls Manager**
-https://jobicy.com/jobs/162669-risk-controls-manager
+**Associate Director, Clinical Science**
+https://jobicy.com/jobs/162971-associate-director-clinical-science
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Workforce Management - Real Time Analyst**
-https://jobicy.com/jobs/162672-workforce-management-real-time-analyst-2
+**Director, Global People Analytics**
+https://jobicy.com/jobs/162961-director-global-people-analytics
 
-**Full Stack Senior Software Developer**
-https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/remote-full-stack-senior-software-developer-bern-25676
+**Software Engineer II (Frontend)**
+https://jobicy.com/jobs/162945-software-engineer-ii-frontend
 
-**Sanctuary Computer: Head of Technology**
-https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1
+--- TYPESCRIPT / JAVASCRIPT ---
+
+**Platform Engineer - Compute**
+https://jobicy.com/jobs/162979-platform-engineer-compute
 
 --- JAVA / SPRING BOOT ---
 
-**SailPoint Identity (IIQ) Senior Developer / Engineer**
-https://www.arbeitnow.com/jobs/companies/market-cloud/sailpoint-identity-iiq-senior-developer-engineer-berlin-306604
-
-**EPAM Systems: Senior DevOps Engineer**
-https://weworkremotely.com/remote-jobs/epam-systems-senior-devops-engineer
+**Principal Software Engineer, Infrastructure**
+https://jobicy.com/jobs/162977-principal-software-engineer-infrastructure
 
 --- C# / .NET ---
 
-**Manager, Sales**
-https://jobicy.com/jobs/162655-manager-sales
+**Your new Job: IT-Consultant Input Management - Digitalisation (w/d/m)**
+https://www.arbeitnow.com/jobs/companies/prime-force-group/your-new-job-it-consultant-input-management-digitalisation-rheinhausen-433982
 
-**Enterprise Account Director, West**
-https://jobicy.com/jobs/162649-enterprise-account-director-west
-
-**Enterprise Account Director, Agency**
-https://jobicy.com/jobs/162644-enterprise-account-director-agency
-
-**Account Director I**
-https://jobicy.com/jobs/162637-account-director-i
+**Careerflow.ai: Code Reviewer - C++/C# (LATAM)**
+https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-c-c-latam
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Applied AI Data Scientist (Brazil)**
-https://jobicy.com/jobs/162673-applied-ai-data-scientist-brazil
+**Staff Machine Learning Engineer, Ads Foundational Representations**
+https://jobicy.com/jobs/162990-staff-machine-learning-engineer-ads-foundational-representations-2
 
-**Operations Specialist - Remote (MX, BR or AR)**
-https://jobicy.com/jobs/162668-operations-specialist-remote-mx-br-or-ar
+**Engineering Manager, Ranking Platform**
+https://jobicy.com/jobs/162970-engineering-manager-ranking-platform
 
-**Technical Implementation Manager**
-https://jobicy.com/jobs/162624-technical-implementation-manager
+**Senior Security Engineer**
+https://jobicy.com/jobs/162952-senior-security-engineer-5
 
-**Bloomreach: Staff DevOps Engineer**
-https://weworkremotely.com/remote-jobs/bloomreach-staff-devops-engineer
+**Turing Enterprise Inc.: Remote Quantitative Finance Analyst**
+https://weworkremotely.com/remote-jobs/turing-enterprise-inc-remote-quantitative-finance-analyst
 
 --- GO ---
 
-**Freelance Executive Producer**
-https://jobicy.com/jobs/162645-freelance-executive-producer
+**Lead Solutions Engineer**
+https://jobicy.com/jobs/162986-lead-solutions-engineer-3
 
-**Associate General Counsel, Commercial**
-https://jobicy.com/jobs/162620-associate-general-counsel-commercial
+**WorkMotion: Junior AE Benelux**
+https://weworkremotely.com/remote-jobs/workmotion-junior-ae-benelux
 
-**CapsLock: Creative Marketing Project Coordinator**
-https://weworkremotely.com/remote-jobs/capslock-creative-marketing-project-coordinator-1
+**Careerflow.ai: Code Reviewer - Golang**
+https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-golang
 
-**Airlock Digital: Channel Account Manager**
-https://weworkremotely.com/remote-jobs/airlock-digital-channel-account-manager
+--- BANCOS DE DADOS (SQL / NOSQL) ---
 
---- RUBY ON RAILS ---
-
-**CoinStats: Social Media Manager for X**
-https://weworkremotely.com/remote-jobs/coinstats-social-media-manager-for-x
+**Dev Experiences and Community Lead (SF)**
+https://jobicy.com/jobs/162976-dev-experiences-and-community-lead-sf
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Field CISO**
-https://jobicy.com/jobs/162652-field-ciso
+**Strategic Finance Manager**
+https://jobicy.com/jobs/162969-strategic-finance-manager-3
 
-**Enterprise Sales Engineer - Bay Area**
-https://jobicy.com/jobs/162628-enterprise-sales-engineer-bay-area
+**Director, Channel**
+https://jobicy.com/jobs/162944-director-channel
 
-**Security Compliance Analyst**
-https://jobicy.com/jobs/162619-security-compliance-analyst
+**Mid/Senior AI Cinematic Video Editor (Freelance - Remote - Italy)**
+https://jobicy.com/jobs/162833-mid-senior-ai-cinematic-video-editor-freelance-remote-italy
+
+**Mid/Senior AI Cinematic Video Editor (Freelance - Remote - Netherlands)**
+https://jobicy.com/jobs/162831-mid-senior-ai-cinematic-video-editor-freelance-remote-netherlands
 
