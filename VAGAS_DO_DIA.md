@@ -1,87 +1,92 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (17/11/2026)
+Segue nossa lista de vagas de hoje! (18/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Senior Fullstack Engineer**
-https://jobicy.com/jobs/162989-senior-fullstack-engineer-5
+**Account Executive - Majors**
+https://jobicy.com/jobs/163154-account-executive-majors-2
 
-**Associate Director, Program Management**
-https://jobicy.com/jobs/162978-associate-director-program-management
+**Account Executive**
+https://jobicy.com/jobs/163146-account-executive-39
 
-**Associate Director / Director of Product Management, Signatera Hematologic Oncology (Heme)**
-https://jobicy.com/jobs/162975-associate-director-director-of-product-management-signatera-hematologic-oncology-heme
+**Senior Manager, Sales Development**
+https://jobicy.com/jobs/163145-senior-manager-sales-development-2
 
-**Associate Director, Clinical Science**
-https://jobicy.com/jobs/162971-associate-director-clinical-science
+**Senior Deal Desk Manager**
+https://jobicy.com/jobs/163140-senior-deal-desk-manager
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Director, Global People Analytics**
-https://jobicy.com/jobs/162961-director-global-people-analytics
+**Full Stack Engineer**
+https://jobicy.com/jobs/163116-full-stack-engineer-10
 
-**Software Engineer II (Frontend)**
-https://jobicy.com/jobs/162945-software-engineer-ii-frontend
+**Senior Design Engineer**
+https://jobicy.com/jobs/163111-senior-design-engineer-2
+
+**Cato Networks: NOC Engineer**
+https://weworkremotely.com/remote-jobs/cato-networks-noc-engineer
+
+**G-P: Software Engineer II**
+https://weworkremotely.com/remote-jobs/g-p-software-engineer-ii
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Platform Engineer - Compute**
-https://jobicy.com/jobs/162979-platform-engineer-compute
+**Senior Manager, Application Security**
+https://jobicy.com/jobs/163118-senior-manager-application-security
+
+**Elvoro: AI Creative Engineer (Social Media)**
+https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media
 
 --- JAVA / SPRING BOOT ---
 
-**Principal Software Engineer, Infrastructure**
-https://jobicy.com/jobs/162977-principal-software-engineer-infrastructure
+**Senior Sales Engineer, Enterprise, German Speaking**
+https://jobicy.com/jobs/163120-senior-sales-engineer-enterprise-german-speaking-3
 
---- C# / .NET ---
+**Principal Software Engineer, Data Lakes**
+https://jobicy.com/jobs/163114-principal-software-engineer-data-lakes-2
 
-**Your new Job: IT-Consultant Input Management - Digitalisation (w/d/m)**
-https://www.arbeitnow.com/jobs/companies/prime-force-group/your-new-job-it-consultant-input-management-digitalisation-rheinhausen-433982
-
-**Careerflow.ai: Code Reviewer - C++/C# (LATAM)**
-https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-c-c-latam
+**Databricks: Solutions Architect**
+https://weworkremotely.com/remote-jobs/databricks-solutions-architect
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Staff Machine Learning Engineer, Ads Foundational Representations**
-https://jobicy.com/jobs/162990-staff-machine-learning-engineer-ads-foundational-representations-2
+**Service Desk Engineer**
+https://jobicy.com/jobs/163152-service-desk-engineer
 
-**Engineering Manager, Ranking Platform**
-https://jobicy.com/jobs/162970-engineering-manager-ranking-platform
+**Senior Service Desk Engineer**
+https://jobicy.com/jobs/163150-senior-service-desk-engineer
 
-**Senior Security Engineer**
-https://jobicy.com/jobs/162952-senior-security-engineer-5
+**Applied AI Engineer - AI Finance Agent**
+https://jobicy.com/jobs/163127-applied-ai-engineer-ai-finance-agent
 
-**Turing Enterprise Inc.: Remote Quantitative Finance Analyst**
-https://weworkremotely.com/remote-jobs/turing-enterprise-inc-remote-quantitative-finance-analyst
+**Marketplace Operations**
+https://jobicy.com/jobs/163102-marketplace-operations
 
 --- GO ---
 
-**Lead Solutions Engineer**
-https://jobicy.com/jobs/162986-lead-solutions-engineer-3
+**Business Recruiter - International Sales (UK/EMEA)**
+https://jobicy.com/jobs/163115-business-recruiter-international-sales-uk-emea
 
-**WorkMotion: Junior AE Benelux**
-https://weworkremotely.com/remote-jobs/workmotion-junior-ae-benelux
+**Manager, Solutions Engineering | NorBen | Remote**
+https://jobicy.com/jobs/163110-manager-solutions-engineering-norben-remote-2
 
-**Careerflow.ai: Code Reviewer - Golang**
-https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-golang
+**Product Lead - AI Investing**
+https://jobicy.com/jobs/163108-product-lead-ai-investing
 
---- BANCOS DE DADOS (SQL / NOSQL) ---
-
-**Dev Experiences and Community Lead (SF)**
-https://jobicy.com/jobs/162976-dev-experiences-and-community-lead-sf
+**Account Director, Private Sector (MEA & Turkey)**
+https://jobicy.com/jobs/163107-account-director-private-sector-mea-turkey
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Strategic Finance Manager**
-https://jobicy.com/jobs/162969-strategic-finance-manager-3
+**Sales Development Representative**
+https://jobicy.com/jobs/163132-sales-development-representative-20
 
-**Director, Channel**
-https://jobicy.com/jobs/162944-director-channel
+**Employee Relations Advisor**
+https://jobicy.com/jobs/163112-employee-relations-advisor
 
-**Mid/Senior AI Cinematic Video Editor (Freelance - Remote - Italy)**
-https://jobicy.com/jobs/162833-mid-senior-ai-cinematic-video-editor-freelance-remote-italy
+**Fivetran Reseller Partner Development Manager, EMEA**
+https://jobicy.com/jobs/163105-fivetran-reseller-partner-development-manager-emea
 
-**Mid/Senior AI Cinematic Video Editor (Freelance - Remote - Netherlands)**
-https://jobicy.com/jobs/162831-mid-senior-ai-cinematic-video-editor-freelance-remote-netherlands
+**Cloud Native Architect, Strategic Accounts (EMEA)**
+https://www.arbeitnow.nl/jobs/companies/purestorage/remote-cloud-native-architect-strategic-accounts-emea-33240
 
