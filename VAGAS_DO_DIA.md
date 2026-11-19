@@ -1,92 +1,111 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (18/11/2026)
+Segue nossa lista de vagas de hoje! (19/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Account Executive - Majors**
-https://jobicy.com/jobs/163154-account-executive-majors-2
+**Staff Software Engineer - Backend**
+https://jobicy.com/jobs/163332-staff-software-engineer-backend-2
 
-**Account Executive**
-https://jobicy.com/jobs/163146-account-executive-39
+**Senior Manager, Strategic Accounts Asia**
+https://jobicy.com/jobs/163301-senior-manager-strategic-accounts-asia
 
-**Senior Manager, Sales Development**
-https://jobicy.com/jobs/163145-senior-manager-sales-development-2
+**Senior Account Executive**
+https://jobicy.com/jobs/163299-senior-account-executive-17
 
-**Senior Deal Desk Manager**
-https://jobicy.com/jobs/163140-senior-deal-desk-manager
+**Strategic Enterprise Account Executive (Sydney or Melbourne)**
+https://jobicy.com/jobs/163288-strategic-enterprise-account-executive-sydney-or-melbourne
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Full Stack Engineer**
-https://jobicy.com/jobs/163116-full-stack-engineer-10
+**Lemon.io: Senior React Full-stack Developer**
+https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8
 
-**Senior Design Engineer**
-https://jobicy.com/jobs/163111-senior-design-engineer-2
+**CircleCI: Senior Software Engineer, Query**
+https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer-query
 
-**Cato Networks: NOC Engineer**
-https://weworkremotely.com/remote-jobs/cato-networks-noc-engineer
-
-**G-P: Software Engineer II**
-https://weworkremotely.com/remote-jobs/g-p-software-engineer-ii
+**Netlify: Staff Software Engineer (Interfaces)**
+https://weworkremotely.com/remote-jobs/netlify-staff-software-engineer-interfaces
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Senior Manager, Application Security**
-https://jobicy.com/jobs/163118-senior-manager-application-security
+**Flexport: Security Engineer, Product Security**
+https://weworkremotely.com/remote-jobs/flexport-security-engineer-product-security
 
-**Elvoro: AI Creative Engineer (Social Media)**
-https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media
+**Veracode: Performance Test Engineer**
+https://weworkremotely.com/remote-jobs/veracode-performance-test-engineer
 
 --- JAVA / SPRING BOOT ---
 
-**Senior Sales Engineer, Enterprise, German Speaking**
-https://jobicy.com/jobs/163120-senior-sales-engineer-enterprise-german-speaking-3
-
 **Principal Software Engineer, Data Lakes**
-https://jobicy.com/jobs/163114-principal-software-engineer-data-lakes-2
+https://www.arbeitnow.com/jobs/companies/fivetran/remote-principal-software-engineer-data-lakes-26266
 
-**Databricks: Solutions Architect**
-https://weworkremotely.com/remote-jobs/databricks-solutions-architect
+--- C# / .NET ---
+
+**1192 - Sr. BIM Software Developer**
+https://jobicy.com/jobs/163256-1192-sr-bim-software-developer
+
+**Sr. Global Compensation Analyst,**
+https://jobicy.com/jobs/163243-sr-global-compensation-analyst
+
+**Keycafe: Sales Development Representative - SaaS/IoT Sales, UK & Europe**
+https://weworkremotely.com/remote-jobs/keycafe-sales-development-representative-saas-iot-sales-uk-europe
+
+**Go1 Australia: Finance Systems Engineer**
+https://weworkremotely.com/remote-jobs/go1-australia-finance-systems-engineer
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Service Desk Engineer**
-https://jobicy.com/jobs/163152-service-desk-engineer
+**Chemical Data Scientist**
+https://jobicy.com/jobs/163333-chemical-data-scientist
 
-**Senior Service Desk Engineer**
-https://jobicy.com/jobs/163150-senior-service-desk-engineer
+**Senior Software Engineer**
+https://jobicy.com/jobs/163303-senior-software-engineer-26
 
-**Applied AI Engineer - AI Finance Agent**
-https://jobicy.com/jobs/163127-applied-ai-engineer-ai-finance-agent
+**LaunchDarkly: Director, Internal AI Operations**
+https://weworkremotely.com/remote-jobs/launchdarkly-director-internal-ai-operations
 
-**Marketplace Operations**
-https://jobicy.com/jobs/163102-marketplace-operations
+**Flexport: Security Engineer, Corporate Security**
+https://weworkremotely.com/remote-jobs/flexport-security-engineer-corporate-security
 
 --- GO ---
 
-**Business Recruiter - International Sales (UK/EMEA)**
-https://jobicy.com/jobs/163115-business-recruiter-international-sales-uk-emea
+**Regional Sales Manager**
+https://jobicy.com/jobs/163280-regional-sales-manager-3
 
-**Manager, Solutions Engineering | NorBen | Remote**
-https://jobicy.com/jobs/163110-manager-solutions-engineering-norben-remote-2
+**Senior Tax Manager**
+https://jobicy.com/jobs/163279-senior-tax-manager-2
 
-**Product Lead - AI Investing**
-https://jobicy.com/jobs/163108-product-lead-ai-investing
+**Director, Sales**
+https://jobicy.com/jobs/163276-director-sales
 
-**Account Director, Private Sector (MEA & Turkey)**
-https://jobicy.com/jobs/163107-account-director-private-sector-mea-turkey
+**Senior Staff Engineer - Stablecoin**
+https://jobicy.com/jobs/163274-senior-staff-engineer-stablecoin
+
+--- RUBY ON RAILS ---
+
+**Unify Dots: Power BI Technical Consultant**
+https://weworkremotely.com/remote-jobs/unify-dots-power-bi-technical-consultant
+
+**Armada: AI Factory Customer Engineer**
+https://weworkremotely.com/remote-jobs/armada-ai-factory-customer-engineer
+
+**ChargePoint: PLM Analyst**
+https://weworkremotely.com/remote-jobs/chargepoint-plm-analyst
+
+**Databricks: Enterprise Account Executive - Financial Services**
+https://weworkremotely.com/remote-jobs/databricks-enterprise-account-executive-financial-services
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Sales Development Representative**
-https://jobicy.com/jobs/163132-sales-development-representative-20
+**Coordinator, Legal Support (Part-Time)**
+https://jobicy.com/jobs/163283-coordinator-legal-support-part-time
 
-**Employee Relations Advisor**
-https://jobicy.com/jobs/163112-employee-relations-advisor
+**Senior/Staff Site Reliability Engineer (Server Infrastructure)**
+https://jobicy.com/jobs/163266-senior-staff-site-reliability-engineer-server-infrastructure
 
-**Fivetran Reseller Partner Development Manager, EMEA**
-https://jobicy.com/jobs/163105-fivetran-reseller-partner-development-manager-emea
+**Senior Site Reliability Engineer (Data Platform)**
+https://jobicy.com/jobs/163263-senior-site-reliability-engineer-data-platform
 
-**Cloud Native Architect, Strategic Accounts (EMEA)**
-https://www.arbeitnow.nl/jobs/companies/purestorage/remote-cloud-native-architect-strategic-accounts-emea-33240
+**Everpure: Cloud Native Architect, Strategic Accounts (EMEA)**
+https://weworkremotely.com/remote-jobs/everpure-cloud-native-architect-strategic-accounts-emea
 
