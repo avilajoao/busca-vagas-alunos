@@ -1,117 +1,105 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (20/11/2026)
+Segue nossa lista de vagas de hoje! (21/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Enterprise Account Executive, NYC**
-https://jobicy.com/jobs/163557-enterprise-account-executive-nyc-2
+**Engineering Manager - Grafana Infrastructure (Remote, Ireland)**
+https://jobicy.com/jobs/163682-engineering-manager-grafana-infrastructure-remote-ireland
 
-**Mid-Enterprise Account Executive, Ohio Valley**
-https://jobicy.com/jobs/163553-mid-enterprise-account-executive-ohio-valley
+**Sales Manager, Mid-Market - EMEA**
+https://jobicy.com/jobs/163681-sales-manager-mid-market-emea-2
 
-**Senior Back End Engineer**
-https://jobicy.com/jobs/163548-senior-back-end-engineer-2
+**Director, Sales Talent Acquisition | United Kingdom | Remote**
+https://jobicy.com/jobs/163679-director-sales-talent-acquisition-united-kingdom-remote
 
-**Sr. Clinical Research Associate (Australia)**
-https://jobicy.com/jobs/163532-sr-clinical-research-associate-australia
+**Senior Technical Project Manager - VPC**
+https://jobicy.com/jobs/163676-senior-technical-project-manager-vpc-2
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Growth & Campaign Manager - SEA**
-https://jobicy.com/jobs/163544-growth-campaign-manager-sea
+**Head of Product Success (North America, GTM)**
+https://jobicy.com/jobs/163644-head-of-product-success-north-america-gtm
 
-**Android Engineer (APAC Remote)**
-https://jobicy.com/jobs/163534-android-engineer-apac-remote
+**1226 | Front-end Developer**
+https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1226-front-end-developer-germany-84712
 
-**Sr. Manager of IT & Operations**
-https://jobicy.com/jobs/163493-sr-manager-of-it-operations
-
-**CircleCI: Staff Software Engineer**
-https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer
-
---- TYPESCRIPT / JAVASCRIPT ---
-
-**Cribl: Staff Software Engineer, Search Core**
-https://weworkremotely.com/remote-jobs/cribl-staff-software-engineer-search-core
-
-**Teamified: Senior Software Engineer**
-https://weworkremotely.com/remote-jobs/teamified-senior-software-engineer
+**Wrike: Senior Product Builder - Talent Pool**
+https://weworkremotely.com/remote-jobs/wrike-senior-product-builder-talent-pool
 
 --- JAVA / SPRING BOOT ---
 
-**Machine Learning Engineer**
-https://jobicy.com/jobs/163552-machine-learning-engineer-9
+**Backend Engineer, Core Technology**
+https://jobicy.com/jobs/163653-backend-engineer-core-technology-2
 
-**Coderio: Sr AWS Cloud Integration Engineer - Remote**
-https://weworkremotely.com/remote-jobs/coderio-sr-aws-cloud-integration-engineer-remote
+**Senior Software Engineer (AMS)**
+https://jobicy.com/jobs/163651-senior-software-engineer-ams
+
+**1227 | Back-end Developer**
+https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1227-back-end-developer-germany-388586
 
 --- C# / .NET ---
 
-**Siemens: Global Deal Enablement Architect**
-https://weworkremotely.com/remote-jobs/siemens-global-deal-enablement-architect
-
-**Databricks: Strategic Core Account Executive - Telco**
-https://weworkremotely.com/remote-jobs/databricks-strategic-core-account-executive-telco
-
-**GitLab: Strategic Account Executive -  San Francisco**
-https://weworkremotely.com/remote-jobs/gitlab-strategic-account-executive-san-francisco
-
-**6sense: Sr. Customer Success Manager - Upmarket**
-https://weworkremotely.com/remote-jobs/6sense-sr-customer-success-manager-upmarket
+**Global Dimensions, LLC: Part-Time HUBZone Business Operations & Support Specialist**
+https://weworkremotely.com/remote-jobs/global-dimensions-llc-part-time-hubzone-business-operations-support-specialist
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Lead Machine Learning Scientist, Customer Operations**
-https://jobicy.com/jobs/163520-lead-machine-learning-scientist-customer-operations-2
+**Principal Manager, ML Solutions Architecture - Token Factory**
+https://jobicy.com/jobs/163638-principal-manager-ml-solutions-architecture-token-factory
 
-**Senior AI Engineer**
-https://jobicy.com/jobs/163488-senior-ai-engineer-11
+**ML Infrastructure Engineer**
+https://jobicy.com/jobs/163637-ml-infrastructure-engineer-2
 
-**Forter: Senior Solutions Consultant**
-https://weworkremotely.com/remote-jobs/forter-senior-solutions-consultant
+**Application Integration Developer**
+https://jobicy.com/jobs/163631-application-integration-developer-2
 
-**Storyblok: Senior DevOps Engineer II - Europe, Brazil**
-https://weworkremotely.com/remote-jobs/storyblok-senior-devops-engineer-ii-europe-brazil
+**Principal Enterprise Architect - AI & Cloud Integrations**
+https://www.arbeitnow.nl/jobs/companies/celonis/remote-principal-enterprise-architect-ai-cloud-integrations-162065
 
 --- GO ---
 
-**New Business Account Executive - Nordics**
-https://jobicy.com/jobs/163526-new-business-account-executive-nordics
+**Senior Account Executive I (General Manager/Influencer, DI, North America)**
+https://jobicy.com/jobs/163647-senior-account-executive-i-general-manager-influencer-di-north-america
 
-**Principal Customer Success Manager**
-https://jobicy.com/jobs/163511-principal-customer-success-manager
+**Senior System Engineer (Virtual Private Cloud Team)**
+https://jobicy.com/jobs/163639-senior-system-engineer-virtual-private-cloud-team-2
 
-**Copywriter**
-https://jobicy.com/jobs/163495-copywriter
+**VP, Mozilla Studio**
+https://jobicy.com/jobs/163636-vp-mozilla-studio-2
 
-**New Business Account Executive - Nordics**
-https://www.arbeitnow.nl/jobs/companies/gitlab/remote-new-business-account-executive-nordics-119212
+**Technical Account Manager**
+https://jobicy.com/jobs/163630-technical-account-manager-14
 
 --- RUBY ON RAILS ---
 
-**Outbound Sales Development Representative**
-https://jobicy.com/jobs/163555-outbound-sales-development-representative-2
+**ZoomInfo Technologies LLC: FinOps Engineer III**
+https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-finops-engineer-iii
 
-**Account Executive, SMB**
-https://jobicy.com/jobs/163546-account-executive-smb-4
+**Affirm: Accounting Manager**
+https://weworkremotely.com/remote-jobs/affirm-accounting-manager
 
-**Senior Product Manager (Prediction Markets)**
-https://jobicy.com/jobs/163507-senior-product-manager-prediction-markets
+**Twilio: Commercial Finance Manager, Carrier Relations**
+https://weworkremotely.com/remote-jobs/twilio-commercial-finance-manager-carrier-relations
 
-**Resolv.Global: Bilingual Customer Support Specialist (English/French-Canadian)**
-https://weworkremotely.com/remote-jobs/resolv-global-bilingual-customer-support-specialist-english-french-canadian
+**Ledgy: Head of Design**
+https://weworkremotely.com/remote-jobs/ledgy-head-of-design
+
+--- BANCOS DE DADOS (SQL / NOSQL) ---
+
+**Sr. Technical Program Manager**
+https://jobicy.com/jobs/163628-sr-technical-program-manager
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Head of Internal Communications**
-https://jobicy.com/jobs/163504-head-of-internal-communications
+**Customer Success Manager**
+https://jobicy.com/jobs/163672-customer-success-manager-64
 
-**UX Researcher**
-https://jobicy.com/jobs/163501-ux-researcher-3
+**Senior Technical Project Manager (Base Infra)**
+https://jobicy.com/jobs/163640-senior-technical-project-manager-base-infra
 
-**Recruiting Coordinator (Contract)**
-https://jobicy.com/jobs/163490-recruiting-coordinator-contract-2
+**Okta: Regional Sales Manager (Bay Area)**
+https://weworkremotely.com/remote-jobs/okta-regional-sales-manager-bay-area
 
-**Siemens: Associate Energy Engineer**
-https://weworkremotely.com/remote-jobs/siemens-associate-energy-engineer
+**Okta: Enterprise Account Executive, West**
+https://weworkremotely.com/remote-jobs/okta-enterprise-account-executive-west
 
