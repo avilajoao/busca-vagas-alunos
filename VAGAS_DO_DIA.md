@@ -1,105 +1,119 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (21/11/2026)
+Segue nossa lista de vagas de hoje! (22/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Engineering Manager - Grafana Infrastructure (Remote, Ireland)**
-https://jobicy.com/jobs/163682-engineering-manager-grafana-infrastructure-remote-ireland
+**Senior Customer Success - EMEA**
+https://jobicy.com/jobs/163849-senior-customer-success-emea
 
-**Sales Manager, Mid-Market - EMEA**
-https://jobicy.com/jobs/163681-sales-manager-mid-market-emea-2
+**Commercial Account Executive, Belgium**
+https://jobicy.com/jobs/163847-commercial-account-executive-belgium
 
-**Director, Sales Talent Acquisition | United Kingdom | Remote**
-https://jobicy.com/jobs/163679-director-sales-talent-acquisition-united-kingdom-remote
+**Senior SecOps Engineer**
+https://jobicy.com/jobs/163834-senior-secops-engineer-2
 
-**Senior Technical Project Manager - VPC**
-https://jobicy.com/jobs/163676-senior-technical-project-manager-vpc-2
+**Lead Creative**
+https://jobicy.com/jobs/163833-lead-creative
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Head of Product Success (North America, GTM)**
-https://jobicy.com/jobs/163644-head-of-product-success-north-america-gtm
+**Advanced Support Specialist - Payments, Thailand**
+https://jobicy.com/jobs/163793-advanced-support-specialist-payments-thailand
 
-**1226 | Front-end Developer**
-https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1226-front-end-developer-germany-84712
+**Glean: Designated Technical Support Engineer - West**
+https://weworkremotely.com/remote-jobs/glean-designated-technical-support-engineer-west
 
-**Wrike: Senior Product Builder - Talent Pool**
-https://weworkremotely.com/remote-jobs/wrike-senior-product-builder-talent-pool
+**Glean: Designated Technical Support Engineer - Central/East**
+https://weworkremotely.com/remote-jobs/glean-designated-technical-support-engineer-central-east
+
+**MetaMask: Senior Design Engineer**
+https://weworkremotely.com/remote-jobs/metamask-senior-design-engineer
+
+--- TYPESCRIPT / JAVASCRIPT ---
+
+**Principal Security Operations Analyst**
+https://jobicy.com/jobs/163845-principal-security-operations-analyst
+
+**Carrot: Manager, Product Design**
+https://weworkremotely.com/remote-jobs/carrot-manager-product-design
+
+**Smartsheet: Software Engineer  (Remote Eligible in Bulgaria)**
+https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-remote-eligible-in-bulgaria
 
 --- JAVA / SPRING BOOT ---
 
-**Backend Engineer, Core Technology**
-https://jobicy.com/jobs/163653-backend-engineer-core-technology-2
+**Software Engineer (Remote - Contractor)**
+https://jobicy.com/jobs/163811-software-engineer-remote-contractor-2
 
-**Senior Software Engineer (AMS)**
-https://jobicy.com/jobs/163651-senior-software-engineer-ams
+**Upgrade: Senior QA Automation Engineer - HELOC (LATAM)**
+https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-heloc-latam
 
-**1227 | Back-end Developer**
-https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1227-back-end-developer-germany-388586
+**Gemini: Senior Platform Engineer**
+https://weworkremotely.com/remote-jobs/gemini-senior-platform-engineer
 
 --- C# / .NET ---
 
-**Global Dimensions, LLC: Part-Time HUBZone Business Operations & Support Specialist**
-https://weworkremotely.com/remote-jobs/global-dimensions-llc-part-time-hubzone-business-operations-support-specialist
+**Carrot: Corporate Counsel, Commercial**
+https://weworkremotely.com/remote-jobs/carrot-corporate-counsel-commercial
+
+**Taste Labs: Operations Manager, Community**
+https://weworkremotely.com/remote-jobs/taste-labs-operations-manager-community
+
+**Resolv.Global: Remote Customer Support Specialist**
+https://weworkremotely.com/remote-jobs/resolv-global-remote-customer-support-specialist
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Principal Manager, ML Solutions Architecture - Token Factory**
-https://jobicy.com/jobs/163638-principal-manager-ml-solutions-architecture-token-factory
+**Actuary, UK**
+https://jobicy.com/jobs/163842-actuary-uk
 
-**ML Infrastructure Engineer**
-https://jobicy.com/jobs/163637-ml-infrastructure-engineer-2
+**Tech Lead**
+https://jobicy.com/jobs/163838-tech-lead-3
 
-**Application Integration Developer**
-https://jobicy.com/jobs/163631-application-integration-developer-2
+**Senior Legal Operations Executive (fully remote!)**
+https://jobicy.com/jobs/163810-senior-legal-operations-executive-fully-remote
 
-**Principal Enterprise Architect - AI & Cloud Integrations**
-https://www.arbeitnow.nl/jobs/companies/celonis/remote-principal-enterprise-architect-ai-cloud-integrations-162065
+**Customer Success Producer (South Korea)**
+https://jobicy.com/jobs/163809-customer-success-producer-south-korea
 
 --- GO ---
 
-**Senior Account Executive I (General Manager/Influencer, DI, North America)**
-https://jobicy.com/jobs/163647-senior-account-executive-i-general-manager-influencer-di-north-america
+**Lead Instructor, EMEA**
+https://jobicy.com/jobs/163841-lead-instructor-emea
 
-**Senior System Engineer (Virtual Private Cloud Team)**
-https://jobicy.com/jobs/163639-senior-system-engineer-virtual-private-cloud-team-2
+**Staff Infrastructure Engineer | Feeld**
+https://jobicy.com/jobs/163821-staff-infrastructure-engineer-feeld
 
-**VP, Mozilla Studio**
-https://jobicy.com/jobs/163636-vp-mozilla-studio-2
+**Regional Sales Director, Singapore**
+https://jobicy.com/jobs/163800-regional-sales-director-singapore-2
 
-**Technical Account Manager**
-https://jobicy.com/jobs/163630-technical-account-manager-14
+**English to Belarusian Review Lead for UI, Marketing & Product Content**
+https://jobicy.com/jobs/163798-english-to-belarusian-review-lead-for-ui-marketing-product-content
 
 --- RUBY ON RAILS ---
 
-**ZoomInfo Technologies LLC: FinOps Engineer III**
-https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-finops-engineer-iii
+**Legion: Senior Deal Desk Manager**
+https://weworkremotely.com/remote-jobs/legion-senior-deal-desk-manager
 
-**Affirm: Accounting Manager**
-https://weworkremotely.com/remote-jobs/affirm-accounting-manager
-
-**Twilio: Commercial Finance Manager, Carrier Relations**
-https://weworkremotely.com/remote-jobs/twilio-commercial-finance-manager-carrier-relations
-
-**Ledgy: Head of Design**
-https://weworkremotely.com/remote-jobs/ledgy-head-of-design
+**Bitwarden: Director, Revenue & Strategic Finance**
+https://weworkremotely.com/remote-jobs/bitwarden-director-revenue-strategic-finance
 
 --- BANCOS DE DADOS (SQL / NOSQL) ---
 
-**Sr. Technical Program Manager**
-https://jobicy.com/jobs/163628-sr-technical-program-manager
+**Lattice: Engineering Manager, Integrations**
+https://weworkremotely.com/remote-jobs/lattice-engineering-manager-integrations-1
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Customer Success Manager**
-https://jobicy.com/jobs/163672-customer-success-manager-64
+**Sales Director**
+https://jobicy.com/jobs/163807-sales-director
 
-**Senior Technical Project Manager (Base Infra)**
-https://jobicy.com/jobs/163640-senior-technical-project-manager-base-infra
+**Partner Sales Manager**
+https://jobicy.com/jobs/163802-partner-sales-manager-3
 
-**Okta: Regional Sales Manager (Bay Area)**
-https://weworkremotely.com/remote-jobs/okta-regional-sales-manager-bay-area
+**Renewals Account Manager**
+https://jobicy.com/jobs/163795-renewals-account-manager
 
-**Okta: Enterprise Account Executive, West**
-https://weworkremotely.com/remote-jobs/okta-enterprise-account-executive-west
+**Zscaler: Account Executive - Fed Civilian Healthcare**
+https://weworkremotely.com/remote-jobs/zscaler-account-executive-fed-civilian-healthcare
 
