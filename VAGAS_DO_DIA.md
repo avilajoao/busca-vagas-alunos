@@ -1,119 +1,127 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (22/11/2026)
+Segue nossa lista de vagas de hoje! (23/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Senior Customer Success - EMEA**
-https://jobicy.com/jobs/163849-senior-customer-success-emea
+**Lead Brand Designer**
+https://jobicy.com/jobs/163948-lead-brand-designer-2
 
-**Commercial Account Executive, Belgium**
-https://jobicy.com/jobs/163847-commercial-account-executive-belgium
+**Senior Platform Engineer, Core Platform Team (100% Remote within Poland)**
+https://jobicy.com/jobs/163943-senior-platform-engineer-core-platform-team-100-remote-within-poland
 
-**Senior SecOps Engineer**
-https://jobicy.com/jobs/163834-senior-secops-engineer-2
+**SMB Account Executive | France | Remote**
+https://jobicy.com/jobs/163939-smb-account-executive-france-remote
 
-**Lead Creative**
-https://jobicy.com/jobs/163833-lead-creative
+**Staff Technical Writer**
+https://jobicy.com/jobs/163938-staff-technical-writer
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Advanced Support Specialist - Payments, Thailand**
-https://jobicy.com/jobs/163793-advanced-support-specialist-payments-thailand
+**Dropbox: Full Stack Product Software Engineer**
+https://weworkremotely.com/remote-jobs/dropbox-full-stack-product-software-engineer
 
-**Glean: Designated Technical Support Engineer - West**
-https://weworkremotely.com/remote-jobs/glean-designated-technical-support-engineer-west
+**Lightbox Animation: VFX Supervisor**
+https://weworkremotely.com/remote-jobs/lightbox-animation-vfx-supervisor
 
-**Glean: Designated Technical Support Engineer - Central/East**
-https://weworkremotely.com/remote-jobs/glean-designated-technical-support-engineer-central-east
+**Coinbase: Compliance Investigations Associate**
+https://weworkremotely.com/remote-jobs/coinbase-compliance-investigations-associate
 
-**MetaMask: Senior Design Engineer**
-https://weworkremotely.com/remote-jobs/metamask-senior-design-engineer
+**Smartsheet: Sr. Software Engineer I (Remote Eligible)**
+https://weworkremotely.com/remote-jobs/smartsheet-sr-software-engineer-i-remote-eligible
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Principal Security Operations Analyst**
-https://jobicy.com/jobs/163845-principal-security-operations-analyst
+**MetaMask: Senior Manager, Application Security**
+https://weworkremotely.com/remote-jobs/metamask-senior-manager-application-security
 
-**Carrot: Manager, Product Design**
-https://weworkremotely.com/remote-jobs/carrot-manager-product-design
+**Okta: Solutions Engineer, Okta(Enterprise)**
+https://weworkremotely.com/remote-jobs/okta-solutions-engineer-okta-enterprise
 
-**Smartsheet: Software Engineer  (Remote Eligible in Bulgaria)**
-https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-remote-eligible-in-bulgaria
+**Gemini: Senior Software Engineer, Predictions (Mobile)**
+https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-predictions-mobile
+
+--- VUE.JS / NUXT ---
+
+**Okta: Senior SMB New Business Account Executive (West)**
+https://weworkremotely.com/remote-jobs/okta-senior-smb-new-business-account-executive-west
 
 --- JAVA / SPRING BOOT ---
 
-**Software Engineer (Remote - Contractor)**
-https://jobicy.com/jobs/163811-software-engineer-remote-contractor-2
-
-**Upgrade: Senior QA Automation Engineer - HELOC (LATAM)**
-https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-heloc-latam
-
-**Gemini: Senior Platform Engineer**
-https://weworkremotely.com/remote-jobs/gemini-senior-platform-engineer
+**Software Engineer, Security, Stablecoin**
+https://jobicy.com/jobs/163919-software-engineer-security-stablecoin-2
 
 --- C# / .NET ---
 
-**Carrot: Corporate Counsel, Commercial**
-https://weworkremotely.com/remote-jobs/carrot-corporate-counsel-commercial
+**Staff Software Engineer, Backend**
+https://jobicy.com/jobs/163980-staff-software-engineer-backend-3
 
-**Taste Labs: Operations Manager, Community**
-https://weworkremotely.com/remote-jobs/taste-labs-operations-manager-community
+**AI Engineer**
+https://www.arbeitnow.nl/jobs/companies/anywherenow/remote-ai-engineer-rotterdam-22878
 
-**Resolv.Global: Remote Customer Support Specialist**
-https://weworkremotely.com/remote-jobs/resolv-global-remote-customer-support-specialist
+**C4Media Inc.: Enterprise Account Executive**
+https://weworkremotely.com/remote-jobs/c4media-inc-enterprise-account-executive
+
+**D2B: Bookkeeper / Financial Administrator (Spa and Maintenance)**
+https://weworkremotely.com/remote-jobs/d2b-bookkeeper-financial-administrator-spa-and-maintenance
 
 --- PYTHON / DJANGO / FASTAPI ---
 
+**Data Engineering Intern**
+https://jobicy.com/jobs/163972-data-engineering-intern
+
+**NOC Incident Manager**
+https://jobicy.com/jobs/163952-noc-incident-manager
+
+**NOC Engineer Level 2**
+https://jobicy.com/jobs/163950-noc-engineer-level-2
+
 **Actuary, UK**
-https://jobicy.com/jobs/163842-actuary-uk
-
-**Tech Lead**
-https://jobicy.com/jobs/163838-tech-lead-3
-
-**Senior Legal Operations Executive (fully remote!)**
-https://jobicy.com/jobs/163810-senior-legal-operations-executive-fully-remote
-
-**Customer Success Producer (South Korea)**
-https://jobicy.com/jobs/163809-customer-success-producer-south-korea
+https://jobicy.com/jobs/163945-actuary-uk-2
 
 --- GO ---
 
-**Lead Instructor, EMEA**
-https://jobicy.com/jobs/163841-lead-instructor-emea
+**Technical Product Manager**
+https://jobicy.com/jobs/163957-technical-product-manager-5
 
-**Staff Infrastructure Engineer | Feeld**
-https://jobicy.com/jobs/163821-staff-infrastructure-engineer-feeld
+**Product Lead - AI Neobank App**
+https://jobicy.com/jobs/163955-product-lead-ai-neobank-app
 
-**Regional Sales Director, Singapore**
-https://jobicy.com/jobs/163800-regional-sales-director-singapore-2
+**Senior Platform Engineer, Core Platform Team (100% Remote within Spain)**
+https://jobicy.com/jobs/163937-senior-platform-engineer-core-platform-team-100-remote-within-spain
 
-**English to Belarusian Review Lead for UI, Marketing & Product Content**
-https://jobicy.com/jobs/163798-english-to-belarusian-review-lead-for-ui-marketing-product-content
+**Senior Marketing Automation Specialist**
+https://jobicy.com/jobs/163928-senior-marketing-automation-specialist
 
 --- RUBY ON RAILS ---
 
-**Legion: Senior Deal Desk Manager**
-https://weworkremotely.com/remote-jobs/legion-senior-deal-desk-manager
+**Maven Clinic: Network Operations Manager, Contracting**
+https://weworkremotely.com/remote-jobs/maven-clinic-network-operations-manager-contracting
 
-**Bitwarden: Director, Revenue & Strategic Finance**
-https://weworkremotely.com/remote-jobs/bitwarden-director-revenue-strategic-finance
+**BeyondTrust: Senior Security Technical Program Manager**
+https://weworkremotely.com/remote-jobs/beyondtrust-senior-security-technical-program-manager
+
+**Gemini: Senior Software Engineer, Money**
+https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-money
 
 --- BANCOS DE DADOS (SQL / NOSQL) ---
 
-**Lattice: Engineering Manager, Integrations**
-https://weworkremotely.com/remote-jobs/lattice-engineering-manager-integrations-1
+**Senior Software Engineer (Platform Engineer), Cloud Storage**
+https://jobicy.com/jobs/163975-senior-software-engineer-platform-engineer-cloud-storage
+
+**Reddit: Engineering Manager, Ranking Platform**
+https://weworkremotely.com/remote-jobs/reddit-engineering-manager-ranking-platform
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Sales Director**
-https://jobicy.com/jobs/163807-sales-director
+**Senior Solutions Architect I, Pre-Sales - UK Defence & Intelligence**
+https://www.arbeitnow.co.uk/jobs/companies/planetlabs/remote-senior-solutions-architect-i-pre-sales-uk-defence-intelligence-15004
 
-**Partner Sales Manager**
-https://jobicy.com/jobs/163802-partner-sales-manager-3
+**Mixpanel: Senior Customer Engineer - LATAM (Spanish Speaking)**
+https://weworkremotely.com/remote-jobs/mixpanel-senior-customer-engineer-latam-spanish-speaking
 
-**Renewals Account Manager**
-https://jobicy.com/jobs/163795-renewals-account-manager
+**Grafana Labs: Engineering Manager - Grafana Infrastructure (Remote, Ireland)**
+https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-infrastructure-remote-ireland
 
-**Zscaler: Account Executive - Fed Civilian Healthcare**
-https://weworkremotely.com/remote-jobs/zscaler-account-executive-fed-civilian-healthcare
+**Grafana Labs: Engineering Manager - Grafana Infrastructure (Remote, Canada)**
+https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-infrastructure-remote-canada
 
