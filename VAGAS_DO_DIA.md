@@ -1,138 +1,124 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (25/11/2026)
+Segue nossa lista de vagas de hoje! (26/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**Senior Software Engineer**
-https://jobicy.com/jobs/164287-senior-software-engineer-31
+**VP, Sales**
+https://jobicy.com/jobs/164411-vp-sales
 
-**Team Lead, Software Development**
-https://jobicy.com/jobs/164263-team-lead-software-development
+**Staff Software Engineer - Revenue Intelligence**
+https://jobicy.com/jobs/164407-staff-software-engineer-revenue-intelligence
 
-**Senior Backend Software Engineer | Identity Foundations**
-https://jobicy.com/jobs/164248-senior-backend-software-engineer-identity-foundations
+**Account Executive - Banking vertical**
+https://jobicy.com/jobs/164406-account-executive-banking-vertical
 
-**Director AI Native Product Builder | New Ventures**
-https://jobicy.com/jobs/164246-director-ai-native-product-builder-new-ventures
+**Senior Forward Deployed Engineer — Full Stack & AI**
+https://jobicy.com/jobs/164404-senior-forward-deployed-engineer-full-stack-ai
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Technical Account Manager (AI Driven) - Curveglass**
-https://jobicy.com/jobs/164275-technical-account-manager-ai-driven-curveglass
-
-**Regional Sales Manager, SLED (Chicago or Texas)**
-https://jobicy.com/jobs/164265-regional-sales-manager-sled-chicago-or-texas
-
-**Full Stack Developer - Java & React (f/m/d)**
-https://jobicy.com/jobs/164237-full-stack-developer-java-react-f-m-d-3
-
-**Fullstack Software Engineer - Core Engineering**
-https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-469912
+**Ping Identity: Principal Software Engineer**
+https://weworkremotely.com/remote-jobs/ping-identity-principal-software-engineer
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Staff Software Engineer, Performance- Weights & Biases**
-https://jobicy.com/jobs/164273-staff-software-engineer-performance-weights-biases
+**Ping Identity: Partner Sales Engineer (France)**
+https://weworkremotely.com/remote-jobs/ping-identity-partner-sales-engineer-france
 
-**Senior Solutions Architect**
-https://jobicy.com/jobs/164269-senior-solutions-architect-5
+**Cribl: Principal Product Security Engineer**
+https://weworkremotely.com/remote-jobs/cribl-principal-product-security-engineer
 
-**Full Stack Developer (node.js)**
-https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-full-stack-developer-nodejs-ipswich-333211
-
-**MetaMask: Senior Software Engineer: Assets**
-https://weworkremotely.com/remote-jobs/metamask-senior-software-engineer-assets
+**Cribl: Partner Solutions Engineer, Southern Europe**
+https://weworkremotely.com/remote-jobs/cribl-partner-solutions-engineer-southern-europe
 
 --- VUE.JS / NUXT ---
 
-**Senior Engineering Team Lead**
-https://www.arbeitnow.fr/jobs/companies/adikteev/remote-senior-engineering-team-lead-paris-127335
-
---- ANGULAR ---
-
-**Fullstack Software Engineer - Core Engineering**
-https://www.arbeitnow.fr/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-188174
+**Zscaler: AI Ethics & Human Impact Lead**
+https://weworkremotely.com/remote-jobs/zscaler-ai-ethics-human-impact-lead
 
 --- JAVA / SPRING BOOT ---
 
-**(Senior) Java Test Automation Engineer (m/f/d)**
-https://jobicy.com/jobs/164241-senior-java-test-automation-engineer-m-f-d
+**Fivetran : Principal Software Engineer, Data Lakes**
+https://weworkremotely.com/remote-jobs/fivetran-principal-software-engineer-data-lakes
 
-**Sumo Logic: Principal Software Engineer**
-https://weworkremotely.com/remote-jobs/sumo-logic-principal-software-engineer
-
-**Wrike: Staff Software Engineer**
-https://weworkremotely.com/remote-jobs/wrike-staff-software-engineer-1
-
-**Wrike: Staff Software Engineer**
-https://weworkremotely.com/remote-jobs/wrike-staff-software-engineer
+**Datadog: Enterprise Sales Engineer - Germany**
+https://weworkremotely.com/remote-jobs/datadog-enterprise-sales-engineer-germany
 
 --- C# / .NET ---
 
-**Davies: Business Operations Manager**
-https://weworkremotely.com/remote-jobs/davies-business-operations-manager
+**ElevenLabs: Sales Development - UK/I**
+https://weworkremotely.com/remote-jobs/elevenlabs-sales-development-uk-i
+
+**Jeeves: Head of Product - Platform, Growth & Spend Management**
+https://weworkremotely.com/remote-jobs/jeeves-head-of-product-platform-growth-spend-management
+
+**Matillion: Senior Pricing & Analytics Manager**
+https://weworkremotely.com/remote-jobs/matillion-senior-pricing-analytics-manager
+
+**Dun & Bradstreet: Pursuit & Channel Operations Manager (R-20201)**
+https://weworkremotely.com/remote-jobs/dun-bradstreet-pursuit-channel-operations-manager-r-20201
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Software Engineer III | Framework**
-https://jobicy.com/jobs/164274-software-engineer-iii-framework
+**Agent Engineer - US Remote**
+https://jobicy.com/jobs/164452-agent-engineer-us-remote
 
-**Engineering Manager**
-https://jobicy.com/jobs/164252-engineering-manager-17
+**Senior Software Engineer, Data Infrastructure (RDBMS)**
+https://jobicy.com/jobs/164449-senior-software-engineer-data-infrastructure-rdbms
 
-**Senior Python Backend Engineer (m/f/x)**
-https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-python-backend-engineer-berlin-277686
+**Enterprise Support Engineer, APAC**
+https://jobicy.com/jobs/164420-enterprise-support-engineer-apac
 
-**Clover Health: Enterprise Performance Lead**
-https://weworkremotely.com/remote-jobs/clover-health-enterprise-performance-lead
+**Principal Machine Learning Engineer**
+https://jobicy.com/jobs/164398-principal-machine-learning-engineer-2
 
 --- GO ---
 
-**SVP, North America Sales**
-https://jobicy.com/jobs/164291-svp-north-america-sales
+**Talent Acquisition Partner/Senior Recruiter, Go to Market (12 Month Contract)**
+https://jobicy.com/jobs/164451-talent-acquisition-partner-senior-recruiter-go-to-market-12-month-contract
 
-**Account Executive, Field Sales**
-https://jobicy.com/jobs/164266-account-executive-field-sales
+**Deployment Strategist, Public Sector (Regulators)**
+https://jobicy.com/jobs/164444-deployment-strategist-public-sector-regulators
 
-**Manager, Technical Enablement**
-https://jobicy.com/jobs/164258-manager-technical-enablement
+**Cobalt Core Pentester**
+https://jobicy.com/jobs/164416-cobalt-core-pentester-2
 
-**Business Development Representative I (m/f/d)**
-https://jobicy.com/jobs/164243-business-development-representative-i-m-f-d
+**Account Executive | HCLS | New Logo**
+https://jobicy.com/jobs/164414-account-executive-hcls-new-logo
 
 --- RUBY ON RAILS ---
 
-**Associate Customer Support Specialist**
-https://jobicy.com/jobs/164290-associate-customer-support-specialist
+**GTM AI Lead**
+https://jobicy.com/jobs/164421-gtm-ai-lead
 
-**Business Development Lead**
-https://jobicy.com/jobs/164271-business-development-lead
+**Associate Director, Music Policy, Spotify for Artists**
+https://jobicy.com/jobs/164419-associate-director-music-policy-spotify-for-artists
 
-**Wrike: Head of Finance**
-https://weworkremotely.com/remote-jobs/wrike-head-of-finance
+**Bybit: Employee Experience Director**
+https://weworkremotely.com/remote-jobs/bybit-employee-experience-director
+
+**Databricks: Lead Solutions Architect - Generative AI (EMEA Emerging DNB)**
+https://weworkremotely.com/remote-jobs/databricks-lead-solutions-architect-generative-ai-emea-emerging-dnb
 
 --- BANCOS DE DADOS (SQL / NOSQL) ---
 
-**Databricks: Lakebase Associate Director Specialist-Manufacturing**
-https://weworkremotely.com/remote-jobs/databricks-lakebase-associate-director-specialist-manufacturing
+**Databricks: Lakebase Sales Specialist, Nordics**
+https://weworkremotely.com/remote-jobs/databricks-lakebase-sales-specialist-nordics
 
-**Databricks: Lakebase Associate Director, Financial Services**
-https://weworkremotely.com/remote-jobs/databricks-lakebase-associate-director-financial-services
-
-**Customer.io: Senior Software Engineer, Backend**
-https://weworkremotely.com/remote-jobs/customer-io-senior-software-engineer-backend
+**Databricks: Lakebase Associate Director Specialist-MFG**
+https://weworkremotely.com/remote-jobs/databricks-lakebase-associate-director-specialist-mfg
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Sr. Customer Success Manager**
-https://jobicy.com/jobs/164294-sr-customer-success-manager-10
+**Product Manager, Platform**
+https://jobicy.com/jobs/164391-product-manager-platform
 
-**Staff Business Systems Engineer – Tax Technology**
-https://jobicy.com/jobs/164268-staff-business-systems-engineer-tax-technology
+**MSP Account Executive - DACH**
+https://www.arbeitnow.com/jobs/companies/rubrik/remote-msp-account-executive-dach-338050
 
-**Associate Counsel, Vendor and Provider Contracting**
-https://jobicy.com/jobs/164251-associate-counsel-vendor-and-provider-contracting
+**Fivetran : Regional Director**
+https://weworkremotely.com/remote-jobs/fivetran-regional-director
 
-**Director, Enterprise Sales Field Operations, Americas**
-https://jobicy.com/jobs/164250-director-enterprise-sales-field-operations-americas
+**Anthropic: Corporate Network Engineer**
+https://weworkremotely.com/remote-jobs/anthropic-corporate-network-engineer
 
