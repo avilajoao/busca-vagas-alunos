@@ -1,124 +1,114 @@
 **Hello Guys!**
-Segue nossa lista de vagas de hoje! (26/11/2026)
+Segue nossa lista de vagas de hoje! (27/11/2026)
 
 --- NODE.JS / EXPRESS / NESTJS ---
 
-**VP, Sales**
-https://jobicy.com/jobs/164411-vp-sales
+**Talent Sourcer**
+https://jobicy.com/jobs/164563-talent-sourcer
 
-**Staff Software Engineer - Revenue Intelligence**
-https://jobicy.com/jobs/164407-staff-software-engineer-revenue-intelligence
+**Director, Customer Adoption & Digital Success**
+https://jobicy.com/jobs/164529-director-customer-adoption-digital-success
 
-**Account Executive - Banking vertical**
-https://jobicy.com/jobs/164406-account-executive-banking-vertical
+**Senior Customer Success Manager - EMEA**
+https://jobicy.com/jobs/164523-senior-customer-success-manager-emea-2
 
-**Senior Forward Deployed Engineer — Full Stack & AI**
-https://jobicy.com/jobs/164404-senior-forward-deployed-engineer-full-stack-ai
+**Background Investigator**
+https://jobicy.com/jobs/164520-background-investigator-2
 
 --- REACT / NEXT.JS / REACT NATIVE ---
 
-**Ping Identity: Principal Software Engineer**
-https://weworkremotely.com/remote-jobs/ping-identity-principal-software-engineer
+**Senior Software Engineer**
+https://jobicy.com/jobs/164556-senior-software-engineer-32
+
+**Customer.io: Staff Software Engineer, Backend**
+https://weworkremotely.com/remote-jobs/customer-io-staff-software-engineer-backend
+
+**Sezzle: Junior Software Engineer with Accounting Experience (LATAM)**
+https://weworkremotely.com/remote-jobs/sezzle-junior-software-engineer-with-accounting-experience-latam
+
+**Clipboard: Workforce Management - Real Time Analyst**
+https://weworkremotely.com/remote-jobs/clipboard-workforce-management-real-time-analyst
 
 --- TYPESCRIPT / JAVASCRIPT ---
 
-**Ping Identity: Partner Sales Engineer (France)**
-https://weworkremotely.com/remote-jobs/ping-identity-partner-sales-engineer-france
+**Truelogic Software: Senior Data Engineer - Real Estate - Mexico**
+https://weworkremotely.com/remote-jobs/truelogic-software-senior-data-engineer-real-estate-mexico
 
-**Cribl: Principal Product Security Engineer**
-https://weworkremotely.com/remote-jobs/cribl-principal-product-security-engineer
-
-**Cribl: Partner Solutions Engineer, Southern Europe**
-https://weworkremotely.com/remote-jobs/cribl-partner-solutions-engineer-southern-europe
-
---- VUE.JS / NUXT ---
-
-**Zscaler: AI Ethics & Human Impact Lead**
-https://weworkremotely.com/remote-jobs/zscaler-ai-ethics-human-impact-lead
+**Truelogic Software: Senior QA Automation Engineer - Real Estate**
+https://weworkremotely.com/remote-jobs/truelogic-software-senior-qa-automation-engineer-real-estate
 
 --- JAVA / SPRING BOOT ---
 
-**Fivetran : Principal Software Engineer, Data Lakes**
-https://weworkremotely.com/remote-jobs/fivetran-principal-software-engineer-data-lakes
-
-**Datadog: Enterprise Sales Engineer - Germany**
-https://weworkremotely.com/remote-jobs/datadog-enterprise-sales-engineer-germany
+**Glean: Enterprise Solutions Engineer, East**
+https://weworkremotely.com/remote-jobs/glean-enterprise-solutions-engineer-east
 
 --- C# / .NET ---
 
-**ElevenLabs: Sales Development - UK/I**
-https://weworkremotely.com/remote-jobs/elevenlabs-sales-development-uk-i
+**BeyondTrust: Sr Director, Engineering**
+https://weworkremotely.com/remote-jobs/beyondtrust-sr-director-engineering
 
-**Jeeves: Head of Product - Platform, Growth & Spend Management**
-https://weworkremotely.com/remote-jobs/jeeves-head-of-product-platform-growth-spend-management
+**TRM Labs: Lead Product Manager**
+https://weworkremotely.com/remote-jobs/trm-labs-lead-product-manager
 
-**Matillion: Senior Pricing & Analytics Manager**
-https://weworkremotely.com/remote-jobs/matillion-senior-pricing-analytics-manager
+**Hopper: Growth Product Manager, HTS Media**
+https://weworkremotely.com/remote-jobs/hopper-growth-product-manager-hts-media
 
-**Dun & Bradstreet: Pursuit & Channel Operations Manager (R-20201)**
-https://weworkremotely.com/remote-jobs/dun-bradstreet-pursuit-channel-operations-manager-r-20201
+**Vultr: Senior Technical Program Manager, Physical Security**
+https://weworkremotely.com/remote-jobs/vultr-senior-technical-program-manager-physical-security
 
 --- PYTHON / DJANGO / FASTAPI ---
 
-**Agent Engineer - US Remote**
-https://jobicy.com/jobs/164452-agent-engineer-us-remote
+**Senior Sales Compensation Analyst**
+https://jobicy.com/jobs/164552-senior-sales-compensation-analyst-2
 
-**Senior Software Engineer, Data Infrastructure (RDBMS)**
-https://jobicy.com/jobs/164449-senior-software-engineer-data-infrastructure-rdbms
+**Senior SRE / Infrastructure Engineer (m/f/d)**
+https://www.arbeitnow.com/jobs/companies/simscale-gmbh/senior-sre-infrastructure-engineer-munich-295676
 
-**Enterprise Support Engineer, APAC**
-https://jobicy.com/jobs/164420-enterprise-support-engineer-apac
+**Keeper Security: Google Cloud & Gemini Enterprise Administrator**
+https://weworkremotely.com/remote-jobs/keeper-security-google-cloud-gemini-enterprise-administrator
 
-**Principal Machine Learning Engineer**
-https://jobicy.com/jobs/164398-principal-machine-learning-engineer-2
+**OKX: Head of Tax Information Reporting**
+https://weworkremotely.com/remote-jobs/okx-head-of-tax-information-reporting-1
 
 --- GO ---
 
-**Talent Acquisition Partner/Senior Recruiter, Go to Market (12 Month Contract)**
-https://jobicy.com/jobs/164451-talent-acquisition-partner-senior-recruiter-go-to-market-12-month-contract
+**Brazilian Subject Matter Expert in TV & Movies**
+https://jobicy.com/jobs/164570-brazilian-subject-matter-expert-in-tv-movies
 
-**Deployment Strategist, Public Sector (Regulators)**
-https://jobicy.com/jobs/164444-deployment-strategist-public-sector-regulators
+**Brazilian Subject Matter Expert in Home & Garden**
+https://jobicy.com/jobs/164568-brazilian-subject-matter-expert-in-home-garden
 
-**Cobalt Core Pentester**
-https://jobicy.com/jobs/164416-cobalt-core-pentester-2
+**Brazilian Subject Matter Expert in Games, Puzzles & Play**
+https://jobicy.com/jobs/164567-brazilian-subject-matter-expert-in-games-puzzles-play
 
-**Account Executive | HCLS | New Logo**
-https://jobicy.com/jobs/164414-account-executive-hcls-new-logo
+**Brazilian Subject Matter Expert in Fashion & Style**
+https://jobicy.com/jobs/164566-brazilian-subject-matter-expert-in-fashion-style
 
 --- RUBY ON RAILS ---
 
-**GTM AI Lead**
-https://jobicy.com/jobs/164421-gtm-ai-lead
+**Tilt: Manager, Strategic Sourcing**
+https://weworkremotely.com/remote-jobs/tilt-manager-strategic-sourcing
 
-**Associate Director, Music Policy, Spotify for Artists**
-https://jobicy.com/jobs/164419-associate-director-music-policy-spotify-for-artists
+**Volkswagen AG: Middle Contact Center Agent (Roadside Assistance)**
+https://weworkremotely.com/remote-jobs/volkswagen-ag-middle-contact-center-agent-roadside-assistance
 
-**Bybit: Employee Experience Director**
-https://weworkremotely.com/remote-jobs/bybit-employee-experience-director
+**One World Global Services: Greek: Wolof**
+https://weworkremotely.com/remote-jobs/one-world-global-services-greek-wolof
 
-**Databricks: Lead Solutions Architect - Generative AI (EMEA Emerging DNB)**
-https://weworkremotely.com/remote-jobs/databricks-lead-solutions-architect-generative-ai-emea-emerging-dnb
-
---- BANCOS DE DADOS (SQL / NOSQL) ---
-
-**Databricks: Lakebase Sales Specialist, Nordics**
-https://weworkremotely.com/remote-jobs/databricks-lakebase-sales-specialist-nordics
-
-**Databricks: Lakebase Associate Director Specialist-MFG**
-https://weworkremotely.com/remote-jobs/databricks-lakebase-associate-director-specialist-mfg
+**Cypress Global Services, Inc: Customer Support Rep (CSR) US Night shift - Work from home**
+https://weworkremotely.com/remote-jobs/cypress-global-services-inc-customer-support-rep-csr-us-night-shift-work-from-home
 
 --- DEVOPS & NUVEM (DOCKER / AWS / K8S) ---
 
-**Product Manager, Platform**
-https://jobicy.com/jobs/164391-product-manager-platform
+**Senior Analytics Engineer, Finance**
+https://jobicy.com/jobs/164543-senior-analytics-engineer-finance
 
-**MSP Account Executive - DACH**
-https://www.arbeitnow.com/jobs/companies/rubrik/remote-msp-account-executive-dach-338050
+**Tax Manager**
+https://jobicy.com/jobs/164542-tax-manager-2
 
-**Fivetran : Regional Director**
-https://weworkremotely.com/remote-jobs/fivetran-regional-director
+**Staff Software Engineer**
+https://jobicy.com/jobs/164537-staff-software-engineer-18
 
-**Anthropic: Corporate Network Engineer**
-https://weworkremotely.com/remote-jobs/anthropic-corporate-network-engineer
+**Enterprise Sales Engineer - UK**
+https://jobicy.com/jobs/164519-enterprise-sales-engineer-uk-3
 
